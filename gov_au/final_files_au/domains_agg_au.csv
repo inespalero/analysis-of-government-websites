@@ -1,0 +1,17 @@
+domain,docs,has_privacy,has_cookies,has_legal,has_data_prot,privacy_controller_present,dpo_contact_present,rights_sum,rights_avg_per_doc,rights_general_statement,legal_bases_sum,automated_decisions,retention_present,recipients_sum,complaint_authority,cookie_third_party_sum,cookie_mgmt_instructions,cookie_ownership_mixed,legal_ip_notice,legal_liability,max_transfer_scope_rank,transfer_scope,consent_mechanism
+dhs.sa.gov.au,1,True,False,False,False,True,True,1,1.0,False,2,False,False,8,False,0,False,False,False,False,,,
+donotcall.gov.au,2,True,False,True,False,True,True,1,1.0,True,4,False,True,0,False,0,False,False,True,True,,,
+exportfinance.gov.au,3,True,False,True,False,True,True,4,2.0,False,13,True,True,26,False,0,False,False,True,True,0.0,NONE,
+fishing.tas.gov.au,1,False,False,False,True,False,True,0,0.0,False,0,False,True,1,False,0,False,False,False,False,,,
+fpa.tas.gov.au,1,False,False,False,True,False,False,0,0.0,False,0,False,True,1,False,0,False,False,False,False,,,
+health.vic.gov.au,2,True,False,False,False,True,True,4,2.0,False,9,False,True,36,False,0,False,False,False,False,0.0,NONE,
+humanrights.gov.au,1,True,False,False,False,True,True,2,2.0,True,7,False,True,35,False,0,False,False,False,False,,,
+indigenous.gov.au,2,True,False,False,False,True,True,4,2.0,False,5,False,False,19,False,0,False,False,False,False,,,
+ipaustralia.gov.au,1,True,False,False,False,True,False,2,2.0,False,11,False,True,11,False,0,False,False,False,False,,,
+justice.qld.gov.au,4,True,False,True,False,True,True,4,2.0,False,5,False,True,7,False,0,False,False,False,True,,,
+migration.sa.gov.au,2,True,False,True,False,True,True,0,0.0,False,1,False,True,2,False,0,False,False,False,True,,,
+museumsvictoria.com.au,1,False,False,True,False,False,True,0,,False,0,False,True,0,False,0,False,False,True,True,,,
+parks.tas.gov.au,1,False,False,False,True,False,True,0,0.0,False,0,False,True,1,False,0,False,False,False,False,,,
+police.sa.gov.au,1,True,False,False,False,True,False,0,0.0,False,1,False,True,2,False,0,False,False,False,False,,,
+productsafety.gov.au,2,True,True,False,False,True,True,3,3.0,False,10,False,True,17,False,3,True,True,False,False,,,none
+schoolbuses.wa.gov.au,2,True,False,True,False,False,True,0,0.0,False,0,False,True,0,False,0,False,False,False,False,,,
