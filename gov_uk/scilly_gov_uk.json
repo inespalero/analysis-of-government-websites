@@ -1,0 +1,89 @@
+{
+  "domain": "scilly.gov.uk",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "js-agent.newrelic.com",
+    "region1.google-analytics.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "oir6645ip5M8fJkCgP9uq899qenh-AFbuX8DqU7oS-OpMO03EVxp0x2ppIB3%2COni",
+      "domain": "www.pendle.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestCookie",
+      "value": "Test",
+      "domain": ".www.pendle.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NotificationViewed",
+      "value": "false",
+      "domain": "telford.gov.uk",
+      "path": "/",
+      "expires": 1755388800,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinityCORS",
+      "value": "4371de50e915390cab273d9c304ab3c7",
+      "domain": "telfbot-prod.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinity",
+      "value": "4371de50e915390cab273d9c304ab3c7",
+      "domain": "telfbot-prod.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_RX634LXC06",
+      "value": "GS2.1.s1755336000$o1$g0$t1755336000$j60$l0$h0",
+      "domain": ".telford.gov.uk",
+      "path": "/",
+      "expires": 1818408000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.348088067.1755336001",
+      "domain": ".telford.gov.uk",
+      "path": "/",
+      "expires": 1818408000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": false
+}

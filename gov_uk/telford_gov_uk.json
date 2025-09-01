@@ -1,0 +1,145 @@
+{
+  "domain": "telford.gov.uk",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "ajax.googleapis.com",
+    "cdn.jsdelivr.net",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "js.monitor.azure.com",
+    "newsroom.telford.gov.uk",
+    "plus.browsealoud.com",
+    "region1.google-analytics.com",
+    "telfbot-prod.telford.gov.uk",
+    "uksouth-1.in.applicationinsights.azure.com",
+    "www.browsealoud.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "oir6645ip5M8fJkCgP9uq899qenh-AFbuX8DqU7oS-OpMO03EVxp0x2ppIB3%2COni",
+      "domain": "www.pendle.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestCookie",
+      "value": "Test",
+      "domain": ".www.pendle.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_3706062",
+      "value": "eyJpZCI6IjdlOTY3ZTNlLTA2YjYtNWE5Ny1iM2JiLTBiODAwZmNlZTA4ZiIsImNyZWF0ZWQiOjE3NTUzMzYwMDExNjYsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".pendle.gov.uk",
+      "path": "/",
+      "expires": 1786872001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_3706062",
+      "value": "eyJpZCI6IjZiZTZhNWNmLTBjODQtNGZhMy05ZGRhLTFkNWRlYmI1ZGYwOCIsImMiOjE3NTUzMzYwMDExNjcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0=",
+      "domain": ".pendle.gov.uk",
+      "path": "/",
+      "expires": 1755337801,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinityCORS",
+      "value": "4371de50e915390cab273d9c304ab3c7",
+      "domain": "telfbot-prod.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinity",
+      "value": "4371de50e915390cab273d9c304ab3c7",
+      "domain": "telfbot-prod.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ARRAffinity",
+      "value": "a374f049af0321e021a66f6ba57004d2e31d3140f1d09889270a08e39d2850a6",
+      "domain": ".newsroom.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ARRAffinitySameSite",
+      "value": "a374f049af0321e021a66f6ba57004d2e31d3140f1d09889270a08e39d2850a6",
+      "domain": ".newsroom.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_9H3T7N2FZ0",
+      "value": "GS2.1.s1755336000$o1$g0$t1755336000$j60$l0$h0",
+      "domain": ".scilly.gov.uk",
+      "path": "/",
+      "expires": 1818408000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.195047223.1755336000",
+      "domain": ".scilly.gov.uk",
+      "path": "/",
+      "expires": 1818408000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.741296279.1755336001",
+      "domain": ".scilly.gov.uk",
+      "path": "/",
+      "expires": 1755422400,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_49509845_1",
+      "value": "1",
+      "domain": ".scilly.gov.uk",
+      "path": "/",
+      "expires": 1755336060,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}
