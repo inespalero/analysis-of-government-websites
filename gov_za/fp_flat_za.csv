@@ -1,0 +1,24 @@
+domain,fp_detected,fp_methods_total,fp_canvas,fp_audioCtx,fp_rtc,fp_storage,status,http_status
+www.karoohoogland.gov.za,1,1,0,0,0,1,OK,200.0
+edumbe.gov.za,1,2,1,0,0,1,OK,200.0
+justice.gov.za,1,1,0,0,0,1,OK,200.0
+khaima.gov.za,1,2,1,0,0,1,OK,200.0
+www.ehlanzeni.gov.za,1,1,0,0,0,1,OK,200.0
+www.andm.gov.za,0,0,0,0,0,0,OK,200.0
+emfuleni.gov.za,1,1,0,0,0,1,OK,200.0
+www.dannhauser.gov.za,1,1,0,0,0,1,OK,200.0
+fsl.gov.za,1,1,0,0,0,1,OK,200.0
+kznlegislature.gov.za,1,2,1,0,0,1,OK,200.0
+www.capewinelands.gov.za,1,1,0,0,0,1,OK,200.0
+www.dihlabeng.gov.za,1,1,0,0,0,1,OK,200.0
+www.gardenroute.gov.za,1,1,0,0,0,1,OK,200.0
+ecprov.gov.za,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://ecprov.gov.za/"", waiting until ""load""
+",
+www.george.gov.za,1,1,0,0,0,1,OK,200.0
+dikgatlong.gov.za,0,0,0,0,0,0,OK,200.0
+dkm.gov.za,0,0,0,0,0,0,OK,200.0
+dirco.gov.za,1,1,0,0,0,1,OK,200.0
+www.govanmbeki.gov.za,1,1,0,0,0,1,OK,200.0
+www.health.gov.za,1,1,0,0,0,1,OK,200.0
