@@ -1,0 +1,11 @@
+domain,docs,has_privacy,has_cookies,has_legal,has_data_prot,privacy_controller_present,dpo_contact_present,rights_sum,rights_avg_per_doc,rights_general_statement,legal_bases_sum,automated_decisions,retention_present,recipients_sum,complaint_authority,cookie_third_party_sum,cookie_mgmt_instructions,cookie_ownership_mixed,legal_ip_notice,legal_liability,max_transfer_scope_rank,transfer_scope,consent_mechanism
+ceodelhi.gov.in,2,True,False,True,False,False,True,0,0.0,False,0,False,True,0,False,0,False,False,False,False,,,
+chemexcil.in,2,True,False,True,False,True,True,3,3.0,False,3,False,True,11,False,0,False,False,True,True,,,
+delhipolice.gov.in,1,True,False,False,False,True,False,0,0.0,False,0,False,True,2,False,0,False,False,False,False,,,
+dic.gov.in,2,True,False,True,False,True,True,0,0.0,False,6,False,True,1,False,0,False,False,True,True,0.0,NONE,
+fabkerala.gov.in,1,True,False,False,False,False,False,0,0.0,False,0,False,False,0,False,0,False,False,False,False,,,
+goaelectricity.gov.in,2,True,False,True,False,True,True,0,0.0,False,0,False,True,1,False,0,False,False,False,True,,,
+iirs.gov.in,2,True,False,True,False,True,True,0,0.0,False,0,False,True,2,False,0,False,False,True,True,0.0,NONE,
+mahafireservice.gov.in,1,True,False,False,False,True,False,0,0.0,False,0,False,False,0,False,0,False,False,False,False,,,
+suratmunicipal.gov.in,2,True,False,True,False,True,True,0,0.0,False,0,False,True,1,False,0,False,False,True,True,,,
+usof.gov.in,2,True,False,True,False,False,True,0,0.0,False,1,False,True,1,False,0,False,False,False,True,0.0,NONE,

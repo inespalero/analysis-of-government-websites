@@ -1,0 +1,99 @@
+{
+  "domain": "genderpark.gov.in",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "sp-ao.shortpixel.ai",
+    "stackpath.bootstrapcdn.com",
+    "www.google.com",
+    "www.gstatic.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "rgou5rr3xjb3ljjxixoex1yz",
+      "domain": "www.suratmunicipal.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1927295887.1755285057",
+      "domain": ".suratmunicipal.gov.in",
+      "path": "/",
+      "expires": 1818357057,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_39997JPBB2",
+      "value": "GS2.1.s1755285057$o1$g0$t1755285057$j60$l0$h0",
+      "domain": ".suratmunicipal.gov.in",
+      "path": "/",
+      "expires": 1818357057,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "525=AXNwxZ3zJ7HWaXuOAXyqKz0yG2Kk1r9A5WhwnaJwk2c5fnKonptLT5JVS0K1fWJRCl2qhGcs8hRbLTrtzSNw3BmhGktfYtpQ27bK1cV1jwG9CGhxNRQ04plinv5hNdopwPpgndxfSypYLI_kQrVgdakq9e0wJroFHpZGaOK-Z3YvOWhql4ln10f5eeQpwGAaS5VMIfjwmZsTluPyPl4Uy_Qcy4g",
+      "domain": ".translate-pa.googleapis.com",
+      "path": "/",
+      "expires": 1771096251,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "9quh0tt5n28ib2oac3359kqgo3",
+      "domain": "www.ranaghat.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "jqKeDdaeeffy8i3WYIq8_Z_yGkg7OhY3vAY58HCXZks-1755285056-1.0.1.1-w.iDNzBi3agZxMulsPd42k4EfJiOh8uqQidPFz3Q2G7v6qe2H_AjTkwxzQaX23qtdxBzVx3x4icLxXAkFlBILTgJ.IVDrq_JFBtc7SYabyE",
+      "domain": ".w3.org",
+      "path": "/",
+      "expires": 1755286856,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANMylNAdscD3AjanliWKJukk1fyu2GCsXU6EPD_YgbxCbng5iYi2HG_tagASKtg8QbNNFqzXFWYM2yGycv5cfpE",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1770837055,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "2xp54cgrzy2b20omma5sizqx",
+      "domain": "goaelectricity.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}

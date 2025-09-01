@@ -1,0 +1,229 @@
+{
+  "domain": "apfinance.gov.in",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "cdnjs.cloudflare.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "translate-pa.googleapis.com",
+    "translate.googleapis.com",
+    "www.gstatic.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "visited",
+      "value": "true",
+      "domain": "mahafireservice.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "rgou5rr3xjb3ljjxixoex1yz",
+      "domain": "www.suratmunicipal.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1927295887.1755285057",
+      "domain": ".suratmunicipal.gov.in",
+      "path": "/",
+      "expires": 1818357057,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_39997JPBB2",
+      "value": "GS2.1.s1755285057$o1$g0$t1755285061$j56$l0$h0",
+      "domain": ".suratmunicipal.gov.in",
+      "path": "/",
+      "expires": 1818357061,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_ELC9E1Q6NS",
+      "value": "GS2.1.s1755285064$o1$g0$t1755285064$j60$l0$h0",
+      "domain": ".iirs.gov.in",
+      "path": "/",
+      "expires": 1818357064,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1437562245.1755285064",
+      "domain": ".iirs.gov.in",
+      "path": "/",
+      "expires": 1818357064,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.399122941.1755285064",
+      "domain": ".iirs.gov.in",
+      "path": "/",
+      "expires": 1755371464,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_30334522_1",
+      "value": "1",
+      "domain": ".iirs.gov.in",
+      "path": "/",
+      "expires": 1755285124,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "525=S9lf8rRG2aAUKVR61O4c-r3qccxebNxkJ0CfQtzRMrKGsEhckioyUnaLaHJxVxSyJ4F6DDPcN0iSFHdSBHXMDnS4w7IrowsapaHAwGggizE3AocAxa2E52kynvorAqraYCFmexqFOOWftbxzXzKGJlVzOf7od6FZaOOf7AdoYj8ngSXOaXs2oxEnmcuVL3ip37NMkBbgXf8LXawvn613Mcrt7QI",
+      "domain": ".translate-pa.googleapis.com",
+      "path": "/",
+      "expires": 1771096251,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "IVFRT_Cookie",
+      "value": "rd7o00000000000000000000ffff0af8a887o80",
+      "domain": "indianvisaonline.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "BNES_IVFRT_Cookie",
+      "value": "65cxj17yWW9Oka/3kZpJEgpVQb9oqzLWvEygarX4/+bRPsBU8exJ7MJw0rw3/rAwwNI0A94b2WJ1dOmhWROEFh1qBGNwNLxfrQtTlikfam0FyZ21FEkRpdo3QUA3gdua",
+      "domain": "indianvisaonline.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "9quh0tt5n28ib2oac3359kqgo3",
+      "domain": "www.ranaghat.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "wwSuDMGcz6XXcq3T7PfRSoqZUM4U.jiLNyKHMBwK7VU-1755285075-1.0.1.1-N_9Ds70051ELsLlWILcm2qFZZpkxc2LR_b9rZqTXqL9LVMgX6L4q4KDJS5mImwELwuZitNyaxmU7hgCB8t0KmLqlqF6pJfk_3hWXZfbKN30",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1755286875,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "jqKeDdaeeffy8i3WYIq8_Z_yGkg7OhY3vAY58HCXZks-1755285056-1.0.1.1-w.iDNzBi3agZxMulsPd42k4EfJiOh8uqQidPFz3Q2G7v6qe2H_AjTkwxzQaX23qtdxBzVx3x4icLxXAkFlBILTgJ.IVDrq_JFBtc7SYabyE",
+      "domain": ".w3.org",
+      "path": "/",
+      "expires": 1755286856,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANMylNAdscD3AjanliWKJukk1fyu2GCsXU6EPD_YgbxCbng5iYi2HG_tagASKtg8QbNNFqzXFWYM2yGycv5cfpE",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1770837055,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "usof_session",
+      "value": "l6dhmg5es91ovd3pon7dlapkmsvc3r2e",
+      "domain": "usof.gov.in",
+      "path": "/",
+      "expires": 1755285968,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "visitorcount",
+      "value": "2025-08-15",
+      "domain": "usof.gov.in",
+      "path": "/",
+      "expires": 2070645068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "has_js",
+      "value": "1",
+      "domain": "naco.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pk_id..ba11",
+      "value": "bba46f11baa7d35a.1755285077.1.1755285077.1755285077.",
+      "domain": "naco.gov.in",
+      "path": "/",
+      "expires": 1789240277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pk_ses..ba11",
+      "value": "*",
+      "domain": "naco.gov.in",
+      "path": "/",
+      "expires": 1755286877,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "2xp54cgrzy2b20omma5sizqx",
+      "domain": "goaelectricity.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": false
+}

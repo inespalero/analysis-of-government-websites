@@ -1,0 +1,54 @@
+{
+  "domain": "www.ranaghat.gov.in",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "ranaghat.gov.in"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "rgou5rr3xjb3ljjxixoex1yz",
+      "domain": "www.suratmunicipal.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "525=AXNwxZ3zJ7HWaXuOAXyqKz0yG2Kk1r9A5WhwnaJwk2c5fnKonptLT5JVS0K1fWJRCl2qhGcs8hRbLTrtzSNw3BmhGktfYtpQ27bK1cV1jwG9CGhxNRQ04plinv5hNdopwPpgndxfSypYLI_kQrVgdakq9e0wJroFHpZGaOK-Z3YvOWhql4ln10f5eeQpwGAaS5VMIfjwmZsTluPyPl4Uy_Qcy4g",
+      "domain": ".translate-pa.googleapis.com",
+      "path": "/",
+      "expires": 1771096251,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANMylNAdscD3AjanliWKJukk1fyu2GCsXU6EPD_YgbxCbng5iYi2HG_tagASKtg8QbNNFqzXFWYM2yGycv5cfpE",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1770837055,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "2xp54cgrzy2b20omma5sizqx",
+      "domain": "goaelectricity.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": false
+}
