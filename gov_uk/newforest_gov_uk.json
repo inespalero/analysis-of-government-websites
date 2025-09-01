@@ -1,0 +1,487 @@
+{
+  "domain": "newforest.gov.uk",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "apikeys.civiccomputing.com",
+    "cc.cdn.civiccomputing.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "F4zMIpIzN8m2vOzRS5nryoziuQNBGudYZrBM5GJgLIBokrjrCBam9qz3BTWeD31l",
+      "domain": "www.york.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "oir6645ip5M8fJkCgP9uq899qenh-AFbuX8DqU7oS-OpMO03EVxp0x2ppIB3%2COni",
+      "domain": "www.pendle.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestCookie",
+      "value": "Test",
+      "domain": ".www.pendle.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_3706062",
+      "value": "eyJpZCI6IjdlOTY3ZTNlLTA2YjYtNWE5Ny1iM2JiLTBiODAwZmNlZTA4ZiIsImNyZWF0ZWQiOjE3NTUzMzYwMDExNjYsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".pendle.gov.uk",
+      "path": "/",
+      "expires": 1786872001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_3706062",
+      "value": "eyJpZCI6IjZiZTZhNWNmLTBjODQtNGZhMy05ZGRhLTFkNWRlYmI1ZGYwOCIsImMiOjE3NTUzMzYwMDExNjcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0=",
+      "domain": ".pendle.gov.uk",
+      "path": "/",
+      "expires": 1755337801,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookies_policy",
+      "value": "{\"essential\":true,\"settings\":false,\"usage\":false,\"campaigns\":false}",
+      "domain": "www.data.gov.uk",
+      "path": "/",
+      "expires": 1786872011,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "058.ITNhYodEpYxRSYzLUDLRGuMnl7pygfJgzttty68-1755336011-1.0.1.1-Zja3v1dLNdvPbo8ucIAWF3VndLKiKRGulGS22nvGvahG04deveh_9Aabhl2YSIBOm1un.RctLPHmVBoF4Cdz5pIYQGTpqEiHOJYOjRlgUlE",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1755337811,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "shell#lang",
+      "value": "en",
+      "domain": "www.brent.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sat+Aug+16+2025+11%3A20%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202409.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.brent.gov.uk%2F",
+      "domain": ".brent.gov.uk",
+      "path": "/",
+      "expires": 1786872007,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SERVERID",
+      "value": "s1",
+      "domain": "www.eden.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NotificationViewed",
+      "value": "false",
+      "domain": "telford.gov.uk",
+      "path": "/",
+      "expires": 1755388800,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinityCORS",
+      "value": "4371de50e915390cab273d9c304ab3c7",
+      "domain": "telfbot-prod.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinity",
+      "value": "4371de50e915390cab273d9c304ab3c7",
+      "domain": "telfbot-prod.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_RX634LXC06",
+      "value": "GS2.1.s1755336000$o1$g0$t1755336000$j60$l0$h0",
+      "domain": ".telford.gov.uk",
+      "path": "/",
+      "expires": 1818408000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.348088067.1755336001",
+      "domain": ".telford.gov.uk",
+      "path": "/",
+      "expires": 1818408000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ARRAffinity",
+      "value": "a374f049af0321e021a66f6ba57004d2e31d3140f1d09889270a08e39d2850a6",
+      "domain": ".newsroom.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ARRAffinitySameSite",
+      "value": "a374f049af0321e021a66f6ba57004d2e31d3140f1d09889270a08e39d2850a6",
+      "domain": ".newsroom.telford.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_user",
+      "value": "5YV5pPF9SuPb62jxdP7KfX|2025-08-16T09:20:01.664Z",
+      "domain": "telford.gov.uk",
+      "path": "/",
+      "expires": 1786872001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "rS4gtUREIQEQ1td400X1cr|1755336001939|1755336001939",
+      "domain": "telford.gov.uk",
+      "path": "/",
+      "expires": 1755337801,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "c55c493474234162bcc3bbcaf7c9706f.20250816.20260816",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1786872004,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SERVERID",
+      "value": "s1",
+      "domain": "www.broxtowe.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1373885133.1755336008",
+      "domain": ".broxtowe.gov.uk",
+      "path": "/",
+      "expires": 1818408007,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1832545154.1755336008",
+      "domain": ".broxtowe.gov.uk",
+      "path": "/",
+      "expires": 1755422407,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".broxtowe.gov.uk",
+      "path": "/",
+      "expires": 1755336067,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_XK7WWC2F2H",
+      "value": "GS2.3.s1755336008$o1$g0$t1755336008$j60$l0$h0",
+      "domain": ".broxtowe.gov.uk",
+      "path": "/",
+      "expires": 1818408008,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1120188033.1755336006",
+      "domain": ".elmbridge.gov.uk",
+      "path": "/",
+      "expires": 1755422406,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_75198220_2",
+      "value": "1",
+      "domain": ".elmbridge.gov.uk",
+      "path": "/",
+      "expires": 1755336066,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_M9055L94BC",
+      "value": "GS2.1.s1755336006$o1$g0$t1755336006$j60$l0$h0",
+      "domain": ".elmbridge.gov.uk",
+      "path": "/",
+      "expires": 1818408006,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2108167216.1755336006",
+      "domain": ".elmbridge.gov.uk",
+      "path": "/",
+      "expires": 1818408006,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_3Q0H0JMPTL",
+      "value": "GS2.1.s1755336004$o1$g0$t1755336004$j60$l0$h0",
+      "domain": ".woking.gov.uk",
+      "path": "/",
+      "expires": 1818408004,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.298960033.1755336004",
+      "domain": ".woking.gov.uk",
+      "path": "/",
+      "expires": 1818408004,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "nmstat",
+      "value": "8470a3dd-8180-d76a-28b8-0ba2b7514e31",
+      "domain": ".woking.gov.uk",
+      "path": "/",
+      "expires": 1841736004,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "value": "1pwq284%7C2%7Cfyi%7C0%7C2054",
+      "domain": ".woking.gov.uk",
+      "path": "/",
+      "expires": 1786872004,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "9b668a5d0f314d68032b5cbb859c14f0",
+      "domain": "harpenden.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.778741220.1755336009",
+      "domain": ".harpenden.gov.uk",
+      "path": "/",
+      "expires": 1818408009,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_3RCL5HVE7T",
+      "value": "GS2.1.s1755336008$o1$g0$t1755336009$j59$l0$h0",
+      "domain": ".harpenden.gov.uk",
+      "path": "/",
+      "expires": 1818408009,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_9H3T7N2FZ0",
+      "value": "GS2.1.s1755336000$o1$g0$t1755336000$j60$l0$h0",
+      "domain": ".scilly.gov.uk",
+      "path": "/",
+      "expires": 1818408000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.195047223.1755336000",
+      "domain": ".scilly.gov.uk",
+      "path": "/",
+      "expires": 1818408000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.741296279.1755336001",
+      "domain": ".scilly.gov.uk",
+      "path": "/",
+      "expires": 1755422400,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_49509845_1",
+      "value": "1",
+      "domain": ".scilly.gov.uk",
+      "path": "/",
+      "expires": 1755336060,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "835772a89fe1bd320660a93385fb438c",
+      "domain": "judicialappointments.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_PS9KE6F917",
+      "value": "GS2.1.s1755336013$o1$g0$t1755336013$j60$l0$h0",
+      "domain": ".judicialappointments.gov.uk",
+      "path": "/",
+      "expires": 1818408013,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1163464173.1755336013",
+      "domain": ".judicialappointments.gov.uk",
+      "path": "/",
+      "expires": 1818408013,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.33982643.1755336013",
+      "domain": ".judicialappointments.gov.uk",
+      "path": "/",
+      "expires": 1755422413,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_104899914_2",
+      "value": "1",
+      "domain": ".judicialappointments.gov.uk",
+      "path": "/",
+      "expires": 1755336073,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ocvb-keep-banner-closed",
+      "value": "false",
+      "domain": "judicialappointments.gov.uk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_TV1BGMDDCN",
+      "value": "GS2.1.s1755336012$o1$g0$t1755336014$j58$l0$h0",
+      "domain": ".judicialappointments.gov.uk",
+      "path": "/",
+      "expires": 1818408014,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": false
+}
