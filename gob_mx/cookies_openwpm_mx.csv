@@ -1,0 +1,287 @@
+visit_id,host,name,value,path,is_session,is_secure,is_http_only,same_site,expiry,first_party,cookie_domain,fp_domain,is_third_party
+2672035423809332,manzanillo.gob.mx,XSRF-TOKEN,eyJpdiI6InU4L3BvelhLUjJaUVZYWklwTWgvSHc9PSIsInZhbHVlIjoiQ3ZJb0NKN25RaFJnZVBQcUFQRTJZVUVZQ0R4OER5SHRlQ2NqOG9OZ1lDcTJOTUJ0STl2dU1OUEtVOVVKcllta2x0NytVVTN4RThyaFc0eGtFdEtHdHVkVjByY2xaNGx5a1pTanhHVmdTUDZqNVZxakJ4UGFKcXVVZUZnWmREbXciLCJtYWMiOiJiMjA5YmY5ZTY1NWU4YTk4NTk1YmQyYTgyOGQ1NzUwMTA5NzNjOTNlYWNlODVkNDIxMGU0NWExMzk0NTdjMzcyIiwidGFnIjoiIn0%3D,/,0,0,0,lax,2025-08-13 19:02:43+00:00,https://manzanillo.gob.mx/,manzanillo.gob.mx,manzanillo.gob.mx,0
+2672035423809332,manzanillo.gob.mx,h_ayuntamiento_de_manzanillo_session,eyJpdiI6Im5tTThuN2dmVFM5Z2JqOHU0R0s1WXc9PSIsInZhbHVlIjoiaW1NNytlK2FGbnlQM1NKdGRwVDk5UGZxSVZPK3A0MC9SNHUwaVpCWnI1VVUxaWRiQzJUSmhQdmRlM3Y4T21ncEVjWU0wdGZ5UXJXSkRrekdmb2w3T1ArYWgzakhpM2xaSTFNQWYvczI4bWxzYXdlZThYY0cxRnc0d05KYThwUkYiLCJtYWMiOiIyZDY4MTFhNTAyMjRhMWZkOGUzODEzYmYyZjBhZmM0MjI1ODY2MWNjODQzZjQ0YmY1MzZmZDc1ZmYzNmRkMjk4IiwidGFnIjoiIn0%3D,/,0,0,1,lax,2025-08-13 19:02:43+00:00,https://manzanillo.gob.mx/,manzanillo.gob.mx,manzanillo.gob.mx,0
+1853142117022591,.youtube.com,YSC,vlWifC6P_c4,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,__Secure-ROLLOUT_TOKEN,CMyW2M6D0-K-jAEQouGniaKIjwMYouGniaKIjwM%3D,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_INFO1_LIVE,NpLvVhQR77I,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAj,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,YSC,EaySLZ5IizM,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,YSC,EaySLZ5IizM,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,__Secure-ROLLOUT_TOKEN,CIDmlM3I1ITrJRC-qaiJooiPAxi-qaiJooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,__Secure-ROLLOUT_TOKEN,CIDmlM3I1ITrJRC-qaiJooiPAxi-qaiJooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_INFO1_LIVE,lcSmOSCB0ok,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_INFO1_LIVE,lcSmOSCB0ok,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBW,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBW,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,YSC,fSR2YBYOrOo,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,YSC,fSR2YBYOrOo,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_INFO1_LIVE,Ky1_oQMHIjg,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_INFO1_LIVE,Ky1_oQMHIjg,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAq,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAq,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,__Secure-ROLLOUT_TOKEN,CPuXzMmU9MSJ4AEQuO2piaKIjwMYuO2piaKIjwM%3D,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,__Secure-ROLLOUT_TOKEN,CPuXzMmU9MSJ4AEQuO2piaKIjwMYuO2piaKIjwM%3D,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,YSC,cqaXm9syXvQ,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,YSC,cqaXm9syXvQ,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,__Secure-ROLLOUT_TOKEN,CLOJseTJ49b82wEQmqSoiaKIjwMYmqSoiaKIjwM%3D,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,__Secure-ROLLOUT_TOKEN,CLOJseTJ49b82wEQmqSoiaKIjwMYmqSoiaKIjwM%3D,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_INFO1_LIVE,5HOAWRHtUVw,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_INFO1_LIVE,5HOAWRHtUVw,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBi,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBi,/,0,1,1,no_restriction,2026-02-09 17:03:02+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:03+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:03+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:03+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:03+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:04+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:04+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:04+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:04+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:04+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:04+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:04+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:04+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:05+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:05+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:05+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1853142117022591,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:04:05+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+1644452161166196,eduardoneri.gob.mx,pvc_visits[0],1755191020b14903,/,0,1,0,lax,2025-08-14 17:03:40+00:00,https://eduardoneri.gob.mx/,eduardoneri.gob.mx,eduardoneri.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzma,3af5c87e-f143-44c2-a972-5da43892aad7,/,0,0,1,lax,2026-02-11 17:03:57+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmb,1755104637,/,0,0,1,lax,2026-02-11 17:03:57+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzme,4622,/,0,0,1,lax,2026-02-11 17:03:57+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmc,387551031216,/,0,0,1,lax,2026-02-11 17:03:57+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmd,1755104637,/,0,0,1,lax,2026-02-11 17:03:57+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmf,7f90003af5c87e-f143-44c2-a972-5da43892aad71-17551046374870-0002d5c59a0ac852f5f10,/,0,0,1,lax,2026-02-11 17:03:57+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,uzmx,7f900065f36c69-2f5c-47ac-9a50-e507f863a9911-17551046374880-0267f263e29dc96010,/,0,0,1,lax,2026-02-11 17:03:57+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,AZamJjrJCgob+hl7Xy4qNQ$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,ci_session_www_,a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22fd99fbfd5d7e7060ac6a81643dd76fde%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2210.10.201.58%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A70%3A%22Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A134.0%29+Gecko%2F20100101+Firefox%2F134.0%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1755104637%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7Da064bdfb45b32551e19a3d6b5e562285b19bc16c,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,ADBYRjrJCgqvdtsE5YC/Ew$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,ADBYRjrJCgqvdtsE5YC/Ew$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,ADBYJjrJCgolQUxRCOvPcQ$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,ADBYJjrJCgolQUxRCOvPcQ$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,ATGpJzrJCgpoWQAChZCyDQ$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,ATGpJzrJCgpoWQAChZCyDQ$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,_ga_KGG2HPQGKX,deleted,/,0,0,0,no_restriction,2026-09-17 17:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,_ga_KGG2HPQGKX,GS2.1.s1755104640$o1$g0$t1755104640$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,_ga_KGG2HPQGKX,GS2.1.s1755104640$o1$g0$t1755104640$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,_ga,GA1.1.1911536595.1755104640,/,0,0,0,no_restriction,2026-09-17 17:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,__sstester,_7280797415,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,__sstester,_7280797415,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,__ssds,0,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,AfAsBzrJCgqzKThuIGrQWA$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,AlteonP,AfAsBzrJCgqzKThuIGrQWA$$,/,1,0,0,no_restriction,,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__ssuzjsr0,a9be0cd8e,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmaj0,3af5c87e-f143-44c2-a972-5da43892aad7,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmbj0,1755104640,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmcj0,456861063893,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmdj0,1755104640,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmlj0,kTVF9XQ9kdeMUC+bkNidZxgB8gas+295d2Z68OWbimk=,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmfj0,7f90003af5c87e-f143-44c2-a972-5da43892aad71-17551046405280-000992aff78228f98f810,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,uzmxj,7f900065f36c69-2f5c-47ac-9a50-e507f863a9911-17551046405280-89f164c12282003510,/,0,0,0,no_restriction,2026-02-09 18:04:00+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,mic.te.gob.mx,__uzma,f9b3ceda-ab55-4805-bc4a-d4abdcc85ed7,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,mic.te.gob.mx,__uzmb,1755104639,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,mic.te.gob.mx,__uzme,2970,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,mic.te.gob.mx,__uzmc,421431056837,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,mic.te.gob.mx,__uzmd,1755104639,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,mic.te.gob.mx,__uzmf,7f9000f9b3ceda-ab55-4805-bc4a-d4abdcc85ed71-17551046405740-00095ae0d8cc6111dea10,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,uzmx,7f900065f36c69-2f5c-47ac-9a50-e507f863a9911-17551046374883086-feae00de93d241b613,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,uzmx,7f900065f36c69-2f5c-47ac-9a50-e507f863a9911-17551046374883086-feae00de93d241b613,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,mic.te.gob.mx,ci_session,71lnrr83298ejvpj1sd52610o3mcp80f,/,0,0,1,no_restriction,2025-08-13 19:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmc,100481385970,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmc,100481385970,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmd,1755104640,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmd,1755104640,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmf,7f90003af5c87e-f143-44c2-a972-5da43892aad71-17551046374874196-000a89de529d2d44abf13,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmf,7f90003af5c87e-f143-44c2-a972-5da43892aad71-17551046374874196-000a89de529d2d44abf13,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,uzmx,7f900065f36c69-2f5c-47ac-9a50-e507f863a9911-17551046374884195-43df63d0b194162513,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,uzmx,7f900065f36c69-2f5c-47ac-9a50-e507f863a9911-17551046374884195-43df63d0b194162513,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmc,462451313005,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmc,462451313005,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmd,1755104641,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmd,1755104641,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmf,7f90003af5c87e-f143-44c2-a972-5da43892aad71-17551046374874248-000e6a6fe50819fece113,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,www.te.gob.mx,__uzmf,7f90003af5c87e-f143-44c2-a972-5da43892aad71-17551046374874248-000e6a6fe50819fece113,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,uzmx,7f900065f36c69-2f5c-47ac-9a50-e507f863a9911-17551046374884247-86c74b634880deec13,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,uzmx,7f900065f36c69-2f5c-47ac-9a50-e507f863a9911-17551046374884247-86c74b634880deec13,/,0,0,1,lax,2026-02-11 17:04:01+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,_ga_KGG2HPQGKX,deleted,/,0,0,0,no_restriction,2026-09-17 17:04:11+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,_ga_KGG2HPQGKX,deleted,/,0,0,0,no_restriction,2026-09-17 17:04:11+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,_ga_KGG2HPQGKX,GS2.1.s1755104640$o1$g1$t1755104651$j49$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:04:11+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+4398620493990389,.te.gob.mx,_ga_KGG2HPQGKX,GS2.1.s1755104640$o1$g1$t1755104651$j49$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:04:11+00:00,https://www.te.gob.mx/,te.gob.mx,te.gob.mx,0
+8155505152041917,culturabcs.gob.mx,XSRF-TOKEN,eyJpdiI6Im12ZmZBWHNLeUwzMWt4OVk3K0FwK3c9PSIsInZhbHVlIjoiRUN6aVBnSU1kN1RTQmcySmM5cUhsNjQzczUzRTlRUXZGYjg5dzh4OUNlbzVVT0NuXC9PdlllYXNVV3REUGpqWkhONHFpbDlRc25iUFVhaFJBS2o5c0N3PT0iLCJtYWMiOiI3YWFlNTk0NDc0ODkxMjBiN2I1MTJhZWI1NmU3ZjAxY2Y5MjExZDRlMzQ5ZmI2ZWE5YzAyM2E5NzZiZWJkMTE4In0%3D,/,0,0,0,no_restriction,2025-08-13 19:04:24+00:00,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,culturabcs.gob.mx,laravel_session,eyJpdiI6Imk1QVI4anB3Wk9oRDRxYTlDOVB5ZUE9PSIsInZhbHVlIjoicTNKMnExd1dSNUtCc3ZKN1VDZFdqVEsxT1ZjZmhUUEg5VGtNWGQyZEwyQ1wvVTN5T1VKV3Z2WTlVQ1wvUmQwN1NiR21wbGFpcENVUmcrbHZtcFwvWGR3TWc9PSIsIm1hYyI6IjQyZGU5NzcyYTk3YTZhYTM5YWE3MWM4NTA3NjVjOTBlMDE0ODYzNGI2NjM2ODhiM2Y4Y2FiZDM4Y2RkMTY4OTQifQ%3D%3D,/,0,0,1,no_restriction,2025-08-13 19:04:24+00:00,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,culturabcs.gob.mx,__sharethis_cookie_test__,1,/,1,0,0,no_restriction,,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,culturabcs.gob.mx,__sharethis_cookie_test__,1,/,1,0,0,no_restriction,,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,.youtube.com,YSC,ulnPlZrK6Zs,/,1,1,1,no_restriction,,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.youtube.com,__Secure-ROLLOUT_TOKEN,CIfb8pnFvOuiDhC7r7qxooiPAxi7r7qxooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:04:26+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.youtube.com,VISITOR_INFO1_LIVE,bU3d7bWbA7Q,/,0,1,1,no_restriction,2026-02-09 17:04:26+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBR,/,0,1,1,no_restriction,2026-02-09 17:04:26+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.culturabcs.gob.mx,_ga,GA1.3.250913149.1755104667,/,0,0,0,no_restriction,2026-09-17 17:04:26+00:00,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,.culturabcs.gob.mx,_gid,GA1.3.1086031396.1755104667,/,0,0,0,no_restriction,2025-08-14 17:04:26+00:00,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,.culturabcs.gob.mx,_gat,1,/,0,0,0,no_restriction,2025-08-13 17:05:26+00:00,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,.youtube.com,__Secure-ROLLOUT_TOKEN,CIfb8pnFvOuiDhC7r7qxooiPAxjclvWxooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:04:27+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.youtube.com,__Secure-ROLLOUT_TOKEN,CIfb8pnFvOuiDhC7r7qxooiPAxjclvWxooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:04:27+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.youtube.com,VISITOR_INFO1_LIVE,bU3d7bWbA7Q,/,0,1,1,no_restriction,2026-02-09 17:04:27+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.youtube.com,VISITOR_INFO1_LIVE,bU3d7bWbA7Q,/,0,1,1,no_restriction,2026-02-09 17:04:27+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBR,/,0,1,1,no_restriction,2026-02-09 17:04:27+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBR,/,0,1,1,no_restriction,2026-02-09 17:04:27+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,.culturabcs.gob.mx,_ga_BQSZHB3E03,deleted,/,0,0,0,no_restriction,2026-09-17 17:04:27+00:00,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,.culturabcs.gob.mx,_ga_BQSZHB3E03,GS2.3.s1755104667$o1$g0$t1755104667$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:04:27+00:00,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,.culturabcs.gob.mx,_ga_BQSZHB3E03,GS2.3.s1755104667$o1$g0$t1755104667$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:04:27+00:00,https://culturabcs.gob.mx/,culturabcs.gob.mx,culturabcs.gob.mx,0
+8155505152041917,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:05:27+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:05:27+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:05:28+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+8155505152041917,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:05:28+00:00,https://culturabcs.gob.mx/,youtube.com,culturabcs.gob.mx,1
+1918182967565581,datos.gob.mx,ckan,eyJfY3NyZl90b2tlbiI6ImFjMzA4MThmMzliYzFlYzg5YTcxMmE4MmExMTM2NGNlNzhlYzU1MDIifQ.aJzFDg.32aKtozVkSG88cexgxQWM6PidP0,/,1,0,1,lax,,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,ak_bmsc,0D5FD6858289F7FAA73662072D6321A4~000000000000000000000000000000~YAAQxm1lX4eMfp6YAQAAuDNkpBxHbI1VGIinKK6QFTBmdYJt1L6r9vxZiGF9r1ZAfbWohwdL/C1IaOLyu3ZpFTzNdPNM/YqlX89N1Uke5RttxLxCHp5m+8VSODB48FC9Cmt2t02fFSbKKucolcjbj801jJaSNTP8m1oH/NwgmD9A3rUSPtcgCYZ5hBgZVZwjmsFuTMHLmglzDGcQ3xGf6+/eRt0C/EcUhjFehNULiNlLF9BRApR6Ca9DwTVe29IsyMecW2Ez8mpg4O4HsIxocf5lHlUVyY6rAkSjYfn3KbVvO8/nI3BIq8JrgycnwcUbb8x4qd1RDfcKGlF/VPO73uCghAz2oGwFcGq2+UJ4CyKAd2mBVZm4rKMSIZ422Pkb3cvUnFSCA16lomjs,/,0,0,0,no_restriction,2025-08-13 19:04:44+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,datos.gob.mx,ckan,eyJfY3NyZl90b2tlbiI6ImFjMzA4MThmMzliYzFlYzg5YTcxMmE4MmExMTM2NGNlNzhlYzU1MDIiLCJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.aJzFDw.Jnwl0Hh8Pn6bA3GPk4sKKOg1Tvw,/,0,0,1,lax,2026-08-13 17:02:07+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,datos.gob.mx,ckan,eyJfY3NyZl90b2tlbiI6ImFjMzA4MThmMzliYzFlYzg5YTcxMmE4MmExMTM2NGNlNzhlYzU1MDIiLCJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.aJzFDw.Jnwl0Hh8Pn6bA3GPk4sKKOg1Tvw,/,0,0,1,lax,2026-08-13 17:02:07+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,ak_bmsc,368CB1EBE3E006E9F53A3C4EC3DFC802~000000000000000000000000000000~YAAQxm1lX4+Nfp6YAQAAIDdkpBx/JFcLvGfGaXYfIRgp8wb9mL8ZrDrMViG0BMHLmVDgAsuTAmsZ+6lXv7TE9N9FEtbPG2INU9xM8JahbHyYFvB5Ksazq+60C620hVv28FrJ1GV0cR8E5xXsPE8GBh8Sf8HEpY1HswA/x3PJCco9xc1iiuI7gBkfXkyZ7vzhJZZ6UGczFond6RsGcweYzBeefuMd/U76l5cShpz30wA4wsMjUGtfO9nuL/DQmYKlJ7kG+rRw5F+eY3roLXhVX34FrTrR0FEwRaHi//vhSE57YG6kaFQkjjE1aml/uoqhn8d1M/aWXkWmjwjrc16cmT+0ugwhZKS+2OtjuWwkE+7Y5OD/W+wxRdM1iRiks5L4Yv1wfMDr3LP2rQLiCQOdERf60nG2yBDpn9gA3uDQoxpwh9IxcwOQFA==,/,0,0,0,no_restriction,2025-08-13 19:04:45+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,ak_bmsc,368CB1EBE3E006E9F53A3C4EC3DFC802~000000000000000000000000000000~YAAQxm1lX4+Nfp6YAQAAIDdkpBx/JFcLvGfGaXYfIRgp8wb9mL8ZrDrMViG0BMHLmVDgAsuTAmsZ+6lXv7TE9N9FEtbPG2INU9xM8JahbHyYFvB5Ksazq+60C620hVv28FrJ1GV0cR8E5xXsPE8GBh8Sf8HEpY1HswA/x3PJCco9xc1iiuI7gBkfXkyZ7vzhJZZ6UGczFond6RsGcweYzBeefuMd/U76l5cShpz30wA4wsMjUGtfO9nuL/DQmYKlJ7kG+rRw5F+eY3roLXhVX34FrTrR0FEwRaHi//vhSE57YG6kaFQkjjE1aml/uoqhn8d1M/aWXkWmjwjrc16cmT+0ugwhZKS+2OtjuWwkE+7Y5OD/W+wxRdM1iRiks5L4Yv1wfMDr3LP2rQLiCQOdERf60nG2yBDpn9gA3uDQoxpwh9IxcwOQFA==,/,0,0,0,no_restriction,2025-08-13 19:04:45+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,_ga_R1V0DG3C17,deleted,/,0,1,0,strict,2026-09-17 17:04:48+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,_ga_R1V0DG3C17,GS2.1.s1755104688$o1$g0$t1755104688$j60$l0$h0,/,0,1,0,strict,2026-09-17 17:04:48+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,_ga_R1V0DG3C17,GS2.1.s1755104688$o1$g0$t1755104688$j60$l0$h0,/,0,1,0,strict,2026-09-17 17:04:48+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,_ga,GA1.1.906136189.1755104689,/,0,1,0,strict,2026-09-17 17:04:48+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,ak_bmsc,368CB1EBE3E006E9F53A3C4EC3DFC802~000000000000000000000000000000~YAAQ3G1lX9ozxo2YAQAAgzxkpBy4rNfd5KgWAh72dVGxgoQnNyT3aZPXtPf9SfxPq9l/axZex7hIArqqjocPNaysP/2hMLDvjEolcpzltEcFtyHHEySOc9sT9UyyrkRBjo8X0uRucg9hf48nc255dguFF3pdYj/HGsOQ0gm/t/5THbbtLwfyIEHfIzIR0F7hYUDPrGHBtACtyoQ5c7+GzmS2TkINXH4WjxJiDsFMHJndQPkxAbpcbrhzkeQdvGkhWZeZ5yC0XPlkFfQvwkPzA7aZ7egK12TtwiTc8jPPzkSCp/ZWhxIR+vNLi1UDZPGliEEjocJgnhUMuufPi6Za6bGd9u4EUVf3a+g5/J9u8xY/+VbfVHPEXOFbEUEGcWtPqcT5PeYWMESkKSNxlNNlnBdDroSxhXJbYTKrEtKAIXsIexkCxJ2QGiy0hRdHSfY83wArI3OjOZCGbankTbA7l/vplmFwXak9GH/0PjGRVA==,/,0,0,0,no_restriction,2025-08-13 19:04:44+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,ak_bmsc,368CB1EBE3E006E9F53A3C4EC3DFC802~000000000000000000000000000000~YAAQ3G1lX9ozxo2YAQAAgzxkpBy4rNfd5KgWAh72dVGxgoQnNyT3aZPXtPf9SfxPq9l/axZex7hIArqqjocPNaysP/2hMLDvjEolcpzltEcFtyHHEySOc9sT9UyyrkRBjo8X0uRucg9hf48nc255dguFF3pdYj/HGsOQ0gm/t/5THbbtLwfyIEHfIzIR0F7hYUDPrGHBtACtyoQ5c7+GzmS2TkINXH4WjxJiDsFMHJndQPkxAbpcbrhzkeQdvGkhWZeZ5yC0XPlkFfQvwkPzA7aZ7egK12TtwiTc8jPPzkSCp/ZWhxIR+vNLi1UDZPGliEEjocJgnhUMuufPi6Za6bGd9u4EUVf3a+g5/J9u8xY/+VbfVHPEXOFbEUEGcWtPqcT5PeYWMESkKSNxlNNlnBdDroSxhXJbYTKrEtKAIXsIexkCxJ2QGiy0hRdHSfY83wArI3OjOZCGbankTbA7l/vplmFwXak9GH/0PjGRVA==,/,0,0,0,no_restriction,2025-08-13 19:04:44+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,RT,"""z=1&dm=datos.gob.mx&si=b77f07a4-ad8e-4760-9b8b-d74987183010&ss=mea80hzj&sl=0&tt=0&bcn=%2F%2F02179911.akstat.io%2F""",/,0,0,0,no_restriction,2025-08-20 17:04:49+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,RT,"""z=1&dm=datos.gob.mx&si=b77f07a4-ad8e-4760-9b8b-d74987183010&ss=mea80hzj&sl=1&tt=3bu&bcn=%2F%2F02179911.akstat.io%2F&ld=3cl""",/,0,0,0,no_restriction,2025-08-20 17:04:49+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,RT,"""z=1&dm=datos.gob.mx&si=b77f07a4-ad8e-4760-9b8b-d74987183010&ss=mea80hzj&sl=1&tt=3bu&bcn=%2F%2F02179911.akstat.io%2F&ld=3cl""",/,0,0,0,no_restriction,2025-08-20 17:04:49+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,RT,"""z=1&dm=datos.gob.mx&si=b77f07a4-ad8e-4760-9b8b-d74987183010&ss=mea80hzj&sl=1&tt=3bu&bcn=%2F%2F02179911.akstat.io%2F&ld=3cl&ul=6w6""",/,0,0,0,no_restriction,2025-08-20 17:04:53+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,RT,"""z=1&dm=datos.gob.mx&si=b77f07a4-ad8e-4760-9b8b-d74987183010&ss=mea80hzj&sl=1&tt=3bu&bcn=%2F%2F02179911.akstat.io%2F&ld=3cl&ul=6w6""",/,0,0,0,no_restriction,2025-08-20 17:04:53+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,RT,"""z=1&dm=datos.gob.mx&si=b77f07a4-ad8e-4760-9b8b-d74987183010&ss=mea80hzj&sl=1&tt=3bu&bcn=%2F%2F02179911.akstat.io%2F&ld=3cl&ul=6w6&hd=6wi""",/,0,0,0,no_restriction,2025-08-20 17:04:53+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,RT,"""z=1&dm=datos.gob.mx&si=b77f07a4-ad8e-4760-9b8b-d74987183010&ss=mea80hzj&sl=1&tt=3bu&bcn=%2F%2F02179911.akstat.io%2F&ld=3cl&ul=6w6&hd=6wi""",/,0,0,0,no_restriction,2025-08-20 17:04:53+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,_ga_R1V0DG3C17,deleted,/,0,1,0,strict,2026-09-17 17:04:53+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,_ga_R1V0DG3C17,deleted,/,0,1,0,strict,2026-09-17 17:04:53+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,_ga_R1V0DG3C17,GS2.1.s1755104688$o1$g0$t1755104693$j55$l0$h0,/,0,1,0,strict,2026-09-17 17:04:53+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+1918182967565581,.datos.gob.mx,_ga_R1V0DG3C17,GS2.1.s1755104688$o1$g0$t1755104693$j55$l0$h0,/,0,1,0,strict,2026-09-17 17:04:53+00:00,https://datos.gob.mx/,datos.gob.mx,datos.gob.mx,0
+5243557395390309,www.gob.mx,INGRESS_STICKY,1755104703.486.3237.149770|e111204022b23e5bf7a7a6e3313c6224,/,1,0,1,no_restriction,,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,www.gob.mx,JSESSIONID,wcx5i9V1oVGyFuHv1Bm7dvo9mFxIoK953wVIiB1D.gobmx-wildfly-5,/,1,0,0,no_restriction,,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,.www.gob.mx,_ga_4S99M4K51W,deleted,/,0,0,0,no_restriction,2026-09-17 17:05:05+00:00,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,.www.gob.mx,_ga_4S99M4K51W,GS2.1.s1755104705$o1$g0$t1755104705$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:05:05+00:00,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,.www.gob.mx,_ga_4S99M4K51W,GS2.1.s1755104705$o1$g0$t1755104705$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:05:05+00:00,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,.www.gob.mx,_ga,GA1.1.1750290901.1755104706,/,0,0,0,no_restriction,2026-09-17 17:05:05+00:00,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,.www.gob.mx,_ga_4S99M4K51W,deleted,/,0,0,0,no_restriction,2026-09-17 17:05:10+00:00,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,.www.gob.mx,_ga_4S99M4K51W,deleted,/,0,0,0,no_restriction,2026-09-17 17:05:10+00:00,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,.www.gob.mx,_ga_4S99M4K51W,GS2.1.s1755104705$o1$g0$t1755104710$j55$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:05:10+00:00,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+5243557395390309,.www.gob.mx,_ga_4S99M4K51W,GS2.1.s1755104705$o1$g0$t1755104710$j55$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:05:10+00:00,https://www.gob.mx/,www.gob.mx,www.gob.mx,0
+3212383553667494,.comisionacionaldebusqueda.gob.mx,_ga_MB8D1ZBTSH,deleted,/,0,0,0,no_restriction,2026-09-17 17:05:20+00:00,https://comisionacionaldebusqueda.gob.mx/,comisionacionaldebusqueda.gob.mx,comisionacionaldebusqueda.gob.mx,0
+3212383553667494,.comisionacionaldebusqueda.gob.mx,_ga_MB8D1ZBTSH,GS2.1.s1755104720$o1$g0$t1755104720$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:05:20+00:00,https://comisionacionaldebusqueda.gob.mx/,comisionacionaldebusqueda.gob.mx,comisionacionaldebusqueda.gob.mx,0
+3212383553667494,.comisionacionaldebusqueda.gob.mx,_ga_MB8D1ZBTSH,GS2.1.s1755104720$o1$g0$t1755104720$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:05:20+00:00,https://comisionacionaldebusqueda.gob.mx/,comisionacionaldebusqueda.gob.mx,comisionacionaldebusqueda.gob.mx,0
+3212383553667494,.comisionacionaldebusqueda.gob.mx,_ga,GA1.1.1534899955.1755104720,/,0,0,0,no_restriction,2026-09-17 17:05:20+00:00,https://comisionacionaldebusqueda.gob.mx/,comisionacionaldebusqueda.gob.mx,comisionacionaldebusqueda.gob.mx,0
+3212383553667494,.comisionacionaldebusqueda.gob.mx,_ga_MB8D1ZBTSH,deleted,/,0,0,0,no_restriction,2026-09-17 17:05:25+00:00,https://comisionacionaldebusqueda.gob.mx/,comisionacionaldebusqueda.gob.mx,comisionacionaldebusqueda.gob.mx,0
+3212383553667494,.comisionacionaldebusqueda.gob.mx,_ga_MB8D1ZBTSH,deleted,/,0,0,0,no_restriction,2026-09-17 17:05:25+00:00,https://comisionacionaldebusqueda.gob.mx/,comisionacionaldebusqueda.gob.mx,comisionacionaldebusqueda.gob.mx,0
+3212383553667494,.comisionacionaldebusqueda.gob.mx,_ga_MB8D1ZBTSH,GS2.1.s1755104720$o1$g0$t1755104725$j55$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:05:25+00:00,https://comisionacionaldebusqueda.gob.mx/,comisionacionaldebusqueda.gob.mx,comisionacionaldebusqueda.gob.mx,0
+3212383553667494,.comisionacionaldebusqueda.gob.mx,_ga_MB8D1ZBTSH,GS2.1.s1755104720$o1$g0$t1755104725$j55$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:05:25+00:00,https://comisionacionaldebusqueda.gob.mx/,comisionacionaldebusqueda.gob.mx,comisionacionaldebusqueda.gob.mx,0
+5523600886546104,.youtube.com,YSC,GrpTfKncnKM,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_INFO1_LIVE,zoRLcrO1Nz4,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAc,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,__Secure-ROLLOUT_TOKEN,CMDkr_yOg7aW2AEQsqv_1KKIjwMYsqv_1KKIjwM%3D,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,YSC,CGgiEYRpWEM,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,YSC,CGgiEYRpWEM,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_INFO1_LIVE,lgxI5Yb2jYA,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_INFO1_LIVE,lgxI5Yb2jYA,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBQ,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBQ,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,__Secure-ROLLOUT_TOKEN,CKb9xMf68L6wchD_2v7UooiPAxj_2v7UooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,__Secure-ROLLOUT_TOKEN,CKb9xMf68L6wchD_2v7UooiPAxj_2v7UooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,YSC,cDSgPduOgHA,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,YSC,cDSgPduOgHA,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,__Secure-ROLLOUT_TOKEN,CMSN56XL7ui5eBDFxP_UooiPAxjFxP_UooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,__Secure-ROLLOUT_TOKEN,CMSN56XL7ui5eBDFxP_UooiPAxjFxP_UooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_INFO1_LIVE,izgZjN3n1CU,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_INFO1_LIVE,izgZjN3n1CU,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAz,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAz,/,0,1,1,no_restriction,2026-02-09 17:05:40+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:42+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,YSC,IyLCH_95ARg,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,YSC,IyLCH_95ARg,/,1,1,1,no_restriction,,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_INFO1_LIVE,W7JDiGJPRDE,/,0,1,1,no_restriction,2026-02-09 17:05:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_INFO1_LIVE,W7JDiGJPRDE,/,0,1,1,no_restriction,2026-02-09 17:05:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAt,/,0,1,1,no_restriction,2026-02-09 17:05:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAt,/,0,1,1,no_restriction,2026-02-09 17:05:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,__Secure-ROLLOUT_TOKEN,CLnwn9fFyLTvSRDon__UooiPAxjon__UooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:05:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,.youtube.com,__Secure-ROLLOUT_TOKEN,CLnwn9fFyLTvSRDon__UooiPAxjon__UooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:05:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+5523600886546104,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:06:45+00:00,https://taxco.gob.mx/,youtube.com,taxco.gob.mx,1
+2946106064105259,portal.saludsonora.gob.mx,927338da29ec30a67d8cc5aa38cbaed7,jgec11oba63vqqlvqc9mq9s1m4,/,1,0,1,no_restriction,,http://portal.saludsonora.gob.mx/,saludsonora.gob.mx,saludsonora.gob.mx,0
+2946106064105259,.youtube.com,YSC,UNIYgKjmt7U,/,1,1,1,no_restriction,,http://portal.saludsonora.gob.mx/,youtube.com,saludsonora.gob.mx,1
+2946106064105259,.youtube.com,__Secure-ROLLOUT_TOKEN,CPbTzPyMgPKHNRCti4DhooiPAxiti4DhooiPAw%3D%3D,/,0,1,1,no_restriction,2026-02-09 17:06:06+00:00,http://portal.saludsonora.gob.mx/,youtube.com,saludsonora.gob.mx,1
+2946106064105259,.youtube.com,VISITOR_INFO1_LIVE,gXPEIfxXG9s,/,0,1,1,no_restriction,2026-02-09 17:06:06+00:00,http://portal.saludsonora.gob.mx/,youtube.com,saludsonora.gob.mx,1
+2946106064105259,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBO,/,0,1,1,no_restriction,2026-02-09 17:06:06+00:00,http://portal.saludsonora.gob.mx/,youtube.com,saludsonora.gob.mx,1
+2946106064105259,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:07:06+00:00,http://portal.saludsonora.gob.mx/,youtube.com,saludsonora.gob.mx,1
+2946106064105259,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:07:06+00:00,http://portal.saludsonora.gob.mx/,youtube.com,saludsonora.gob.mx,1
+2946106064105259,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:07:06+00:00,http://portal.saludsonora.gob.mx/,youtube.com,saludsonora.gob.mx,1
+2946106064105259,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 17:07:06+00:00,http://portal.saludsonora.gob.mx/,youtube.com,saludsonora.gob.mx,1
+3328746018948914,queretaro.gob.mx,JSESSIONID,23B5F12CFF7B076AE4A3AEF0CC168E9E,/,1,1,1,no_restriction,,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,queretaro.gob.mx,COOKIE_SUPPORT,true,/,0,1,1,no_restriction,2026-08-13 17:07:56+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,queretaro.gob.mx,GUEST_LANGUAGE_ID,es_ES,/,0,1,1,no_restriction,2026-08-13 17:07:56+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,queretaro.gob.mx,cookiesession1,678B286754088A0CC6C626A3A94C6E94,/,0,0,1,no_restriction,2026-08-13 17:07:56+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,.queretaro.gob.mx,_ga,GA1.3.2087651336.1755104880,/,0,0,0,no_restriction,2026-09-17 17:08:00+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,.queretaro.gob.mx,_gid,GA1.3.711382060.1755104880,/,0,0,0,no_restriction,2025-08-14 17:08:00+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,.queretaro.gob.mx,_gat,1,/,0,0,0,no_restriction,2025-08-13 17:09:00+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,.queretaro.gob.mx,_ga_JDN13ZMJH9,deleted,/,0,0,0,no_restriction,2026-09-17 17:08:01+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,.queretaro.gob.mx,_ga_JDN13ZMJH9,GS2.3.s1755104881$o1$g0$t1755104881$j60$l0$h1032710529,/,0,0,0,no_restriction,2026-09-17 17:08:01+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,.queretaro.gob.mx,_ga_JDN13ZMJH9,GS2.3.s1755104881$o1$g0$t1755104881$j60$l0$h1032710529,/,0,0,0,no_restriction,2026-09-17 17:08:01+00:00,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,queretaro.gob.mx,LFR_SESSION_STATE_20102,1755104883876,/,1,1,0,no_restriction,,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,queretaro.gob.mx,LFR_SESSION_STATE_20102,1755104883881,/,1,1,0,no_restriction,,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+3328746018948914,queretaro.gob.mx,LFR_SESSION_STATE_20102,1755104883881,/,1,1,0,no_restriction,,https://queretaro.gob.mx/,queretaro.gob.mx,queretaro.gob.mx,0
+1195150976239651,www.condusef.gob.mx,cookiesession1,678B2886AB50C38114062D89AEFBBF91,/,0,0,1,no_restriction,2026-08-13 17:08:17+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga,GA1.3.1004028348.1755104899,/,0,0,0,no_restriction,2026-09-17 17:08:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_gid,GA1.3.1360574216.1755104899,/,0,0,0,no_restriction,2025-08-14 17:08:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_gat,1,/,0,0,0,no_restriction,2025-08-13 17:09:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_gat_UA-11440832-1,1,/,0,0,0,no_restriction,2025-08-13 17:09:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga_RJR9YSPNB8,deleted,/,0,0,0,no_restriction,2026-09-17 17:08:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga_RJR9YSPNB8,GS2.1.s1755104898$o1$g0$t1755104898$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:08:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga_RJR9YSPNB8,GS2.1.s1755104898$o1$g0$t1755104898$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:08:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga,GA1.1.1004028348.1755104899,/,0,0,0,no_restriction,2026-09-17 17:08:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga,GA1.1.1004028348.1755104899,/,0,0,0,no_restriction,2026-09-17 17:08:18+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga_RJR9YSPNB8,deleted,/,0,0,0,no_restriction,2026-09-17 17:08:28+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga_RJR9YSPNB8,deleted,/,0,0,0,no_restriction,2026-09-17 17:08:28+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga_RJR9YSPNB8,GS2.1.s1755104898$o1$g0$t1755104908$j50$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:08:28+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+1195150976239651,.condusef.gob.mx,_ga_RJR9YSPNB8,GS2.1.s1755104898$o1$g0$t1755104908$j50$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:08:28+00:00,https://www.condusef.gob.mx/,condusef.gob.mx,condusef.gob.mx,0
+8248727074687158,.ubbj.gob.mx,_ga,GA1.3.522050864.1755104944,/,0,0,0,no_restriction,2026-09-17 17:09:03+00:00,https://ubbj.gob.mx/,ubbj.gob.mx,ubbj.gob.mx,0
+8248727074687158,.ubbj.gob.mx,_gid,GA1.3.22803845.1755104944,/,0,0,0,no_restriction,2025-08-14 17:09:03+00:00,https://ubbj.gob.mx/,ubbj.gob.mx,ubbj.gob.mx,0
+8248727074687158,.ubbj.gob.mx,_gat,1,/,0,0,0,no_restriction,2025-08-13 17:10:03+00:00,https://ubbj.gob.mx/,ubbj.gob.mx,ubbj.gob.mx,0
+8248727074687158,.ubbj.gob.mx,cf_clearance,ZpW4V5V6hpd7iKZiv5V56YRsDyNeyw15fml.tVYlvjc-1755104943-1.2.1.1-b0plUm4QiY0Yecbrv2HqOr4HPmgQTtcnTWGuXxLSUaFNX2uvW7lmdWUYgwzBBCqD02VGrIlCZxVg3tz9f2Py5r6Iv76L2tzqGNn1wZdf7gjirA3eVvssoyG9ckdd3s2sSUxYAGS0lCUBNbppnaFQjcoE6XvkEE.Jp7_NJ4evlsOWIIhNxvnBS7MJa3JKgnkoDgKBU5nJ1.CNKxQpKo5WXHt8ZLqIaw.qBJG.KfBa1oc,/,0,1,1,no_restriction,2026-08-13 17:09:03+00:00,https://ubbj.gob.mx/,ubbj.gob.mx,ubbj.gob.mx,0
+4697325263061250,www.salud.cdmx.gob.mx,october_session,eyJpdiI6IkdZTUlieHIxdktXTnlaWkdOaEE2ekE9PSIsInZhbHVlIjoiYlMrSytZa3V1QjJaSVpmeG11NDZmM0djdGpWaHFMQkpuSWZ6S2xidE9pV1FYUWZKZWZzU3FrUzAxYTQ0WlJwallDZW5NSkJZSk85azhhT0ttbjFLQnc9PSIsIm1hYyI6IjU1ODIxZGZmYjNiM2I4ODllYzIzZWQwOWMzZmYxM2U4YmYzZWIyZTQxNGZiNWNlOGQ2ZDlhMmUzZWE5YTNmMzkifQ%3D%3D,/,0,0,1,no_restriction,2025-08-13 19:09:19+00:00,https://www.salud.cdmx.gob.mx/,cdmx.gob.mx,cdmx.gob.mx,0
+4697325263061250,.cdmx.gob.mx,_ga,GA1.3.522911035.1755104961,/,0,0,0,no_restriction,2026-09-17 17:09:21+00:00,https://www.salud.cdmx.gob.mx/,cdmx.gob.mx,cdmx.gob.mx,0
+4697325263061250,.cdmx.gob.mx,_gid,GA1.3.386035944.1755104961,/,0,0,0,no_restriction,2025-08-14 17:09:21+00:00,https://www.salud.cdmx.gob.mx/,cdmx.gob.mx,cdmx.gob.mx,0
+4697325263061250,.cdmx.gob.mx,_gat,1,/,0,0,0,no_restriction,2025-08-13 17:10:21+00:00,https://www.salud.cdmx.gob.mx/,cdmx.gob.mx,cdmx.gob.mx,0
+4697325263061250,.cdmx.gob.mx,_ga_8HDPD8ZKFZ,deleted,/,0,0,0,no_restriction,2026-09-17 17:09:22+00:00,https://www.salud.cdmx.gob.mx/,cdmx.gob.mx,cdmx.gob.mx,0
+4697325263061250,.cdmx.gob.mx,_ga_8HDPD8ZKFZ,GS2.3.s1755104962$o1$g0$t1755104962$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:09:22+00:00,https://www.salud.cdmx.gob.mx/,cdmx.gob.mx,cdmx.gob.mx,0
+4697325263061250,.cdmx.gob.mx,_ga_8HDPD8ZKFZ,GS2.3.s1755104962$o1$g0$t1755104962$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:09:22+00:00,https://www.salud.cdmx.gob.mx/,cdmx.gob.mx,cdmx.gob.mx,0
+4935713177850182,uniondetula.gob.mx,wp_wpfileupload_39191b8f10e30adb16f8afe2dde30778,HAN1afZOBBH9mZY1Ew8phK9FNyF5RMf9,/,0,1,0,no_restriction,2025-08-15 17:09:43+00:00,https://uniondetula.gob.mx/,uniondetula.gob.mx,uniondetula.gob.mx,0
+4935713177850182,.youtube.com,YSC,kAFB-KvK1TA,/,1,1,1,no_restriction,,https://uniondetula.gob.mx/,youtube.com,uniondetula.gob.mx,1
+4935713177850182,.youtube.com,__Secure-ROLLOUT_TOKEN,CK2BjP-666ajtQEQg6TvyKOIjwMYg6TvyKOIjwM%3D,/,0,1,1,no_restriction,2026-02-09 17:09:43+00:00,https://uniondetula.gob.mx/,youtube.com,uniondetula.gob.mx,1
+4935713177850182,.youtube.com,VISITOR_INFO1_LIVE,1Gwa6yF_47E,/,0,1,1,no_restriction,2026-02-09 17:09:43+00:00,https://uniondetula.gob.mx/,youtube.com,uniondetula.gob.mx,1
+4935713177850182,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAw,/,0,1,1,no_restriction,2026-02-09 17:09:43+00:00,https://uniondetula.gob.mx/,youtube.com,uniondetula.gob.mx,1
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,0,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,twk_idm_key,-dzlKGlGzhWY3Ph6Ib9xr,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010275,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010275,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010376,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010376,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010476,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010476,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010576,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010576,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010677,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010677,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010778,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,1755105010778,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,0,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,www.tribunaloaxaca.gob.mx,TawkConnectionTime,0,/,1,1,0,lax,,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0
+4740962826938758,.tribunaloaxaca.gob.mx,twk_uuid_65e8d6d58d261e1b5f6996d9,%7B%22uuid%22%3A%221.gNLnEGXel2adQ4iCCGJU15bQhhI9PuYv6Hk61MUfpkMYlhezbCCXIQzGxIN9KxZTPfAYH0ikQY2QvRtU9Sd9hrJGGHAIOW1JzT50brVm6QUTpnxb24vqRx0cf6wlost7J%22%2C%22version%22%3A3%2C%22domain%22%3A%22tribunaloaxaca.gob.mx%22%2C%22ts%22%3A1755105010824%7D,/,0,1,0,lax,2026-02-09 17:10:10+00:00,https://www.tribunaloaxaca.gob.mx/,tribunaloaxaca.gob.mx,tribunaloaxaca.gob.mx,0

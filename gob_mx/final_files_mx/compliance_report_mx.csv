@@ -1,0 +1,12 @@
+domain,transfer_scope_norm,cookie_ownership_mixed,consent_mechanism,automated_decisions,cookies_total,cookies_3p_ratio,cookies_session_ratio,tracker_hit_ratio,req_3p_ratio,ok_cookie_ownership,ok_cookie_session_only,ok_consent_prior,ok_no_tracking_claim,possible_transfer_violation,matches,violations,unevaluable,compliance_score
+comisionacionaldebusqueda.gob.mx,,False,,False,8.0,0.0,0.0,0.713,0.713,,,,False,,0,1,4,0.0
+culturabcs.gob.mx,NONE,False,,False,136.0,0.926,0.081,0.939,0.948,,,,False,True,1,1,3,0.5
+datos.gob.mx,NONE,False,,False,23.0,0.0,0.043,0.699,0.699,,,,False,True,1,1,3,0.5
+gob.mx,,False,,False,10.0,0.0,0.2,0.74,0.753,,,,False,,0,1,4,0.0
+manzanillo.gob.mx,NONE,False,,False,2.0,0.0,0.0,0.807,0.816,,,,False,True,1,1,3,0.5
+poderjudicialqro.gob.mx,,False,,False,0.0,0.0,0.0,0.682,0.751,,,,False,,0,1,4,0.0
+queretaro.gob.mx,NONE,False,,False,13.0,0.0,0.308,0.256,0.256,,,,False,True,1,1,3,0.5
+salud.cdmx.gob.mx,,False,,False,7.0,0.0,0.0,0.818,0.818,,,,False,,0,1,4,0.0
+saludtlax.gob.mx,NONE,False,,False,0.0,0.0,0.0,0.605,0.605,,,,False,True,1,1,3,0.5
+te.gob.mx,NONE,False,,True,61.0,0.0,0.164,0.39,0.39,,,,False,True,1,1,3,0.5
+uniondetula.gob.mx,,False,,False,37.0,0.973,0.243,0.884,0.884,,,,False,,0,1,4,0.0

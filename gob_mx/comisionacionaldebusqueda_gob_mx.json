@@ -1,0 +1,71 @@
+{
+  "domain": "comisionacionaldebusqueda.gob.mx",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "c.go-mpulse.net",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "region1.google-analytics.com",
+    "s.go-mpulse.net",
+    "unpkg.com",
+    "use.fontawesome.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "INGRESS_STICKY",
+      "value": "1755282424.045.3243.877170|e111204022b23e5bf7a7a6e3313c6224",
+      "domain": "www.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "gZDdgji4wLT6gk_qVoYUrA-Pkea3cqstqSdy61_R.gobmx-wildfly-1",
+      "domain": "www.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1951259306.1755282427",
+      "domain": ".www.gob.mx",
+      "path": "/",
+      "expires": 1818354427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_4S99M4K51W",
+      "value": "GS2.1.s1755282427$o1$g0$t1755282427$j60$l0$h0",
+      "domain": ".www.gob.mx",
+      "path": "/",
+      "expires": 1818354427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "october_session",
+      "value": "eyJpdiI6InNUMjhybmRmK1VaRDVtMWpkQVZDcnc9PSIsInZhbHVlIjoiMmhoSFZLNnRhTjVqM3dCMjNLSnluR213RFk1b2lRaWpjdGduWW5oXC94OUtldVNRcWh3U2VQY2FQb2NaV1FvaW5zRE9IV2ZCRFp5cGJmNTMwTUJRNlwvdz09IiwibWFjIjoiOWNkMWY0N2IwODk3NDJhY2Y4OWI1NTg5MjBlNThhNWZjNTY1ODM5MTE5ZGU2YzNkMWM0OTg0NDEyNTAyZDFkMyJ9",
+      "domain": "www.salud.cdmx.gob.mx",
+      "path": "/",
+      "expires": 1755289625,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}

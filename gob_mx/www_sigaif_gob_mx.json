@@ -1,0 +1,707 @@
+{
+  "domain": "www.sigaif.gob.mx",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "ajax.googleapis.com",
+    "code.jquery.com",
+    "rum-collector-2.pingdom.net",
+    "rum-static.pingdom.net"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.1224591245.1755282425",
+      "domain": ".comisionacionaldebusqueda.gob.mx",
+      "path": "/",
+      "expires": 1818354425,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_MB8D1ZBTSH",
+      "value": "GS2.1.s1755282425$o1$g0$t1755282430$j55$l0$h0",
+      "domain": ".comisionacionaldebusqueda.gob.mx",
+      "path": "/",
+      "expires": 1818354430,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzma",
+      "value": "8e9f1312-35ea-44a2-95f9-b0585fb13de6",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1771007330,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmb",
+      "value": "1755282528",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1771007330,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzme",
+      "value": "3803",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1771007330,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ci_session_www_",
+      "value": "a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221b4ac0ffc16f8ca09f9c52ce5a37325b%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2210.10.201.58%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A70%3A%22Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A125.0%29+Gecko%2F20100101+Firefox%2F125.0%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1755282529%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D9f0b8f2eb91bf051f6c6fea60cac9fd9a305fb02",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_KGG2HPQGKX",
+      "value": "GS2.1.s1755282531$o1$g0$t1755282531$j60$l0$h0",
+      "domain": ".te.gob.mx",
+      "path": "/",
+      "expires": 1818354532,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.645030648.1755282532",
+      "domain": ".te.gob.mx",
+      "path": "/",
+      "expires": 1818354532,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ssds",
+      "value": "0",
+      "domain": ".te.gob.mx",
+      "path": "/",
+      "expires": 1770838134,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "AlteonP",
+      "value": "AN96QTrJCgqVsrY5ivC8Uw$$",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ssuzjsr0",
+      "value": "a9be0cd8e",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1770838135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzmaj0",
+      "value": "8e9f1312-35ea-44a2-95f9-b0585fb13de6",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1770838135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzmbj0",
+      "value": "1755282535",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1770838135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzmcj0",
+      "value": "134271060355",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1770838135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzmdj0",
+      "value": "1755282535",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1770838135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzmlj0",
+      "value": "UXrwhkZJVlXTlOE3sjV2zYN5NVYS554C4QfvS6Am5hA=",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1770838135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzmfj0",
+      "value": "7f90008e9f1312-35ea-44a2-95f9-b0585fb13de61-17552825356750-00097d8d383177edf9f10",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1770838135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "uzmxj",
+      "value": "7f90002d7a2af9-793d-45cf-af1b-a144e5d407341-17552825356750-c0011e6258400b8f10",
+      "domain": ".te.gob.mx",
+      "path": "/",
+      "expires": 1770838135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzma",
+      "value": "aff5706a-6d99-4b53-b0bd-b6e883e5c4e8",
+      "domain": "mic.te.gob.mx",
+      "path": "/",
+      "expires": 1771007336,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmb",
+      "value": "1755282535",
+      "domain": "mic.te.gob.mx",
+      "path": "/",
+      "expires": 1771007336,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzme",
+      "value": "0815",
+      "domain": "mic.te.gob.mx",
+      "path": "/",
+      "expires": 1771007336,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmc",
+      "value": "210521017991",
+      "domain": "mic.te.gob.mx",
+      "path": "/",
+      "expires": 1771007336,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmd",
+      "value": "1755282535",
+      "domain": "mic.te.gob.mx",
+      "path": "/",
+      "expires": 1771007336,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmf",
+      "value": "7f9000aff5706a-6d99-4b53-b0bd-b6e883e5c4e81-17552825355340-00004dbe44bcabf789910",
+      "domain": "mic.te.gob.mx",
+      "path": "/",
+      "expires": 1771007336,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ci_session",
+      "value": "d0hqs3hrkmsaacnuna7570ab3auac20h",
+      "domain": "mic.te.gob.mx",
+      "path": "/",
+      "expires": 1755289736,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__uzmc",
+      "value": "807641348937",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1771007337,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmd",
+      "value": "1755282535",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1771007337,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmf",
+      "value": "7f90008e9f1312-35ea-44a2-95f9-b0585fb13de61-17552825293246540-000024273186841cc7c13",
+      "domain": "www.te.gob.mx",
+      "path": "/",
+      "expires": 1771007337,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uzmx",
+      "value": "7f90002d7a2af9-793d-45cf-af1b-a144e5d407341-17552825293246540-6bcbf775812527fb13",
+      "domain": ".te.gob.mx",
+      "path": "/",
+      "expires": 1771007337,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "927338da29ec30a67d8cc5aa38cbaed7",
+      "value": "0t12j7s0qnjlaf5k4alpqe2il6",
+      "domain": "portal.saludsonora.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "INGRESS_STICKY",
+      "value": "1755282424.045.3243.877170|e111204022b23e5bf7a7a6e3313c6224",
+      "domain": "www.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "gZDdgji4wLT6gk_qVoYUrA-Pkea3cqstqSdy61_R.gobmx-wildfly-1",
+      "domain": "www.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1951259306.1755282427",
+      "domain": ".www.gob.mx",
+      "path": "/",
+      "expires": 1818354427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_4S99M4K51W",
+      "value": "GS2.1.s1755282427$o1$g0$t1755282431$j56$l0$h0",
+      "domain": ".www.gob.mx",
+      "path": "/",
+      "expires": 1818354431,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "wp_wpfileupload_39191b8f10e30adb16f8afe2dde30778",
+      "value": "Faw8zjPWMwcNgPEYhzP22FdPHCMO6TyQ",
+      "domain": "uniondetula.gob.mx",
+      "path": "/",
+      "expires": 1755455243,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6InRUQW84NnZETkVhdjBPVXhxNTJ5Wnc9PSIsInZhbHVlIjoieTEwZnZEUU9OeXBzZmZOQ3hkUWhWUDBrVDA1WktzbWdZZFh3NGVMQ08vV3hrTUUzYjUzWklZc3NUbFR4akwrcDVJUVN0ZGtTbk5vNEIwdjJLQ3lEVDh5bVp5RFI1SUJ2MVFKRjhPRUFlMVg3TnpjejNCRTYvOVRFcGE5TVd0N20iLCJtYWMiOiJlZDVkNjkwZTJhNzY1NTQwODdjMzAwZTg1OGU1MjE4MmI4ZmU5Nzc1ZTU3MjQyY2NhOTM0OGZiNTI1ZWU5ZTU1IiwidGFnIjoiIn0%3D",
+      "domain": "manzanillo.gob.mx",
+      "path": "/",
+      "expires": 1755289662,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "h_ayuntamiento_de_manzanillo_session",
+      "value": "eyJpdiI6ImVnTUVCbTI3clVPNlN0QTdPQ0p0VHc9PSIsInZhbHVlIjoiTmpLcHptamJHMWl0WGtRYi9LRTN6N2FhdU05M29aSTBoN1Z1VVBORGZ6RHVLWTIreEovbms3NFZnMHdhajdkYWg4aHJpQVlReVZ4a0tZWU8zeVhTelhJbnJUVGRkNllkN3hiTW1DcHdRWG1oZGNoVnkzS1JZWWVKOUU3dTlpWlAiLCJtYWMiOiI5Y2QxYzk3YjllMDE2ODM4MTI4ZDdmMjYzM2MzZTBkMWZkZmFhNDE0ZjVmMzg3ZWExMjUyMDg1ZDZlMzgwNDMxIiwidGFnIjoiIn0%3D",
+      "domain": "manzanillo.gob.mx",
+      "path": "/",
+      "expires": 1755289662,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YSC",
+      "value": "08Knf8bSn94",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CNC2w8WLzO2gMxCEhePUuI2PAxigifjZuI2PAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770834455,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "IOvXohamyp4",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770834555,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAq",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770834555,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "CIJ1T1CTlzAJjE16CQwNraKtPIi3zioa3UJEhdi2crg-1755282478-1.0.1.1-n9U1I0GxypfTvllJJeDrwkjBrqHNKDnTx6aOLjHtiVwfQdwPiQIN31pdmnAYrzmeVFjmydYt1DBl3MABpTwjb_V.XYQGvy445A3IU8yzLVU",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1755284278,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookiesession1",
+      "value": "678B28868B3AEBDA94888685C1B0BF4F",
+      "domain": "www.condusef.gob.mx",
+      "path": "/",
+      "expires": 1786818535,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".condusef.gob.mx",
+      "path": "/",
+      "expires": 1755282606,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1115063212.1755282546",
+      "domain": ".condusef.gob.mx",
+      "path": "/",
+      "expires": 1755368947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_UA-11440832-1",
+      "value": "1",
+      "domain": ".condusef.gob.mx",
+      "path": "/",
+      "expires": 1755282607,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_RJR9YSPNB8",
+      "value": "GS2.1.s1755282548$o1$g0$t1755282548$j60$l0$h0",
+      "domain": ".condusef.gob.mx",
+      "path": "/",
+      "expires": 1818354548,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.212063011.1755282546",
+      "domain": ".condusef.gob.mx",
+      "path": "/",
+      "expires": 1818354548,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ak_bmsc",
+      "value": "9D08967E078D5EE61190F763D7FB76FF~000000000000000000000000000000~YAAQ0LMSAuuceKCYAQAA1Hr+rhxjaiu/brFl3JJvX6tNAMiP7f33rWWoFQHpyR+GwDjTTKnEtfPGUz+cV0HQYEbAqB17YdzX59EEQELTv3sXWur+T1CmiaUQZP1CU2/vxXmv1b6Enc+xm9CtEWoUsNTE9C3E6rcs8FjlhLDVzUWVRUlVOYlxdw7QdeS4AIO0NBbwc2as3ojiOAKceD/do9qL3e2uWssCHqvkTN3vv/S/VBzHrjMVoo2x/fTzMpgqwgV/FVIHhwahnL/AzeVHT7HifOP8p7SnzQp0mrKVyyJ7aEeXlxQ6w5ZTDiwH8NJ40tMC6ysyd6NhhLA4F/k2CzDFZcVUgAyntEX0Fo/b9ERadPO45yKRnJRgn56yTOSUhrpCkJP2sfZ6ZS9B2IHdoZzij+Mq/zz0sBCf0V1paeX7lxPqKFzPqDEg",
+      "domain": ".datos.gob.mx",
+      "path": "/",
+      "expires": 1755289769,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckan",
+      "value": "eyJfY3NyZl90b2tlbiI6IjU5YmJiMmJjYzM2MzA3YjE5YWU3NjU4YmQ0NDVhMjVjNjhjODgxODYiLCJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.aJ976A.STcdTkOnGT12uOMv2hJeIzBkPlU",
+      "domain": "datos.gob.mx",
+      "path": "/",
+      "expires": 1786818408,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "0BFB0F395FFA64718207AC2978F9B481",
+      "domain": "queretaro.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "COOKIE_SUPPORT",
+      "value": "true",
+      "domain": "queretaro.gob.mx",
+      "path": "/",
+      "expires": 1786818515,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GUEST_LANGUAGE_ID",
+      "value": "es_ES",
+      "domain": "queretaro.gob.mx",
+      "path": "/",
+      "expires": 1786818515,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookiesession1",
+      "value": "678B2867341285709A8E35BEC41091A1",
+      "domain": "queretaro.gob.mx",
+      "path": "/",
+      "expires": 1786818515,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.579302651.1755282524",
+      "domain": ".queretaro.gob.mx",
+      "path": "/",
+      "expires": 1818354523,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.883874592.1755282524",
+      "domain": ".queretaro.gob.mx",
+      "path": "/",
+      "expires": 1755368923,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".queretaro.gob.mx",
+      "path": "/",
+      "expires": 1755282583,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_JDN13ZMJH9",
+      "value": "GS2.3.s1755282526$o1$g0$t1755282526$j60$l0$h955098303",
+      "domain": ".queretaro.gob.mx",
+      "path": "/",
+      "expires": 1818354526,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IjVWNzM5TjB1SllFWXBFWnlya0V0Z2c9PSIsInZhbHVlIjoibk1oYTNRcG1MNjdNeFE0OWkwaFA3OWVvVWcxaGN6UGVDcE5scG4wMW1kV1Jubjh5WkRPN1Q2bkNGODhvTlFya3NKSzhnSjVFd0JoaHBXeWZXQ3RTV1E9PSIsIm1hYyI6ImU4ZGFmY2U4YTIzOGRlZWM0NGViNDhkNDc4MjVhMDVkMjNlMjI3Njg2N2M0YjY4ZjQwNzAxNDFmYzQyYTIzZjIifQ%3D%3D",
+      "domain": "culturabcs.gob.mx",
+      "path": "/",
+      "expires": 1755289737,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "laravel_session",
+      "value": "eyJpdiI6Ink4M2hSa0JqRFwvd2E1dmcyNVJXeGV3PT0iLCJ2YWx1ZSI6IkhwXC82QThVZFFSMW4zWEhUY3hybFl6U29NNVRYdGU3Zmk4cWJwdjhGMjdZdURqY21pSzk0NEx5UExmbnlaOFgzSDF2RFg0cVF5Rkt1RHliV1MzSU1Mdz09IiwibWFjIjoiZjA5MTJkYTdlMjk2MDA2ZWU0NWFmYTljNTkyYTc4ZjAzNjk3ZjdhNTIyMDY3ZmJlYTFmZjg3NDBhYzFiMzdjMiJ9",
+      "domain": "culturabcs.gob.mx",
+      "path": "/",
+      "expires": 1755289737,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.982723669.1755282553",
+      "domain": ".culturabcs.gob.mx",
+      "path": "/",
+      "expires": 1818354552,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.199623373.1755282553",
+      "domain": ".culturabcs.gob.mx",
+      "path": "/",
+      "expires": 1755368952,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".culturabcs.gob.mx",
+      "path": "/",
+      "expires": 1755282612,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_BQSZHB3E03",
+      "value": "GS2.3.s1755282559$o1$g0$t1755282559$j60$l0$h0",
+      "domain": ".culturabcs.gob.mx",
+      "path": "/",
+      "expires": 1818354559,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "october_session",
+      "value": "eyJpdiI6InNUMjhybmRmK1VaRDVtMWpkQVZDcnc9PSIsInZhbHVlIjoiMmhoSFZLNnRhTjVqM3dCMjNLSnluR213RFk1b2lRaWpjdGduWW5oXC94OUtldVNRcWh3U2VQY2FQb2NaV1FvaW5zRE9IV2ZCRFp5cGJmNTMwTUJRNlwvdz09IiwibWFjIjoiOWNkMWY0N2IwODk3NDJhY2Y4OWI1NTg5MjBlNThhNWZjNTY1ODM5MTE5ZGU2YzNkMWM0OTg0NDEyNTAyZDFkMyJ9",
+      "domain": "www.salud.cdmx.gob.mx",
+      "path": "/",
+      "expires": 1755289625,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1693146564.1755282431",
+      "domain": ".cdmx.gob.mx",
+      "path": "/",
+      "expires": 1818354430,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1645285523.1755282431",
+      "domain": ".cdmx.gob.mx",
+      "path": "/",
+      "expires": 1755368830,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".cdmx.gob.mx",
+      "path": "/",
+      "expires": 1755282491,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_8HDPD8ZKFZ",
+      "value": "GS2.3.s1755282432$o1$g0$t1755282432$j60$l0$h0",
+      "domain": ".cdmx.gob.mx",
+      "path": "/",
+      "expires": 1818354432,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}

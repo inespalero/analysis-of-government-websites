@@ -1,0 +1,167 @@
+{
+  "domain": "www.salud.cdmx.gob.mx",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "img.youtube.com",
+    "region1.google-analytics.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "INGRESS_STICKY",
+      "value": "1755282424.045.3243.877170|e111204022b23e5bf7a7a6e3313c6224",
+      "domain": "www.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "gZDdgji4wLT6gk_qVoYUrA-Pkea3cqstqSdy61_R.gobmx-wildfly-1",
+      "domain": "www.gob.mx",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1951259306.1755282427",
+      "domain": ".www.gob.mx",
+      "path": "/",
+      "expires": 1818354427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_4S99M4K51W",
+      "value": "GS2.1.s1755282427$o1$g0$t1755282431$j56$l0$h0",
+      "domain": ".www.gob.mx",
+      "path": "/",
+      "expires": 1818354431,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "wp_wpfileupload_39191b8f10e30adb16f8afe2dde30778",
+      "value": "Faw8zjPWMwcNgPEYhzP22FdPHCMO6TyQ",
+      "domain": "uniondetula.gob.mx",
+      "path": "/",
+      "expires": 1755455243,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "YSC",
+      "value": "08Knf8bSn94",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "IOvXohamyp4",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770834455,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiAq",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770834455,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CNC2w8WLzO2gMxCEhePUuI2PAxigifjZuI2PAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770834455,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1693146564.1755282431",
+      "domain": ".cdmx.gob.mx",
+      "path": "/",
+      "expires": 1818354430,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1645285523.1755282431",
+      "domain": ".cdmx.gob.mx",
+      "path": "/",
+      "expires": 1755368830,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".cdmx.gob.mx",
+      "path": "/",
+      "expires": 1755282491,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_8HDPD8ZKFZ",
+      "value": "GS2.3.s1755282432$o1$g0$t1755282432$j60$l0$h0",
+      "domain": ".cdmx.gob.mx",
+      "path": "/",
+      "expires": 1818354432,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1224591245.1755282425",
+      "domain": ".comisionacionaldebusqueda.gob.mx",
+      "path": "/",
+      "expires": 1818354425,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_MB8D1ZBTSH",
+      "value": "GS2.1.s1755282425$o1$g0$t1755282430$j55$l0$h0",
+      "domain": ".comisionacionaldebusqueda.gob.mx",
+      "path": "/",
+      "expires": 1818354430,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": false
+}
