@@ -1,0 +1,59 @@
+{
+  "domain": "www.karoohoogland.gov.za",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "ajax.googleapis.com",
+    "code.jquery.com",
+    "maps.google.com",
+    "maps.googleapis.com",
+    "maxcdn.bootstrapcdn.com",
+    "oss.maxcdn.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "YSC",
+      "value": "qXHHy2B83Dc",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "klEia9BRiDk",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890125,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiA9",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890125,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CKjt46mbtMT7cRCopriLiI-PAxiopriLiI-PAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890125,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}

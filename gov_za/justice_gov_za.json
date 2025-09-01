@@ -1,0 +1,98 @@
+{
+  "domain": "justice.gov.za",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "ajax.googleapis.com",
+    "buttons-config.sharethis.com",
+    "connect.facebook.net",
+    "count-server.sharethis.com",
+    "in.hotjar.com",
+    "l.sharethis.com",
+    "platform-api.sharethis.com",
+    "platform-cdn.sharethis.com",
+    "region1.google-analytics.com",
+    "script.hotjar.com",
+    "static.hotjar.com",
+    "surveystats.hotjar.io",
+    "vc.hotjar.io",
+    "web.facebook.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "YSC",
+      "value": "qXHHy2B83Dc",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "klEia9BRiDk",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890130,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiA9",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890130,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CKjt46mbtMT7cRCopriLiI-PAxjt1eCNiI-PAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890130,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "1b1d1d142dd85f1411bfe91b1c2cb406",
+      "value": "1755338125",
+      "domain": "edumbe.gov.za",
+      "path": "/",
+      "expires": 1755942930,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "e1fdce36a9615ec8292f7c891908d9cf",
+      "domain": "khaima.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANMylNB148MzRvQOB-QxDVblDVZ9AIMr82F0iT5bDGrukWGzY27uY5RNf2u2QzPmac91_aKKaG3-FvlntEo0SRU",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1770890133,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}

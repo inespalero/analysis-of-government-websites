@@ -1,0 +1,102 @@
+visit_id,host,name,value,path,is_session,is_secure,is_http_only,same_site,expiry,first_party,cookie_domain,fp_domain,is_third_party
+7603129937976433,.youtube.com,YSC,rAQSpJXpZLI,/,1,1,1,no_restriction,,https://www.andm.gov.za/,youtube.com,andm.gov.za,1
+7603129937976433,.youtube.com,VISITOR_INFO1_LIVE,fB-2QP4hMss,/,0,1,1,no_restriction,2026-02-09 17:59:10+00:00,https://www.andm.gov.za/,youtube.com,andm.gov.za,1
+7603129937976433,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBN,/,0,1,1,no_restriction,2026-02-09 17:59:10+00:00,https://www.andm.gov.za/,youtube.com,andm.gov.za,1
+7603129937976433,.youtube.com,__Secure-ROLLOUT_TOKEN,CJrUpN71pvTbuAEQ8YG4z66IjwMY8YG4z66IjwM%3D,/,0,1,1,no_restriction,2026-02-09 17:59:10+00:00,https://www.andm.gov.za/,youtube.com,andm.gov.za,1
+1513905639421473,.dannhauser.gov.za,sbjs_migrations,1418474375998%3D1,/,1,0,0,no_restriction,,https://www.dannhauser.gov.za/,dannhauser.gov.za,dannhauser.gov.za,0
+1513905639421473,.dannhauser.gov.za,sbjs_current_add,fd%3D2025-08-13%2017%3A59%3A28%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.dannhauser.gov.za%2F%7C%7C%7Crf%3D%28none%29,/,1,0,0,no_restriction,,https://www.dannhauser.gov.za/,dannhauser.gov.za,dannhauser.gov.za,0
+1513905639421473,.dannhauser.gov.za,sbjs_first_add,fd%3D2025-08-13%2017%3A59%3A28%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.dannhauser.gov.za%2F%7C%7C%7Crf%3D%28none%29,/,1,0,0,no_restriction,,https://www.dannhauser.gov.za/,dannhauser.gov.za,dannhauser.gov.za,0
+1513905639421473,.dannhauser.gov.za,sbjs_current,typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29,/,1,0,0,no_restriction,,https://www.dannhauser.gov.za/,dannhauser.gov.za,dannhauser.gov.za,0
+1513905639421473,.dannhauser.gov.za,sbjs_first,typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29,/,1,0,0,no_restriction,,https://www.dannhauser.gov.za/,dannhauser.gov.za,dannhauser.gov.za,0
+1513905639421473,.dannhauser.gov.za,sbjs_udata,vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%3B%20rv%3A134.0%29%20Gecko%2F20100101%20Firefox%2F134.0,/,1,0,0,no_restriction,,https://www.dannhauser.gov.za/,dannhauser.gov.za,dannhauser.gov.za,0
+1513905639421473,.dannhauser.gov.za,sbjs_session,pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fwww.dannhauser.gov.za%2F,/,0,0,0,no_restriction,2025-08-13 18:29:28+00:00,https://www.dannhauser.gov.za/,dannhauser.gov.za,dannhauser.gov.za,0
+4285531849715480,.www.capewinelands.gov.za,__wpdm_client,919f5da2091859c939aa4e4c3622981b,/,1,1,1,no_restriction,,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+4285531849715480,.capewinelands.gov.za,_ga_HP1RMYQSKZ,deleted,/,0,0,0,no_restriction,2026-09-17 17:59:49+00:00,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+4285531849715480,.capewinelands.gov.za,_ga_HP1RMYQSKZ,GS2.1.s1755107989$o1$g0$t1755107989$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:59:49+00:00,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+4285531849715480,.capewinelands.gov.za,_ga_HP1RMYQSKZ,GS2.1.s1755107989$o1$g0$t1755107989$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:59:49+00:00,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+4285531849715480,.capewinelands.gov.za,_ga,GA1.1.1360290913.1755107990,/,0,0,0,no_restriction,2026-09-17 17:59:49+00:00,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+4285531849715480,.capewinelands.gov.za,_ga_HP1RMYQSKZ,deleted,/,0,0,0,no_restriction,2026-09-17 17:59:58+00:00,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+4285531849715480,.capewinelands.gov.za,_ga_HP1RMYQSKZ,deleted,/,0,0,0,no_restriction,2026-09-17 17:59:58+00:00,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+4285531849715480,.capewinelands.gov.za,_ga_HP1RMYQSKZ,GS2.1.s1755107989$o1$g0$t1755107998$j51$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:59:58+00:00,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+4285531849715480,.capewinelands.gov.za,_ga_HP1RMYQSKZ,GS2.1.s1755107989$o1$g0$t1755107998$j51$l0$h0,/,0,0,0,no_restriction,2026-09-17 17:59:58+00:00,https://www.capewinelands.gov.za/,capewinelands.gov.za,capewinelands.gov.za,0
+2980350332439836,dikgatlong.gov.za,7f0976323ef46ad388f79f653b1885d5,2b657be355e0a8513041a446e79a0de7,/,1,1,1,no_restriction,,https://dikgatlong.gov.za/,dikgatlong.gov.za,dikgatlong.gov.za,0
+1628225849767779,.soundcloud.com,sc_anonymous_id,407099-974082-836685-643907,/,0,0,0,no_restriction,2026-09-17 18:00:54+00:00,https://dirco.gov.za/,soundcloud.com,dirco.gov.za,1
+1628225849767779,.dirco.gov.za,_ga_3BK715QVM9,deleted,/,0,0,0,no_restriction,2026-09-17 18:00:55+00:00,https://dirco.gov.za/,dirco.gov.za,dirco.gov.za,0
+1628225849767779,.dirco.gov.za,_ga_3BK715QVM9,GS2.1.s1755108055$o1$g0$t1755108055$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:00:55+00:00,https://dirco.gov.za/,dirco.gov.za,dirco.gov.za,0
+1628225849767779,.dirco.gov.za,_ga_3BK715QVM9,GS2.1.s1755108055$o1$g0$t1755108055$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:00:55+00:00,https://dirco.gov.za/,dirco.gov.za,dirco.gov.za,0
+1628225849767779,.dirco.gov.za,_ga,GA1.1.1577401408.1755108055,/,0,0,0,no_restriction,2026-09-17 18:00:55+00:00,https://dirco.gov.za/,dirco.gov.za,dirco.gov.za,0
+1628225849767779,.dirco.gov.za,_ga_3BK715QVM9,deleted,/,0,0,0,no_restriction,2026-09-17 18:01:00+00:00,https://dirco.gov.za/,dirco.gov.za,dirco.gov.za,0
+1628225849767779,.dirco.gov.za,_ga_3BK715QVM9,deleted,/,0,0,0,no_restriction,2026-09-17 18:01:00+00:00,https://dirco.gov.za/,dirco.gov.za,dirco.gov.za,0
+1628225849767779,.dirco.gov.za,_ga_3BK715QVM9,GS2.1.s1755108055$o1$g0$t1755108060$j55$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:00+00:00,https://dirco.gov.za/,dirco.gov.za,dirco.gov.za,0
+1628225849767779,.dirco.gov.za,_ga_3BK715QVM9,GS2.1.s1755108055$o1$g0$t1755108060$j55$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:00+00:00,https://dirco.gov.za/,dirco.gov.za,dirco.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_QHM32FRK1H,deleted,/,0,0,0,no_restriction,2026-09-17 18:01:29+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_QHM32FRK1H,GS2.1.s1755108089$o1$g0$t1755108089$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:29+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_QHM32FRK1H,GS2.1.s1755108089$o1$g0$t1755108089$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:29+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga,GA1.1.1242932588.1755108090,/,0,0,0,no_restriction,2026-09-17 18:01:29+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_NML26MB2KY,deleted,/,0,0,0,no_restriction,2026-09-17 18:01:30+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_NML26MB2KY,GS2.1.s1755108090$o1$g0$t1755108090$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:30+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_NML26MB2KY,GS2.1.s1755108090$o1$g0$t1755108090$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:30+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_QHM32FRK1H,deleted,/,0,0,0,no_restriction,2026-09-17 18:01:36+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_QHM32FRK1H,deleted,/,0,0,0,no_restriction,2026-09-17 18:01:36+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_QHM32FRK1H,GS2.1.s1755108089$o1$g0$t1755108096$j53$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:36+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_QHM32FRK1H,GS2.1.s1755108089$o1$g0$t1755108096$j53$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:36+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_NML26MB2KY,deleted,/,0,0,0,no_restriction,2026-09-17 18:01:36+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_NML26MB2KY,deleted,/,0,0,0,no_restriction,2026-09-17 18:01:36+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_NML26MB2KY,GS2.1.s1755108090$o1$g0$t1755108096$j54$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:36+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+2589108854670241,.ecprov.gov.za,_ga_NML26MB2KY,GS2.1.s1755108090$o1$g0$t1755108096$j54$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:01:36+00:00,https://ecprov.gov.za/,ecprov.gov.za,ecprov.gov.za,0
+1170795286803496,.youtube.com,YSC,jP2evwXTsGQ,/,1,1,1,no_restriction,,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,.youtube.com,__Secure-ROLLOUT_TOKEN,CNG3tqiFw4a3jAEQtJrkm6-IjwMYtJrkm6-IjwM%3D,/,0,1,1,no_restriction,2026-02-09 18:01:50+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,.youtube.com,VISITOR_INFO1_LIVE,sAx5LmbcXhY,/,0,1,1,no_restriction,2026-02-09 18:01:50+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBn,/,0,1,1,no_restriction,2026-02-09 18:01:50+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,edumbe.gov.za,1b1d1d142dd85f1411bfe91b1c2cb406,1755108110,/,0,0,0,no_restriction,2025-08-20 18:01:51+00:00,https://edumbe.gov.za/,edumbe.gov.za,edumbe.gov.za,0
+1170795286803496,.youtube.com,__Secure-ROLLOUT_TOKEN,CNG3tqiFw4a3jAEQtJrkm6-IjwMYzJfWnK-IjwM%3D,/,0,1,1,no_restriction,2026-02-09 18:01:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,.youtube.com,__Secure-ROLLOUT_TOKEN,CNG3tqiFw4a3jAEQtJrkm6-IjwMYzJfWnK-IjwM%3D,/,0,1,1,no_restriction,2026-02-09 18:01:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,.youtube.com,VISITOR_INFO1_LIVE,sAx5LmbcXhY,/,0,1,1,no_restriction,2026-02-09 18:01:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,.youtube.com,VISITOR_INFO1_LIVE,sAx5LmbcXhY,/,0,1,1,no_restriction,2026-02-09 18:01:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBn,/,0,1,1,no_restriction,2026-02-09 18:01:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,.youtube.com,VISITOR_PRIVACY_METADATA,CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBn,/,0,1,1,no_restriction,2026-02-09 18:01:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 18:02:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 18:02:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 18:02:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 18:02:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 18:02:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 18:02:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 18:02:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+1170795286803496,www.youtube.com,TESTCOOKIESENABLED,1,/embed,0,0,0,no_restriction,2025-08-13 18:02:52+00:00,https://edumbe.gov.za/,youtube.com,edumbe.gov.za,1
+513008325525634,.george.gov.za,_ga_9SS0LVCQD4,deleted,/,0,0,0,no_restriction,2026-09-17 18:03:27+00:00,https://www.george.gov.za/,george.gov.za,george.gov.za,0
+513008325525634,.george.gov.za,_ga_9SS0LVCQD4,GS2.1.s1755108207$o1$g0$t1755108207$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:03:27+00:00,https://www.george.gov.za/,george.gov.za,george.gov.za,0
+513008325525634,.george.gov.za,_ga_9SS0LVCQD4,GS2.1.s1755108207$o1$g0$t1755108207$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:03:27+00:00,https://www.george.gov.za/,george.gov.za,george.gov.za,0
+513008325525634,.george.gov.za,_ga,GA1.1.77182635.1755108207,/,0,0,0,no_restriction,2026-09-17 18:03:27+00:00,https://www.george.gov.za/,george.gov.za,george.gov.za,0
+513008325525634,.george.gov.za,_ga_9SS0LVCQD4,deleted,/,0,0,0,no_restriction,2026-09-17 18:03:31+00:00,https://www.george.gov.za/,george.gov.za,george.gov.za,0
+513008325525634,.george.gov.za,_ga_9SS0LVCQD4,deleted,/,0,0,0,no_restriction,2026-09-17 18:03:31+00:00,https://www.george.gov.za/,george.gov.za,george.gov.za,0
+513008325525634,.george.gov.za,_ga_9SS0LVCQD4,GS2.1.s1755108207$o1$g0$t1755108211$j56$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:03:31+00:00,https://www.george.gov.za/,george.gov.za,george.gov.za,0
+513008325525634,.george.gov.za,_ga_9SS0LVCQD4,GS2.1.s1755108207$o1$g0$t1755108211$j56$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:03:31+00:00,https://www.george.gov.za/,george.gov.za,george.gov.za,0
+2972328472577550,.www.health.gov.za,ARRAffinity,0befc48d75b6e04c4d602aab20a9e9bfd5e8d39402b43621fe9879088cfb31d7,/,1,1,1,no_restriction,,https://www.health.gov.za/,health.gov.za,health.gov.za,0
+2972328472577550,.www.health.gov.za,ARRAffinitySameSite,0befc48d75b6e04c4d602aab20a9e9bfd5e8d39402b43621fe9879088cfb31d7,/,1,1,1,no_restriction,,https://www.health.gov.za/,health.gov.za,health.gov.za,0
+2972328472577550,www.health.gov.za,joe-chnlcustid,66072f38-a4be-42a8-85a5-655e18b42999,/,0,0,0,no_restriction,2026-08-13 18:04:09+00:00,https://www.health.gov.za/,health.gov.za,health.gov.za,0
+5189025495194060,justice.gov.za,__sharethis_cookie_test__,1,/,1,0,0,no_restriction,,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,justice.gov.za,__sharethis_cookie_test__,1,/,1,0,0,no_restriction,,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_ga_L5DF7C5XXT,deleted,/,0,0,0,no_restriction,2026-09-17 18:04:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_ga_L5DF7C5XXT,GS2.1.s1755108271$o1$g0$t1755108271$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:04:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_ga_L5DF7C5XXT,GS2.1.s1755108271$o1$g0$t1755108271$j60$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:04:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_ga,GA1.1.1424585842.1755108271,/,0,0,0,no_restriction,2026-09-17 18:04:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_hjSessionUser_158209,eyJpZCI6IjJlN2VjZTg3LWRkYmMtNTU4MC1hNzgxLTgzNWFhYjIzYWM4NSIsImNyZWF0ZWQiOjE3NTUxMDgyNzEzMDUsImV4aXN0aW5nIjpmYWxzZX0=,/,0,1,0,no_restriction,2026-08-13 18:04:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_hjSession_158209,eyJpZCI6IjcxYzcwNTNhLTUxMGItNDRkOC05OGY3LWNmZGY4YjdiNzQyMiIsImMiOjE3NTUxMDgyNzEzMDcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowfQ==,/,0,1,0,no_restriction,2025-08-13 18:34:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_hjSession_158209,eyJpZCI6IjcxYzcwNTNhLTUxMGItNDRkOC05OGY3LWNmZGY4YjdiNzQyMiIsImMiOjE3NTUxMDgyNzEzMDcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=,/,0,1,0,no_restriction,2025-08-13 18:34:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_hjSession_158209,eyJpZCI6IjcxYzcwNTNhLTUxMGItNDRkOC05OGY3LWNmZGY4YjdiNzQyMiIsImMiOjE3NTUxMDgyNzEzMDcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=,/,0,1,0,no_restriction,2025-08-13 18:34:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_hjSession_158209,eyJpZCI6IjcxYzcwNTNhLTUxMGItNDRkOC05OGY3LWNmZGY4YjdiNzQyMiIsImMiOjE3NTUxMDgyNzEzMDcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=,/,0,1,0,no_restriction,2025-08-13 18:34:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_hjSession_158209,eyJpZCI6IjcxYzcwNTNhLTUxMGItNDRkOC05OGY3LWNmZGY4YjdiNzQyMiIsImMiOjE3NTUxMDgyNzEzMDcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=,/,0,1,0,no_restriction,2025-08-13 18:34:31+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_ga_L5DF7C5XXT,deleted,/,0,0,0,no_restriction,2026-09-17 18:04:40+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_ga_L5DF7C5XXT,deleted,/,0,0,0,no_restriction,2026-09-17 18:04:40+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_ga_L5DF7C5XXT,GS2.1.s1755108271$o1$g0$t1755108280$j51$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:04:40+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+5189025495194060,.justice.gov.za,_ga_L5DF7C5XXT,GS2.1.s1755108271$o1$g0$t1755108280$j51$l0$h0,/,0,0,0,no_restriction,2026-09-17 18:04:40+00:00,https://justice.gov.za/,justice.gov.za,justice.gov.za,0
+8884915914606295,khaima.gov.za,PHPSESSID,98f0c06abb49d4baca6f44b234323ce2,/,1,0,0,no_restriction,,https://khaima.gov.za/,khaima.gov.za,khaima.gov.za,0
+8884915914606295,www.google.com,_GRECAPTCHA,09ANMylNAS0D99jxDphmj1arLBKMMYBgu4t7Pjz5XdVFfd08qh4zSa23hrNXlOjGkHO4ic9kAVJG47rQLdIKSu_8U,/recaptcha,0,1,1,no_restriction,2026-02-09 18:05:14+00:00,https://khaima.gov.za/,google.com,khaima.gov.za,1
+5195515478036732,kznlegislature.gov.za,__wpdm_client,919f5da2091859c939aa4e4c3622981b,/,1,1,1,no_restriction,,https://kznlegislature.gov.za/,kznlegislature.gov.za,kznlegislature.gov.za,0
+5195515478036732,kznlegislature.gov.za,__EC_TEST__,Wed%2C%2013%20Aug%202025%2018%3A05%3A34%20GMT,/,1,0,0,no_restriction,,https://kznlegislature.gov.za/,kznlegislature.gov.za,kznlegislature.gov.za,0
+5195515478036732,kznlegislature.gov.za,__EC_TEST__,Wed%2C%2013%20Aug%202025%2018%3A05%3A34%20GMT,/,1,0,0,no_restriction,,https://kznlegislature.gov.za/,kznlegislature.gov.za,kznlegislature.gov.za,0
+5195515478036732,.kznlegislature.gov.za,tk_tc,1755108336710,/,1,0,0,no_restriction,,https://kznlegislature.gov.za/,kznlegislature.gov.za,kznlegislature.gov.za,0
+5195515478036732,.kznlegislature.gov.za,tk_tc,1755108336710,/,1,0,0,no_restriction,,https://kznlegislature.gov.za/,kznlegislature.gov.za,kznlegislature.gov.za,0
+5195515478036732,.kznlegislature.gov.za,tk_or,%22%22,/,0,0,0,no_restriction,2026-09-17 18:05:36+00:00,https://kznlegislature.gov.za/,kznlegislature.gov.za,kznlegislature.gov.za,0
+5195515478036732,.kznlegislature.gov.za,tk_r3d,%22%22,/,0,0,0,no_restriction,2025-08-16 18:05:36+00:00,https://kznlegislature.gov.za/,kznlegislature.gov.za,kznlegislature.gov.za,0
+5195515478036732,.kznlegislature.gov.za,tk_lr,%22%22,/,0,0,0,no_restriction,2026-08-13 18:05:36+00:00,https://kznlegislature.gov.za/,kznlegislature.gov.za,kznlegislature.gov.za,0

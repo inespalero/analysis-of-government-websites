@@ -1,0 +1,1030 @@
+2025-08-13 19:59:01,094 - MainProcess[MainThread]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 19:59:01,096 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 19:59:01,098 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for TaskManager
+2025-08-13 19:59:01,113 - MainProcess[MainThread]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_fy6p_1qu/browser_params.json
+2025-08-13 19:59:01,125 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107941125	geckodriver	INFO	Listening on 127.0.0.1:42477
+2025-08-13 19:59:01,142 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107941142	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "41927" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 19:59:01,168 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 19:59:01,248 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 19:59:01,249 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 19:59:01,781 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 19:59:01,834 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107941833	Marionette	INFO	Marionette enabled
+2025-08-13 19:59:02,032 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 19:59:02,032 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 19:59:02,097 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107942097	Marionette	INFO	Listening on port 33757
+2025-08-13 19:59:02,119 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:41927
+2025-08-13 19:59:02,144 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 33757
+2025-08-13 19:59:02,300 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107942299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 19:59:02,679 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 19:59:02,851 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 19:59:03,629 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:41927/devtools/browser/0154ec06-f1e5-438b-8b23-03e6ce4e19be
+2025-08-13 19:59:03,749 - MainProcess[MainThread]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 19:59:03,755 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 19:59:03,755 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_fy6p_1qu
+2025-08-13 19:59:03,755 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 40649
+2025-08-13 19:59:03,757 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_fy6p_1qu/extension_port.txt
+2025-08-13 19:59:03,758 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 19:59:03,759 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 19:59:03,760 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 19:59:03,779 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 19:59:03,785 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 19:59:03,786 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_fy6p_1qu/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 19:59:03,856 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 19:59:03,858 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 19:59:03,862 - MainProcess[OpenWPM-storage-logger]- storage_watchdog     - INFO    : Starting the StorageLogger...
+2025-08-13 19:59:03,872 - MainProcess[OpenWPM-storage-logger]- storage_watchdog     - INFO    : Readable files in /tmp folder take up 26.78 MB of storage on disk at start time...
+2025-08-13 19:59:03,964 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for StorageControllerHandle
+2025-08-13 19:59:03,968 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id -1
+2025-08-13 19:59:03,969 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id -1 while finalizing
+2025-08-13 19:59:03,972 - MainProcess[MainThread]- task_manager         - INFO    : 
+
+OpenWPM Version: b'v0.31.0-1-g4dbd4b4'
+Firefox Version: b'134.0.1'
+
+========== Manager Configuration ==========
+{
+  "_failure_limit": null,
+  "data_directory": "/home/inespalero/tfm_project/gov_za",
+  "log_path": "/home/inespalero/tfm_project/gov_za/openwpm.log",
+  "logger_address": [
+    "127.0.0.1",
+    47099
+  ],
+  "memory_watchdog": true,
+  "num_browsers": 1,
+  "process_watchdog": true,
+  "screenshot_path": "/home/inespalero/tfm_project/gov_za/screenshots",
+  "source_dump_path": "/home/inespalero/tfm_project/gov_za/sources",
+  "storage_controller_address": [
+    "127.0.0.1",
+    38169
+  ],
+  "testing": false
+}
+
+========== Browser Configuration ==========
+Keys:
+{
+  "browser_id": 0,
+  "bot_mitigation": 1,
+  "browser": 2,
+  "callstack_instrument": 3,
+  "cookie_instrument": 4,
+  "custom_params": 5,
+  "display_mode": 6,
+  "dns_instrument": 7,
+  "donottrack": 8,
+  "http_instrument": 9,
+  "js_instrument": 10,
+  "js_instrument_settings": 11,
+  "maximum_profile_size": 12,
+  "navigation_instrument": 13,
+  "prefs": 14,
+  "profile_path": 15,
+  "recovery_tar": 16,
+  "save_content": 17,
+  "tmp_profile_dir": 18,
+  "tp_cookies": 19,
+  "tracking_protection": 20
+}
+
+         0  1      2        3      4     5    6         7     8      9     10    11                                   12  13    14    15    16    17     18    19      20
+----------  -----  -------  -----  ----  ---  --------  ----  -----  ----  ----  -----------------------------  --------  ----  ----  ----  ----  -----  ----  ------  -----
+2539384636  False  firefox  False  True  {}   headless  True  False  True  True  ['collection_fingerprinting']  78643200  True  {}                False  /tmp  always  False
+
+========== JS Instrument Settings ==========
+{"2539384636":[{"object":"window['ScriptProcessorNode'].prototype","instrumentedName":"ScriptProcessorNode","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['GainNode'].prototype","instrumentedName":"GainNode","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['AnalyserNode'].prototype","instrumentedName":"AnalyserNode","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['OscillatorNode'].prototype","instrumentedName":"OscillatorNode","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['OfflineAudioContext'].prototype","instrumentedName":"OfflineAudioContext","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['AudioContext'].prototype","instrumentedName":"AudioContext","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['RTCPeerConnection'].prototype","instrumentedName":"RTCPeerConnection","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['HTMLCanvasElement'].prototype","instrumentedName":"HTMLCanvasElement","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['Storage'].prototype","instrumentedName":"Storage","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window.navigator","instrumentedName":"window.navigator","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window['CanvasRenderingContext2D'].prototype","instrumentedName":"CanvasRenderingContext2D","logSettings":{"propertiesToInstrument":[],"nonExistingPropertiesToInstrument":[],"excludedProperties":["translate","transform","quadraticCurveTo","canvas","moveTo","globalAlpha","lineTo","clearRect","setTransform","beginPath","drawImage","closePath"],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window","instrumentedName":"window","logSettings":{"propertiesToInstrument":["sessionStorage","name","localStorage"],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window.document","instrumentedName":"window.document","logSettings":{"propertiesToInstrument":["referrer","cookie"],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":true,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}},{"object":"window.screen","instrumentedName":"window.screen","logSettings":{"propertiesToInstrument":["pixelDepth","colorDepth"],"nonExistingPropertiesToInstrument":[],"excludedProperties":[],"logCallStack":false,"logFunctionsAsStrings":false,"logFunctionGets":false,"preventSets":false,"recursive":false,"depth":5}}]}
+
+========== Input profile tar files ==========
+  No profile tar files specified
+
+========== Output (archive) profile dirs ==========
+  No profile archive directories specified
+
+
+2025-08-13 19:59:03,999 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for StorageControllerHandle, because the underlying socket closed
+2025-08-13 19:59:06,099 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 19:59:06,100 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 19:59:06,104 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 7603129937976433 on browser with id 2539384636
+2025-08-13 19:59:06,110 - MainProcess[MainThread]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 19:59:06,115 - MainProcess[MainThread]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.andm.gov.za/,4)
+2025-08-13 19:59:06,140 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 19:59:06,978 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id -1
+2025-08-13 19:59:11,102 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 19:59:14,217 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource://pdf.js/build/pdf.mjs, line 390: Error: _onReceiveData - no `PDFDataTransportStreamRangeReader` instance found.
+2025-08-13 19:59:15,074 - MainProcess[MainThread]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 19:59:16,106 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 19:59:20,217 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 7603129937976433 on browser with id 2539384636
+2025-08-13 19:59:20,228 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 7603129937976433
+2025-08-13 19:59:20,229 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 7603129937976433 while finalizing
+2025-08-13 19:59:21,810 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 19:59:22,687 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 7603129937976433
+2025-08-13 19:59:22,927 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_fy6p_1qu size is less than 75.0 MB: 62.46 MB
+2025-08-13 19:59:22,967 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 19:59:22,971 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 1513905639421473 on browser with id 2539384636
+2025-08-13 19:59:22,974 - MainProcess[MainThread]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 19:59:22,980 - MainProcess[MainThread]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.dannhauser.gov.za/,4)
+2025-08-13 19:59:23,009 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 19:59:23,630 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 19:59:26,812 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 19:59:31,814 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 19:59:33,897 - MainProcess[MainThread]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 19:59:36,817 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 19:59:39,064 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 1513905639421473 on browser with id 2539384636
+2025-08-13 19:59:39,071 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 1513905639421473
+2025-08-13 19:59:39,072 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 1513905639421473 while finalizing
+2025-08-13 19:59:41,074 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_fy6p_1qu: Folder scheduled to be deleted and recover 76.32 MB of storage.
+2025-08-13 19:59:41,075 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 19:59:41,076 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 19:59:41,085 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107981084	Marionette	INFO	Stopped listening on port 33757
+2025-08-13 19:59:41,602 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 19:59:41,602 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-3288d568-5f7e-4663-88bc-cecf790b492c.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 19:59:41,602 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 19:59:41,602 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 19:59:41,603 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-3288d568-5f7e-4663-88bc-cecf790b492c.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 19:59:41,603 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 19:59:41,604 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,633 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,634 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,635 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,637 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,639 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,640 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,641 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,642 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,643 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,652 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,652 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,652 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,653 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 19:59:41,821 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 19:59:41,931 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 19:59:41,970 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 19:59:41,970 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 19:59:41,982 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_169w3y81/browser_params.json
+2025-08-13 19:59:41,990 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107981990	geckodriver	INFO	Listening on 127.0.0.1:47885
+2025-08-13 19:59:42,004 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107982004	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "36617" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 19:59:42,023 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 19:59:42,095 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 19:59:42,095 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 19:59:42,503 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 19:59:42,592 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107982592	Marionette	INFO	Marionette enabled
+2025-08-13 19:59:42,696 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 1513905639421473
+2025-08-13 19:59:42,794 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 19:59:42,795 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 19:59:42,881 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107982880	Marionette	INFO	Listening on port 45753
+2025-08-13 19:59:42,912 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 45753
+2025-08-13 19:59:42,935 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:36617
+2025-08-13 19:59:43,040 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755107983040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 19:59:43,523 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 19:59:43,729 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 19:59:44,567 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:36617/devtools/browser/4c04edb0-0d79-4d81-a876-00c546985c5c
+2025-08-13 19:59:44,655 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 19:59:44,659 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_169w3y81
+2025-08-13 19:59:44,662 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 19:59:44,662 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_169w3y81/extension_port.txt
+2025-08-13 19:59:44,663 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 19:59:44,664 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 19:59:44,665 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 19:59:44,675 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 19:59:44,678 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 19:59:44,679 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_169w3y81/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 19:59:44,760 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 34289
+2025-08-13 19:59:44,761 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 19:59:44,763 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 19:59:44,830 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 19:59:44,834 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 4285531849715480 on browser with id 2539384636
+2025-08-13 19:59:44,844 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 19:59:44,851 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.capewinelands.gov.za/,4)
+2025-08-13 19:59:44,883 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 19:59:46,827 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 19:59:51,833 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 19:59:57,533 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 19:59:58,308 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:00:02,537 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:03,450 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 4285531849715480 on browser with id 2539384636
+2025-08-13 20:00:03,458 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 4285531849715480
+2025-08-13 20:00:03,460 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 4285531849715480 while finalizing
+2025-08-13 20:00:04,484 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:00:05,460 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_169w3y81 size is less than 75.0 MB: 63.14 MB
+2025-08-13 20:00:05,497 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:00:05,503 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 1544948463319277 on browser with id 2539384636
+2025-08-13 20:00:05,508 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:00:05,513 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.dihlabeng.gov.za/,4)
+2025-08-13 20:00:05,537 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:00:07,544 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:08,406 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 4285531849715480
+2025-08-13 20:00:12,548 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:16,789 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:00:16,893 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js, line 75: Script terminated by timeout at:
+2025-08-13 20:00:16,893 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: c@https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js:75:11023
+2025-08-13 20:00:16,894 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js:75:10373
+2025-08-13 20:00:16,894 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: c.__emitToSubscription@https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js:84:1477
+2025-08-13 20:00:16,894 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: c.emit@https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js:84:1303
+2025-08-13 20:00:16,895 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: @https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js:345:1091
+2025-08-13 20:00:16,895 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js:75:10373
+2025-08-13 20:00:16,895 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: d@https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js:340:2086
+2025-08-13 20:00:16,896 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:00:17,551 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:21,914 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 1544948463319277 on browser with id 2539384636
+2025-08-13 20:00:21,917 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 1544948463319277
+2025-08-13 20:00:21,919 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 1544948463319277 while finalizing
+2025-08-13 20:00:22,553 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:00:23,413 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 1544948463319277
+2025-08-13 20:00:23,928 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_169w3y81: Folder scheduled to be deleted and recover 77.34 MB of storage.
+2025-08-13 20:00:23,929 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 20:00:23,930 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:00:23,943 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108023942	Marionette	INFO	Stopped listening on port 45753
+2025-08-13 20:00:24,442 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:00:24,442 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:00:24,442 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-bee92a69-8d77-4328-b0bb-c3fe8533b781.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:00:24,443 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:00:24,443 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-bee92a69-8d77-4328-b0bb-c3fe8533b781.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:00:24,443 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:00:24,767 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:00:24,834 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 20:00:24,834 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 20:00:24,849 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_7y20_qwn/browser_params.json
+2025-08-13 20:00:24,861 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108024861	geckodriver	INFO	Listening on 127.0.0.1:49351
+2025-08-13 20:00:24,879 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108024879	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "46515" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 20:00:24,918 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 20:00:25,004 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 20:00:25,005 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 20:00:25,459 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 20:00:25,526 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108025525	Marionette	INFO	Marionette enabled
+2025-08-13 20:00:25,743 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 20:00:25,744 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 20:00:25,790 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108025789	Marionette	INFO	Listening on port 36705
+2025-08-13 20:00:25,811 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:46515
+2025-08-13 20:00:25,883 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 36705
+2025-08-13 20:00:26,009 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108026009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 20:00:26,398 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 20:00:26,594 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:00:28,235 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:00:28,246 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:46515/devtools/browser/fc6cfe93-61a2-422b-b8c3-5803ef735bb4
+2025-08-13 20:00:28,387 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 20:00:28,394 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_7y20_qwn
+2025-08-13 20:00:28,402 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 20:00:28,403 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_7y20_qwn/extension_port.txt
+2025-08-13 20:00:28,403 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 20:00:28,407 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 20:00:28,409 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 20:00:28,432 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 20:00:28,440 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 20:00:28,442 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_7y20_qwn/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 20:00:28,496 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 35413
+2025-08-13 20:00:28,498 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 20:00:28,500 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 20:00:28,550 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:00:28,554 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 2980350332439836 on browser with id 2539384636
+2025-08-13 20:00:28,559 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:00:28,563 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://dikgatlong.gov.za/,4)
+2025-08-13 20:00:28,587 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:00:33,241 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:38,245 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:43,251 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:43,334 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:00:47,517 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:00:48,253 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:48,430 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 2980350332439836 on browser with id 2539384636
+2025-08-13 20:00:48,438 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 2980350332439836
+2025-08-13 20:00:48,441 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 2980350332439836 while finalizing
+2025-08-13 20:00:50,438 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_7y20_qwn size is less than 75.0 MB: 57.77 MB
+2025-08-13 20:00:50,521 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:00:50,524 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 1628225849767779 on browser with id 2539384636
+2025-08-13 20:00:50,530 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:00:50,536 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://dirco.gov.za/,4)
+2025-08-13 20:00:50,558 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:00:53,280 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:54,109 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 2980350332439836
+2025-08-13 20:00:57,842 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fd64b4100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:00:57,843 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fd64b4100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:00:57,843 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fd8078600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:00:57,844 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fd8078600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:00:58,284 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:00:58,395 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fd2e0a400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:00:58,395 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fd2e0a400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:00:58,768 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fcc6bba00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:00:58,768 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fcc6bba00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:00:58,768 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fcc6bc000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:00:58,768 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fcc6bc000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:00:58,768 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fd2ea7100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:00:58,769 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fd2ea7100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:00:58,806 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fcc6bb400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:00:58,807 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fcc6bb400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:00:58,824 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fcc6bc300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:00:58,824 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 63916, MediaDecoderStateMachine #1] WARNING: Decoder=774fcc6bc300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:01:00,744 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:01:00,856 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: undefined, line 0: Error: Invalid tab ID: 2
+2025-08-13 20:01:00,857 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: undefined, line 0: Error: Invalid tab ID: 2
+2025-08-13 20:01:00,858 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: undefined, line 0: Error: Invalid tab ID: 2
+2025-08-13 20:01:03,980 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:01:05,896 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 1628225849767779 on browser with id 2539384636
+2025-08-13 20:01:05,899 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 1628225849767779
+2025-08-13 20:01:05,903 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 1628225849767779 while finalizing
+2025-08-13 20:01:07,913 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_7y20_qwn: Folder scheduled to be deleted and recover 78.77 MB of storage.
+2025-08-13 20:01:07,915 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 20:01:07,916 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:01:07,924 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108067924	Marionette	INFO	Stopped listening on port 36705
+2025-08-13 20:01:08,425 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:01:08,426 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:01:08,426 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-2119d946-ad1c-4102-b3e0-21e4183fcd22.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:01:08,427 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:01:08,427 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-2119d946-ad1c-4102-b3e0-21e4183fcd22.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:01:08,427 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:01:08,738 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:01:08,773 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 20:01:08,773 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 20:01:08,788 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_89k1tmai/browser_params.json
+2025-08-13 20:01:08,796 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108068796	geckodriver	INFO	Listening on 127.0.0.1:44377
+2025-08-13 20:01:08,812 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108068811	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "60423" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 20:01:08,856 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 20:01:08,936 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 20:01:08,937 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 20:01:08,983 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:01:09,344 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 20:01:09,425 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108069425	Marionette	INFO	Marionette enabled
+2025-08-13 20:01:09,643 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 20:01:09,643 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 20:01:09,708 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108069707	Marionette	INFO	Listening on port 34275
+2025-08-13 20:01:09,714 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 34275
+2025-08-13 20:01:09,725 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:60423
+2025-08-13 20:01:09,797 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108069797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 20:01:09,807 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 1628225849767779
+2025-08-13 20:01:10,281 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 20:01:10,356 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:01:11,462 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:60423/devtools/browser/90abbc67-618b-4f65-9b3b-666db0f10aa3
+2025-08-13 20:01:11,558 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 20:01:11,568 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_89k1tmai
+2025-08-13 20:01:11,576 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 20:01:11,576 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 20:01:11,578 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_89k1tmai/extension_port.txt
+2025-08-13 20:01:11,582 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 20:01:11,584 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 20:01:11,612 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 20:01:11,620 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 20:01:11,621 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_89k1tmai/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 20:01:11,670 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 41465
+2025-08-13 20:01:11,672 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 20:01:11,674 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 20:01:11,686 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:01:11,689 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 2360368969971554 on browser with id 2539384636
+2025-08-13 20:01:11,697 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:01:11,703 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://dkm.gov.za/,4)
+2025-08-13 20:01:11,734 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:01:14,005 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:01:18,099 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:01:19,007 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:01:23,192 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 2360368969971554 on browser with id 2539384636
+2025-08-13 20:01:23,201 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 2360368969971554
+2025-08-13 20:01:23,204 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 2360368969971554 while finalizing
+2025-08-13 20:01:24,010 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:01:24,814 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 2360368969971554
+2025-08-13 20:01:25,199 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_89k1tmai size is less than 75.0 MB: 57.44 MB
+2025-08-13 20:01:25,226 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:01:25,228 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 2589108854670241 on browser with id 2539384636
+2025-08-13 20:01:25,232 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:01:25,237 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://ecprov.gov.za/,4)
+2025-08-13 20:01:25,267 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:01:29,013 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:01:29,689 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://ecprov.gov.za/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2025-08-13 20:01:30,070 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c2eb3d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:01:30,070 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c2eb3d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:01:30,071 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c4dee400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:01:30,071 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c4dee400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:01:30,176 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c4deb400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:01:30,176 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c4deb400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:01:30,181 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c43a4200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:01:30,182 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c43a4200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:01:30,195 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c4dddf00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:01:30,198 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64338, MediaDecoderStateMachine #1] WARNING: Decoder=7bb0c4dddf00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:01:30,406 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:01:34,659 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:01:36,509 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:01:39,664 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:01:41,627 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 2589108854670241 on browser with id 2539384636
+2025-08-13 20:01:41,629 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 2589108854670241
+2025-08-13 20:01:41,630 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 2589108854670241 while finalizing
+2025-08-13 20:01:43,633 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_89k1tmai: Folder scheduled to be deleted and recover 77.31 MB of storage.
+2025-08-13 20:01:43,634 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 20:01:43,635 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:01:43,640 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108103640	Marionette	INFO	Stopped listening on port 34275
+2025-08-13 20:01:44,176 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:01:44,176 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:01:44,177 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-6d12c540-23fd-4e63-a9a7-afa124a93b3a.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:01:44,177 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:01:44,177 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-6d12c540-23fd-4e63-a9a7-afa124a93b3a.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:01:44,177 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:01:44,219 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: (new Error("IndexedDB: main/ml-inference-options getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+2025-08-13 20:01:44,454 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:01:44,487 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 20:01:44,487 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 20:01:44,502 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_x6f3cc1z/browser_params.json
+2025-08-13 20:01:44,509 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108104509	geckodriver	INFO	Listening on 127.0.0.1:35453
+2025-08-13 20:01:44,526 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108104525	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "59495" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 20:01:44,553 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 20:01:44,637 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 20:01:44,638 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 20:01:44,667 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:01:45,072 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 20:01:45,127 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108105126	Marionette	INFO	Marionette enabled
+2025-08-13 20:01:45,284 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 20:01:45,284 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 20:01:45,344 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108105343	Marionette	INFO	Listening on port 40729
+2025-08-13 20:01:45,365 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:59495
+2025-08-13 20:01:45,427 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 40729
+2025-08-13 20:01:45,467 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 2589108854670241
+2025-08-13 20:01:45,556 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108105555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 20:01:45,923 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 20:01:46,020 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:01:47,194 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:59495/devtools/browser/e8e0c127-e102-483b-8a5d-7da8e2064622
+2025-08-13 20:01:47,307 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 20:01:47,311 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_x6f3cc1z
+2025-08-13 20:01:47,315 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 20:01:47,315 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_x6f3cc1z/extension_port.txt
+2025-08-13 20:01:47,315 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 20:01:47,319 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 20:01:47,320 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 20:01:47,343 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 20:01:47,347 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 20:01:47,348 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_x6f3cc1z/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 20:01:47,412 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 39013
+2025-08-13 20:01:47,414 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 20:01:47,416 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 20:01:47,441 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:01:47,444 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 1170795286803496 on browser with id 2539384636
+2025-08-13 20:01:47,451 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:01:47,458 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://edumbe.gov.za/,4)
+2025-08-13 20:01:47,486 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:01:49,669 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:01:52,469 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:01:53,286 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,286 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,286 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,286 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,286 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,286 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,287 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,311 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,318 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,324 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,324 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,345 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,345 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,352 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,352 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,356 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,356 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,360 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,360 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,368 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,369 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,370 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,370 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,371 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,372 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval line 5836 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,400 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.google.com/js/th/vW9TnpJHdZp3x7AQ5XKcae0bDuBGGkQDXAGtI8vfZGk.js line 2 > eval, line 5836: unreachable code after return statement
+2025-08-13 20:01:53,420 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,420 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,421 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,421 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,421 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,421 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,421 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,423 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,425 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,428 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,428 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,445 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,446 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,447 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,448 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,448 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,449 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,456 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,456 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1593: unreachable code after return statement
+2025-08-13 20:01:53,466 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,466 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,466 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,468 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,468 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,470 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval line 1593 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+2025-08-13 20:01:53,490 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/embed/lMJXxhRFO1k?playlist=lMJXxhRFO1k&iv_load_policy=3&enablejsapi=1&disablekb=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&wmode=transparent&origin=https%3A%2F%2Fedumbe.gov.za&widgetid=1&forigin=https%3A%2F%2Fedumbe.gov.za%2F&aoriginsup=0&vf=1 line 1262 > injectedScript line 2 > eval, line 1593: unreachable code after return statement
+2025-08-13 20:01:54,672 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:01:57,355 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: Couldn't sanitize GL_RENDERER "D3D12 (Intel(R) Iris(R) Plus Graphics)"
+2025-08-13 20:01:58,064 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:01:58,182 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js, line 5810: Script terminated by timeout at:
+2025-08-13 20:01:58,182 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: SBP@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:5810:103
+2025-08-13 20:01:58,182 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: g.y.zZ@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:11994:25
+2025-08-13 20:01:58,183 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WZ@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:5461:83
+2025-08-13 20:01:58,183 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: g.y.reportStats@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:11574:469
+2025-08-13 20:01:58,183 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: aXn@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:5784:246
+2025-08-13 20:01:58,183 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: g.y.sendAbandonmentPing@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:11891:113
+2025-08-13 20:01:58,183 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: g.y.sendAbandonmentPing@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:11046:44
+2025-08-13 20:01:58,183 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: g.y.sendAbandonmentPing@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:10726:50
+2025-08-13 20:01:58,184 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: kl/D.state.S[Q]@https://www.youtube.com/s/player/6ea06c52/player_ias.vflset/en_US/base.js:4625:53
+2025-08-13 20:01:58,184 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: qE/<@https://www.youtube.com/s/player/6ea06c52/www-embed-player.vflset/www-embed-player.js:2268:106
+2025-08-13 20:01:58,184 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DE@https://www.youtube.com/s/player/6ea06c52/www-embed-player.vflset/www-embed-player.js:2305:46
+2025-08-13 20:01:58,184 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: @https://www.youtube.com/s/player/6ea06c52/www-embed-player.vflset/www-embed-player.js:2316:137
+2025-08-13 20:01:58,185 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: hq/<@https://www.youtube.com/s/player/6ea06c52/www-embed-player.vflset/www-embed-player.js:1186:63
+2025-08-13 20:01:58,185 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:01:58,203 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: undefined, line 0: Error: Invalid tab ID: 1
+2025-08-13 20:01:59,674 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:03,213 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 1170795286803496 on browser with id 2539384636
+2025-08-13 20:02:03,222 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 1170795286803496
+2025-08-13 20:02:03,224 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 1170795286803496 while finalizing
+2025-08-13 20:02:04,677 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:02:05,223 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_x6f3cc1z size is less than 75.0 MB: 60.46 MB
+2025-08-13 20:02:05,301 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:02:05,304 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 6234101806255703 on browser with id 2539384636
+2025-08-13 20:02:05,309 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:02:05,315 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.ehlanzeni.gov.za/,4)
+2025-08-13 20:02:05,344 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:02:05,473 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 1170795286803496
+2025-08-13 20:02:06,888 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:02:10,330 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:12,581 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64789, MediaDecoderStateMachine #1] WARNING: Decoder=782df9464300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+2025-08-13 20:02:12,582 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [Child 64789, MediaDecoderStateMachine #1] WARNING: Decoder=782df9464300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+2025-08-13 20:02:15,333 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:17,174 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:02:20,337 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:22,263 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 6234101806255703 on browser with id 2539384636
+2025-08-13 20:02:22,265 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 6234101806255703
+2025-08-13 20:02:22,267 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 6234101806255703 while finalizing
+2025-08-13 20:02:24,276 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_x6f3cc1z: Folder scheduled to be deleted and recover 81.36 MB of storage.
+2025-08-13 20:02:24,278 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 20:02:24,280 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:02:24,303 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108144302	Marionette	INFO	Stopped listening on port 40729
+2025-08-13 20:02:24,815 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,825 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,828 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,832 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,833 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,834 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:02:24,834 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-bcc263b5-51f7-427e-aac4-4b07b7a8a337.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:02:24,834 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:02:24,834 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:02:24,836 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-bcc263b5-51f7-427e-aac4-4b07b7a8a337.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:02:24,836 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:02:24,864 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,865 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,874 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,875 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,875 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,876 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,876 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,877 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,877 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:24,877 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:02:25,159 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:02:25,202 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 20:02:25,202 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 20:02:25,216 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_la4dx8a3/browser_params.json
+2025-08-13 20:02:25,225 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108145225	geckodriver	INFO	Listening on 127.0.0.1:39335
+2025-08-13 20:02:25,239 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108145239	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "44265" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 20:02:25,263 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 20:02:25,337 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 20:02:25,338 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 20:02:25,340 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:02:25,765 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 20:02:25,849 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108145849	Marionette	INFO	Marionette enabled
+2025-08-13 20:02:26,047 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 20:02:26,047 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 20:02:26,101 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108146101	Marionette	INFO	Listening on port 43619
+2025-08-13 20:02:26,122 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:44265
+2025-08-13 20:02:26,125 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 6234101806255703
+2025-08-13 20:02:26,140 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 43619
+2025-08-13 20:02:26,283 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108146283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 20:02:26,668 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 20:02:26,847 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:02:27,888 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:44265/devtools/browser/26391e0c-b360-459d-bc35-1089ee999798
+2025-08-13 20:02:27,989 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 20:02:27,997 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_la4dx8a3
+2025-08-13 20:02:27,999 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_la4dx8a3/extension_port.txt
+2025-08-13 20:02:27,999 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 20:02:28,000 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 20:02:28,001 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 20:02:28,003 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 20:02:28,022 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 20:02:28,028 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 20:02:28,029 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_la4dx8a3/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 20:02:28,098 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 44593
+2025-08-13 20:02:28,099 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 20:02:28,101 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 20:02:28,106 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:02:28,109 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 7669935847581387 on browser with id 2539384636
+2025-08-13 20:02:28,118 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:02:28,121 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://emfuleni.gov.za/,4)
+2025-08-13 20:02:28,143 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:02:30,343 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:35,346 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:36,723 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:02:40,979 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:42,472 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 7669935847581387 on browser with id 2539384636
+2025-08-13 20:02:42,481 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 7669935847581387
+2025-08-13 20:02:42,482 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 7669935847581387 while finalizing
+2025-08-13 20:02:44,481 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_la4dx8a3 size is less than 75.0 MB: 61.62 MB
+2025-08-13 20:02:44,487 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:02:44,491 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 4834235412124855 on browser with id 2539384636
+2025-08-13 20:02:44,496 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:02:44,499 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://fsl.gov.za/,4)
+2025-08-13 20:02:44,529 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:02:45,982 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:46,763 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 7669935847581387
+2025-08-13 20:02:47,542 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:02:50,989 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 1 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:55,993 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:02:56,446 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:03:00,996 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:01,599 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 4834235412124855 on browser with id 2539384636
+2025-08-13 20:03:01,601 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 4834235412124855
+2025-08-13 20:03:01,602 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 4834235412124855 while finalizing
+2025-08-13 20:03:03,609 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_la4dx8a3: Folder scheduled to be deleted and recover 76.27 MB of storage.
+2025-08-13 20:03:03,611 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 20:03:03,612 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:03:03,620 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108183620	Marionette	INFO	Stopped listening on port 43619
+2025-08-13 20:03:04,126 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,127 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,129 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:03:04,129 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:03:04,129 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-46ecd3bb-8f6a-4df3-8c9a-82beded3796e.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:03:04,130 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:03:04,130 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-46ecd3bb-8f6a-4df3-8c9a-82beded3796e.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:03:04,130 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:03:04,131 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,159 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,168 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,169 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,170 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,170 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,170 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,171 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,172 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,173 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,173 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,173 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,174 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,174 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,175 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,175 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,176 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,176 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,176 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,177 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,177 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,178 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,178 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,179 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,179 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,179 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,180 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,180 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,181 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:03:04,449 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:03:04,488 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 20:03:04,489 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 20:03:04,504 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_cd1tlm6h/browser_params.json
+2025-08-13 20:03:04,514 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108184514	geckodriver	INFO	Listening on 127.0.0.1:60723
+2025-08-13 20:03:04,532 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108184532	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "55915" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 20:03:04,565 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 20:03:04,645 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 20:03:04,645 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 20:03:05,074 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 20:03:05,166 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108185166	Marionette	INFO	Marionette enabled
+2025-08-13 20:03:05,394 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 20:03:05,395 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 20:03:05,455 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108185455	Marionette	INFO	Listening on port 32963
+2025-08-13 20:03:05,473 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:55915
+2025-08-13 20:03:05,535 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 32963
+2025-08-13 20:03:05,664 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108185664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 20:03:05,998 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:03:06,032 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 20:03:06,194 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:03:06,773 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 4834235412124855
+2025-08-13 20:03:07,158 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:55915/devtools/browser/4dd354e7-9b8c-454d-b585-3c94f3462345
+2025-08-13 20:03:07,245 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 20:03:07,251 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_cd1tlm6h
+2025-08-13 20:03:07,252 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 20:03:07,254 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 20:03:07,255 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 20:03:07,255 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_cd1tlm6h/extension_port.txt
+2025-08-13 20:03:07,257 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 20:03:07,273 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 20:03:07,279 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 20:03:07,282 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_cd1tlm6h/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 20:03:07,352 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 38219
+2025-08-13 20:03:07,353 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 20:03:07,355 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 20:03:07,451 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:03:07,454 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 1510585433413838 on browser with id 2539384636
+2025-08-13 20:03:07,460 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:03:07,464 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.gardenroute.gov.za/,4)
+2025-08-13 20:03:07,498 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:03:11,000 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:16,605 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:17,817 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:03:21,609 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:22,983 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 1510585433413838 on browser with id 2539384636
+2025-08-13 20:03:22,992 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 1510585433413838
+2025-08-13 20:03:22,993 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 1510585433413838 while finalizing
+2025-08-13 20:03:24,992 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_cd1tlm6h size is less than 75.0 MB: 66.89 MB
+2025-08-13 20:03:25,000 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:03:25,003 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 513008325525634 on browser with id 2539384636
+2025-08-13 20:03:25,009 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:03:25,013 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.george.gov.za/,4)
+2025-08-13 20:03:25,039 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:03:26,613 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:26,891 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:03:27,381 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 1510585433413838
+2025-08-13 20:03:31,617 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:31,699 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:03:36,620 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:36,832 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 513008325525634 on browser with id 2539384636
+2025-08-13 20:03:36,836 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 513008325525634
+2025-08-13 20:03:36,838 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 513008325525634 while finalizing
+2025-08-13 20:03:38,841 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_cd1tlm6h: Folder scheduled to be deleted and recover 80.03 MB of storage.
+2025-08-13 20:03:38,843 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 20:03:38,845 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:03:38,854 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108218854	Marionette	INFO	Stopped listening on port 32963
+2025-08-13 20:03:39,330 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:03:39,331 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:03:39,331 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-c2ed954f-96a8-45b2-ac03-2a2b0ab7e6a3.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:03:39,332 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:03:39,332 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-c2ed954f-96a8-45b2-ac03-2a2b0ab7e6a3.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:03:39,333 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:03:39,383 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: services.settings:
+2025-08-13 20:03:39,383 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: StorageError: Storage error: Error: IndexedDB: main/search-config-v2 pruneAttachments() IndexedDB:  execute() The application is shutting down
+2025-08-13 20:03:39,384 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:03:39,384 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+2025-08-13 20:03:39,385 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: _adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:936:14
+2025-08-13 20:03:39,385 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:824:38
+2025-08-13 20:03:39,385 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+2025-08-13 20:03:39,386 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:03:39,386 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+2025-08-13 20:03:39,386 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: (new Error("IndexedDB: main/nimbus-secure-experiments getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+2025-08-13 20:03:39,647 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:03:39,680 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 20:03:39,681 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 20:03:39,695 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_th9pxb9d/browser_params.json
+2025-08-13 20:03:39,705 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108219705	geckodriver	INFO	Listening on 127.0.0.1:35723
+2025-08-13 20:03:39,721 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108219721	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "39331" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 20:03:39,747 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 20:03:39,835 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 20:03:39,835 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 20:03:40,380 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 20:03:40,452 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108220452	Marionette	INFO	Marionette enabled
+2025-08-13 20:03:40,656 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 20:03:40,657 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 20:03:40,716 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108220716	Marionette	INFO	Listening on port 42591
+2025-08-13 20:03:40,723 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 42591
+2025-08-13 20:03:40,738 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:39331
+2025-08-13 20:03:40,807 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108220807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 20:03:41,286 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 20:03:41,442 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:03:41,623 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:03:42,388 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 513008325525634
+2025-08-13 20:03:42,415 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:39331/devtools/browser/5505d986-d9f4-49d0-8dd1-742fadb00993
+2025-08-13 20:03:42,537 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 20:03:42,546 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_th9pxb9d
+2025-08-13 20:03:42,549 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 20:03:42,551 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 20:03:42,552 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_th9pxb9d/extension_port.txt
+2025-08-13 20:03:42,554 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 20:03:42,555 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 20:03:42,581 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 20:03:42,587 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 20:03:42,589 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_th9pxb9d/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 20:03:42,648 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 43777
+2025-08-13 20:03:42,649 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 20:03:42,649 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 20:03:42,655 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:03:42,657 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 6020792974384615 on browser with id 2539384636
+2025-08-13 20:03:42,663 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:03:42,665 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.govanmbeki.gov.za/,4)
+2025-08-13 20:03:42,687 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:03:47,223 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:52,226 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:52,810 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:03:52,945 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js, line 289: Script terminated by timeout at:
+2025-08-13 20:03:52,946 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: a/<@https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/quLoTlwEjPe.js:289:166
+2025-08-13 20:03:52,946 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:03:57,230 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:03:57,966 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 6020792974384615 on browser with id 2539384636
+2025-08-13 20:03:57,976 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 6020792974384615
+2025-08-13 20:03:57,978 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 6020792974384615 while finalizing
+2025-08-13 20:03:59,976 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_th9pxb9d size is less than 75.0 MB: 59.9 MB
+2025-08-13 20:04:00,005 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:04:00,008 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 2972328472577550 on browser with id 2539384636
+2025-08-13 20:04:00,014 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:04:00,020 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.health.gov.za/,4)
+2025-08-13 20:04:00,050 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:04:02,180 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:04:02,238 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:02,993 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 6020792974384615
+2025-08-13 20:04:07,240 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:09,759 - MainProcess[OpenWPM-storage-logger]- storage_watchdog     - INFO    : Currently using: 11.23 MB of storage on disk...
+2025-08-13 20:04:12,076 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: https://www.health.gov.za/wp-content/themes/blo/assets/js/fontface.js?ver=4.1.0, line 17: Error: 3000ms timeout exceeded
+2025-08-13 20:04:12,242 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:14,457 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:04:14,679 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:04:17,847 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:20,385 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 2972328472577550 on browser with id 2539384636
+2025-08-13 20:04:20,388 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 2972328472577550
+2025-08-13 20:04:20,389 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 2972328472577550 while finalizing
+2025-08-13 20:04:22,396 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_th9pxb9d: Folder scheduled to be deleted and recover 77.7 MB of storage.
+2025-08-13 20:04:22,398 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 20:04:22,399 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:04:22,407 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108262406	Marionette	INFO	Stopped listening on port 42591
+2025-08-13 20:04:22,851 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:04:22,898 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:04:22,898 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:04:22,898 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-72cdca5b-0295-4b00-9aec-45f5a44719a7.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:04:22,898 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:04:22,898 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-72cdca5b-0295-4b00-9aec-45f5a44719a7.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:04:22,899 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:04:22,929 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:04:23,219 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:04:23,268 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 20:04:23,269 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 20:04:23,282 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_j82pfa0l/browser_params.json
+2025-08-13 20:04:23,296 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108263295	geckodriver	INFO	Listening on 127.0.0.1:41995
+2025-08-13 20:04:23,318 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108263317	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "46001" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 20:04:23,348 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 20:04:23,430 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 20:04:23,431 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 20:04:23,604 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 2972328472577550
+2025-08-13 20:04:23,861 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 20:04:23,929 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108263929	Marionette	INFO	Marionette enabled
+2025-08-13 20:04:24,153 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 20:04:24,153 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 20:04:24,213 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108264213	Marionette	INFO	Listening on port 41665
+2025-08-13 20:04:24,223 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 41665
+2025-08-13 20:04:24,231 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:46001
+2025-08-13 20:04:24,303 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108264303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 20:04:24,811 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 20:04:25,006 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:04:25,891 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:46001/devtools/browser/d3456dd6-9248-4d7b-8130-df96c008404e
+2025-08-13 20:04:25,980 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 20:04:25,983 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_j82pfa0l
+2025-08-13 20:04:25,987 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 20:04:25,987 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_j82pfa0l/extension_port.txt
+2025-08-13 20:04:25,988 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 20:04:25,992 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 20:04:25,993 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 20:04:26,004 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 20:04:26,007 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 20:04:26,008 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_j82pfa0l/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 20:04:26,084 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 37649
+2025-08-13 20:04:26,086 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 20:04:26,088 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 20:04:26,180 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:04:26,183 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 5189025495194060 on browser with id 2539384636
+2025-08-13 20:04:26,190 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:04:26,196 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://justice.gov.za/,4)
+2025-08-13 20:04:26,225 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:04:27,855 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:30,839 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: https://justice.gov.za/, line 471: ReferenceError: stLight is not defined
+2025-08-13 20:04:30,840 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: https://justice.gov.za/, line 486: TypeError: btn is null
+2025-08-13 20:04:32,859 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:37,863 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:40,220 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:04:42,866 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:45,356 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 5189025495194060 on browser with id 2539384636
+2025-08-13 20:04:45,360 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 5189025495194060
+2025-08-13 20:04:45,361 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 5189025495194060 while finalizing
+2025-08-13 20:04:45,696 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:04:47,364 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_j82pfa0l size is less than 75.0 MB: 64.7 MB
+2025-08-13 20:04:47,441 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:04:47,445 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 3005111574511168 on browser with id 2539384636
+2025-08-13 20:04:47,452 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:04:47,456 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://www.karoohoogland.gov.za/,4)
+2025-08-13 20:04:47,480 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:04:47,872 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:48,615 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 5189025495194060
+2025-08-13 20:04:53,480 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:04:55,832 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:04:58,484 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:00,946 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 3005111574511168 on browser with id 2539384636
+2025-08-13 20:05:00,948 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 3005111574511168
+2025-08-13 20:05:00,949 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 3005111574511168 while finalizing
+2025-08-13 20:05:02,956 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : /tmp/firefox_profile_j82pfa0l: Folder scheduled to be deleted and recover 77.68 MB of storage.
+2025-08-13 20:05:02,957 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: BrowserManager restart initiated. Clear profile? True
+2025-08-13 20:05:02,959 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:05:02,969 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108302969	Marionette	INFO	Stopped listening on port 41665
+2025-08-13 20:05:03,467 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,468 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:05:03,469 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:05:03,470 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-a8c24b34-4e8c-4add-89fc-5c1ca3856e35.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:05:03,470 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:05:03,471 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-a8c24b34-4e8c-4add-89fc-5c1ca3856e35.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:05:03,471 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:05:03,487 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:05:03,504 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,506 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,514 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,514 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,515 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,515 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,516 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,516 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,517 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,517 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,517 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,518 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,518 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,519 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,519 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,520 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Could not download new icon" ({})
+2025-08-13 20:05:03,793 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:05:03,840 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: Launching browser...
+2025-08-13 20:05:03,840 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Spawn attempt 0 
+2025-08-13 20:05:03,853 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: Saved extension config file to: /tmp/firefox_profile_exa6jrwu/browser_params.json
+2025-08-13 20:05:03,862 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108303862	geckodriver	INFO	Listening on 127.0.0.1:35203
+2025-08-13 20:05:03,882 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108303882	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/hom ...  "--headless" "--width=1366" "--height=768" "--remote-debugging-port" "42899" "--remote-allow-hosts" "localhost" "-no-remote"
+2025-08-13 20:05:03,913 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: *** You are running in headless mode.
+2025-08-13 20:05:03,993 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Ignoring preference override of remote settings server
+2025-08-13 20:05:03,993 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2025-08-13 20:05:04,226 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 3005111574511168
+2025-08-13 20:05:04,416 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: glxtest: libpci missing
+2025-08-13 20:05:04,500 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108304499	Marionette	INFO	Marionette enabled
+2025-08-13 20:05:04,742 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-width"
+2025-08-13 20:05:04,743 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: "Warning: unrecognized command line flag" "-height"
+2025-08-13 20:05:04,791 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108304791	Marionette	INFO	Listening on port 43319
+2025-08-13 20:05:04,811 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: WebDriver BiDi listening on ws://127.0.0.1:42899
+2025-08-13 20:05:04,887 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Read port: 43319
+2025-08-13 20:05:05,003 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108305003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2025-08-13 20:05:05,370 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2025-08-13 20:05:05,524 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: ({})
+2025-08-13 20:05:06,295 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: DevTools listening on ws://127.0.0.1:42899/devtools/browser/650ea2cf-a035-438a-add2-2c9d5241d084
+2025-08-13 20:05:06,428 - MainProcess[BrowserManagerHandle-2539384636]- deploy_firefox       - DEBUG   : BROWSER 2539384636: OpenWPM Firefox extension loaded
+2025-08-13 20:05:06,434 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Looking for extension port information in /tmp/firefox_profile_exa6jrwu
+2025-08-13 20:05:06,440 - MainProcess[MainThread]- storage_controller   - INFO    : Initializing new handler for Browser-2539384636
+2025-08-13 20:05:06,441 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Navigation instrumentation enabled
+2025-08-13 20:05:06,441 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_exa6jrwu/extension_port.txt
+2025-08-13 20:05:06,441 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Cookie instrumentation enabled
+2025-08-13 20:05:06,442 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Javascript instrumentation enabled
+2025-08-13 20:05:06,460 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : HTTP Instrumentation enabled
+2025-08-13 20:05:06,463 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : DNS instrumentation enabled
+2025-08-13 20:05:06,463 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.log: WebExtensions: Wrote to /tmp/firefox_profile_exa6jrwu/OPENWPM_STARTUP_SUCCESS.txt
+2025-08-13 20:05:06,535 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Connecting to extension on port 43533
+2025-08-13 20:05:06,537 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: BrowserManager ready.
+2025-08-13 20:05:06,539 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser spawn successful!
+2025-08-13 20:05:06,594 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:05:06,598 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 8884915914606295 on browser with id 2539384636
+2025-08-13 20:05:06,605 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:05:06,609 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://khaima.gov.za/,4)
+2025-08-13 20:05:06,638 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:05:08,490 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:13,492 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:17,594 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:05:18,495 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:22,711 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 8884915914606295 on browser with id 2539384636
+2025-08-13 20:05:22,721 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 8884915914606295
+2025-08-13 20:05:22,722 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 8884915914606295 while finalizing
+2025-08-13 20:05:24,115 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 0 visit_ids
+2025-08-13 20:05:24,853 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 8884915914606295
+2025-08-13 20:05:25,332 - MainProcess[BrowserManagerHandle-2539384636]- storage_watchdog     - INFO    : Current browser profile directory /tmp/firefox_profile_exa6jrwu size is less than 75.0 MB: 65.34 MB
+2025-08-13 20:05:25,365 - MainProcess[MainThread]- task_manager         - DEBUG   : Checking command failure status indicator...
+2025-08-13 20:05:25,366 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Starting to work on CommandSequence with visit_id 5195515478036732 on browser with id 2539384636
+2025-08-13 20:05:25,368 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: InitializeCommand()
+2025-08-13 20:05:25,370 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: GetCommand(https://kznlegislature.gov.za/,4)
+2025-08-13 20:05:25,384 - MainProcess[Thread-1 (_start_listener)]- FirefoxExtension     - DEBUG   : Setting visit_id the legacy way
+2025-08-13 20:05:26,210 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: JavaScript error: resource:///modules/backup/BackupService.sys.mjs, line 108: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIProperties.get]
+2025-08-13 20:05:29,119 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:34,123 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:39,126 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:44,130 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:49,132 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:50,415 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : BROWSER 2539384636: EXECUTING COMMAND: FinalizeCommand(5)
+2025-08-13 20:05:54,136 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageController status: There are currently 0 scheduled tasks for 1 visit_ids
+2025-08-13 20:05:55,531 - MainProcess[BrowserManagerHandle-2539384636]- browser_manager      - INFO    : Finished working on CommandSequence with visit_id 5195515478036732 on browser with id 2539384636
+2025-08-13 20:05:55,536 - MainProcess[MainThread]- storage_controller   - INFO    : Awaiting all tasks for visit_id 5195515478036732
+2025-08-13 20:05:55,538 - MainProcess[MainThread]- storage_controller   - DEBUG   : Awaited all tasks for visit_id 5195515478036732 while finalizing
+2025-08-13 20:05:58,118 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser manager...
+2025-08-13 20:05:58,119 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: Closing browser...
+2025-08-13 20:05:58,120 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: Joining command thread
+2025-08-13 20:05:58,121 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: 0.000028 seconds to join command thread
+2025-08-13 20:05:58,129 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 1755108358129	Marionette	INFO	Stopped listening on port 43319
+2025-08-13 20:05:58,663 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for Browser-2539384636, because the underlying socket closed
+2025-08-13 20:05:58,664 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: console.error: WebExtensions:
+2025-08-13 20:05:58,665 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Message: [Exception... "Component returned failure code: 0x804b0010 (NS_ERROR_OFFLINE) [nsIInputStream.available]"  nsresult: "0x804b0010 (NS_ERROR_OFFLINE)"  location: "JS frame :: jar:file:///tmp/addon-fc8114dd-6b72-46b5-91d5-afb336990722.xpi!/privileged/sockets/api.js :: onInputStreamReady :: line 49"  data: no]
+2025-08-13 20:05:58,665 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: Stack:
+2025-08-13 20:05:58,665 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: onInputStreamReady@jar:file:///tmp/addon-fc8114dd-6b72-46b5-91d5-afb336990722.xpi!/privileged/sockets/api.js:49:33
+2025-08-13 20:05:58,665 - MainProcess[log-interceptor-2539384636]- selenium_firefox     - DEBUG   : BROWSER 2539384636: driver: 
+2025-08-13 20:05:58,873 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: Browser manager closed successfully.
+2025-08-13 20:05:58,874 - MainProcess[MainThread]- browser_manager      - DEBUG   : BROWSER 2539384636: during_init=False | profile_archive_dir=None
+2025-08-13 20:05:58,930 - MainProcess[MainThread]- storage_controller   - DEBUG   : Sending the shutdown signal to the Storage Controller...
+2025-08-13 20:05:58,931 - MainProcess[MainThread]- storage_controller   - INFO    : Terminating handler for TaskManager, because the underlying socket closed
+2025-08-13 20:05:59,637 - MainProcess[MainThread]- storage_controller   - INFO    : Received shutdown signal!
+2025-08-13 20:05:59,638 - MainProcess[MainThread]- storage_controller   - INFO    : Closing Server
+2025-08-13 20:05:59,639 - MainProcess[MainThread]- storage_controller   - INFO    : Closed Server
+2025-08-13 20:05:59,641 - MainProcess[MainThread]- storage_controller   - INFO    : Cancelling status_queue_update
+2025-08-13 20:05:59,642 - MainProcess[MainThread]- storage_controller   - INFO    : Cancelled status_queue_update
+2025-08-13 20:05:59,643 - MainProcess[MainThread]- storage_controller   - INFO    : Cancelling timeout_check
+2025-08-13 20:05:59,644 - MainProcess[MainThread]- storage_controller   - INFO    : Cancelled timeout_check
+2025-08-13 20:05:59,645 - MainProcess[MainThread]- storage_controller   - INFO    : Starting wait_closed
+2025-08-13 20:05:59,646 - MainProcess[MainThread]- storage_controller   - INFO    : Completed wait_closed
+2025-08-13 20:05:59,647 - MainProcess[MainThread]- storage_controller   - INFO    : Entering self.shutdown
+2025-08-13 20:06:00,451 - MainProcess[OpenWPM-completion_handler]- task_manager         - DEBUG   : Invoking callback of visit_id 5195515478036732
+2025-08-13 20:06:04,741 - MainProcess[MainThread]- storage_controller   - INFO    : structured_storage is shut down
+2025-08-13 20:06:04,774 - MainProcess[MainThread]- storage_controller   - DEBUG   : StorageControllerHandle took 5.841829299926758 seconds to close.

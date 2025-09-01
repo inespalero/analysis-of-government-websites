@@ -1,0 +1,268 @@
+{
+  "domain": "www.dihlabeng.gov.za",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "ajax.googleapis.com",
+    "connect.facebook.net",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "www.facebook.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "__wpdm_client",
+      "value": "b02bc32fd2e62bc1e5d5055a70f98dac",
+      "domain": ".www.capewinelands.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_HP1RMYQSKZ",
+      "value": "GS2.1.s1755338153$o1$g0$t1755338153$j60$l0$h0",
+      "domain": ".capewinelands.gov.za",
+      "path": "/",
+      "expires": 1818410153,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.632595124.1755338154",
+      "domain": ".capewinelands.gov.za",
+      "path": "/",
+      "expires": 1818410153,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "YSC",
+      "value": "qXHHy2B83Dc",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "klEia9BRiDk",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890130,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiA9",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890130,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CKjt46mbtMT7cRCopriLiI-PAxjt1eCNiI-PAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770890130,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sbjs_migrations",
+      "value": "1418474375998%3D1",
+      "domain": ".dannhauser.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "sbjs_current_add",
+      "value": "fd%3D2025-08-16%2009%3A55%3A49%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.dannhauser.gov.za%2F%7C%7C%7Crf%3D%28none%29",
+      "domain": ".dannhauser.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "sbjs_first_add",
+      "value": "fd%3D2025-08-16%2009%3A55%3A49%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.dannhauser.gov.za%2F%7C%7C%7Crf%3D%28none%29",
+      "domain": ".dannhauser.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "sbjs_current",
+      "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29",
+      "domain": ".dannhauser.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "sbjs_first",
+      "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29",
+      "domain": ".dannhauser.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "sbjs_udata",
+      "value": "vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%3B%20rv%3A125.0%29%20Gecko%2F20100101%20Firefox%2F125.0",
+      "domain": ".dannhauser.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "sbjs_session",
+      "value": "pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fwww.dannhauser.gov.za%2F",
+      "domain": ".dannhauser.gov.za",
+      "path": "/",
+      "expires": 1755339949,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "e1fdce36a9615ec8292f7c891908d9cf",
+      "domain": "khaima.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "1b1d1d142dd85f1411bfe91b1c2cb406",
+      "value": "1755338125",
+      "domain": "edumbe.gov.za",
+      "path": "/",
+      "expires": 1755942930,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_L5DF7C5XXT",
+      "value": "GS2.1.s1755338129$o1$g0$t1755338129$j60$l0$h0",
+      "domain": ".justice.gov.za",
+      "path": "/",
+      "expires": 1818410129,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.738582548.1755338129",
+      "domain": ".justice.gov.za",
+      "path": "/",
+      "expires": 1818410129,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_158209",
+      "value": "eyJpZCI6Ijk5YTVlNDEzLTU2MTgtNTc1Mi1hNDk5LTMwN2M5ODc0OTUyMyIsImNyZWF0ZWQiOjE3NTUzMzgxMjkyNTIsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".justice.gov.za",
+      "path": "/",
+      "expires": 1786874129,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_158209",
+      "value": "eyJpZCI6IjhjMzIzM2FlLTJmYTYtNDRjMi04YzRmLWExOTMwOGVjYmUwMyIsImMiOjE3NTUzMzgxMjkyNTQsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0=",
+      "domain": ".justice.gov.za",
+      "path": "/",
+      "expires": 1755339929,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANMylNB148MzRvQOB-QxDVblDVZ9AIMr82F0iT5bDGrukWGzY27uY5RNf2u2QzPmac91_aKKaG3-FvlntEo0SRU",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1770890133,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__wpdm_client",
+      "value": "b02bc32fd2e62bc1e5d5055a70f98dac",
+      "domain": "kznlegislature.gov.za",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tk_or",
+      "value": "%22%22",
+      "domain": ".kznlegislature.gov.za",
+      "path": "/",
+      "expires": 1913018142,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "tk_r3d",
+      "value": "%22%22",
+      "domain": ".kznlegislature.gov.za",
+      "path": "/",
+      "expires": 1755597342,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "tk_lr",
+      "value": "%22%22",
+      "domain": ".kznlegislature.gov.za",
+      "path": "/",
+      "expires": 1786874142,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}

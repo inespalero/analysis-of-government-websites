@@ -1,0 +1,6 @@
+domain,transfer_scope_norm,cookie_ownership_mixed,consent_mechanism,automated_decisions,cookies_total,cookies_3p_ratio,cookies_session_ratio,tracker_hit_ratio,req_3p_ratio,ok_cookie_ownership,ok_cookie_session_only,ok_consent_prior,ok_no_tracking_claim,possible_transfer_violation,matches,violations,unevaluable,compliance_score
+dirco.gov.za,,False,,False,17.0,0.529,0.0,0.768,0.768,,,,False,,0,1,4,0.0
+gardenroute.gov.za,NONE,False,,False,0.0,0.0,0.0,0.583,0.583,,,,False,True,1,1,3,0.5
+george.gov.za,,False,,False,8.0,0.0,0.0,0.562,0.562,,,,False,,0,1,4,0.0
+health.gov.za,,False,,False,3.0,0.0,0.667,0.453,0.482,,,,False,,0,1,4,0.0
+justice.gov.za,,False,,False,16.0,0.0,0.125,0.863,0.863,,,,False,,0,1,4,0.0

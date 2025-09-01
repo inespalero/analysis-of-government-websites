@@ -1,0 +1,6 @@
+domain,docs,has_privacy,has_cookies,has_legal,has_data_prot,privacy_controller_present,dpo_contact_present,rights_sum,rights_avg_per_doc,rights_general_statement,legal_bases_sum,automated_decisions,retention_present,recipients_sum,complaint_authority,cookie_third_party_sum,cookie_mgmt_instructions,cookie_ownership_mixed,legal_ip_notice,legal_liability,max_transfer_scope_rank,transfer_scope,consent_mechanism
+dirco.gov.za,1,False,False,True,False,False,True,0,,False,0,False,True,0,False,0,False,False,True,True,,,
+gardenroute.gov.za,1,True,False,False,False,True,True,2,2.0,False,1,False,False,2,False,0,False,False,False,False,0.0,NONE,
+george.gov.za,2,True,False,True,False,True,True,3,3.0,True,6,False,True,4,False,0,False,False,False,True,,,
+health.gov.za,1,False,False,True,False,False,True,0,,False,0,False,True,0,False,0,False,False,True,True,,,
+justice.gov.za,1,False,False,True,False,False,True,0,,False,0,False,True,0,False,0,False,False,True,True,,,
