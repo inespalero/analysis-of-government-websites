@@ -1,0 +1,117 @@
+domain,fp_detected,fp_methods_total,fp_canvas,fp_audioCtx,fp_rtc,fp_storage,status,http_status
+sede.mscbs.gob.es,0,0,0,0,0,0,OK,200.0
+cnrha.sanidad.gob.es,0,0,0,0,0,0,OK,200.0
+www.miteco.gob.es,1,1,0,0,0,1,OK,200.0
+sede.mjusticia.gob.es,0,0,0,0,0,0,OK,200.0
+cpage.mpr.gob.es,1,1,0,0,0,1,OK,200.0
+www.mites.gob.es,1,1,0,0,0,1,OK,200.0
+sede.red.gob.es,0,0,0,0,0,0,OK,200.0
+datos.gob.es,1,1,0,0,0,1,OK,200.0
+denuncias.mitma.gob.es,1,1,0,0,0,1,OK,200.0
+www.mivau.gob.es,0,0,0,0,0,0,OK,200.0
+sede.seg-social.gob.es,1,1,0,0,0,1,OK,200.0
+www.mpr.gob.es,0,0,0,0,0,0,OK,200.0
+sede.tea.hacienda.gob.es,0,0,0,0,0,0,OK,200.0
+sede.sepe.gob.es,0,0,0,0,0,0,OK,200.0
+www.mptfp.gob.es,1,1,1,0,0,0,OK,200.0
+digital.gob.es,0,0,0,0,0,0,OK,200.0
+sede.transparencia.gob.es,1,1,0,0,0,1,OK,200.0
+esmovilidad.transportes.gob.es,0,0,0,0,0,0,OK,200.0
+dgsfp.mineco.gob.es,1,1,0,0,0,1,OK,200.0
+www.rpdiscapacidad.gob.es,1,1,0,0,0,1,OK,200.0
+www.prtr.miteco.gob.es,1,1,0,0,0,1,OK,200.0
+sede.transportes.gob.es,1,1,0,0,0,1,OK,200.0
+sedeagpd.gob.es,0,0,0,0,0,0,OK,200.0
+firmaelectronica.gob.es,0,0,0,0,0,0,OK,200.0
+espanadigital.gob.es,1,1,0,0,0,1,OK,200.0
+sedeaplicaciones.minetur.gob.es,0,0,0,0,0,0,OK,200.0
+www.sanidad.gob.es,0,0,0,0,0,0,OK,200.0
+futuros.gob.es,0,0,0,0,0,0,OK,200.0
+www.secegsa.gob.es,1,1,0,0,0,1,OK,200.0
+www.sede.fnmt.gob.es,1,1,0,0,0,1,OK,200.0
+generaciond.gob.es,0,0,0,0,0,0,OK,200.0
+www.sedecatastro.gob.es,0,0,0,0,0,0,OK,200.0
+sedeminhap.gob.es,0,0,0,0,0,0,OK,200.0
+www.mintur.gob.es,1,1,0,0,0,1,OK,200.0
+igualdad.sede.gob.es,0,0,0,0,0,0,OK,200.0
+www.seguridadaerea.gob.es,1,1,0,0,0,1,OK,200.0
+sedediatid.digital.gob.es,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://sedediatid.digital.gob.es/"", waiting until ""load""
+",
+servicios.administraciondigital.gob.es,0,0,0,0,0,0,OK,200.0
+inclasns.sanidad.gob.es,0,0,0,0,0,0,OK,200.0
+ingesa.sanidad.gob.es,0,0,0,0,0,0,OK,200.0
+www.transportes.gob.es,0,0,0,0,0,0,OK,200.0
+spainaudiovisualhub.mineco.gob.es,1,1,0,0,0,1,OK,200.0
+mapas.fomento.gob.es,0,0,0,0,0,0,OK,200.0
+transparencia.gob.es,1,1,0,0,0,1,OK,200.0
+moncloaabierta.presidencia.gob.es,1,1,0,0,0,1,OK,200.0
+mapaoficialcarreteras.transportes.gob.es,1,1,0,0,0,1,OK,200.0
+mpr.sede.gob.es,1,1,0,0,0,1,OK,200.0
+mpt.gob.es,1,1,1,0,0,0,OK,200.0
+veranojoven.transportes.gob.es,1,1,0,0,0,1,OK,200.0
+lssi.mineco.gob.es,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://lssi.mineco.gob.es/"", waiting until ""load""
+",
+violenciagenero.igualdad.gob.es,1,1,0,0,0,1,OK,200.0
+planderecuperacion.gob.es,0,0,0,0,0,0,OK,200.0
+www.aemps.gob.es,1,1,0,0,0,1,OK,200.0
+www.agenciatributaria.gob.es,1,1,0,0,0,1,OK,200.0
+portaldatos.seg-social.gob.es,1,1,0,0,0,1,OK,200.0
+usuariosteleco.mineco.gob.es,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://usuariosteleco.mineco.gob.es/"", waiting until ""load""
+",
+www.ciencia.gob.es,1,1,0,0,0,1,OK,200.0
+prensa.mites.gob.es,1,1,0,0,0,1,OK,200.0
+www.cultura.gob.es,0,0,0,0,0,0,OK,200.0
+publicaciones.transportes.gob.es,0,0,0,0,0,0,OK,200.0
+portal.mineco.gob.es,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://portal.mineco.gob.es/"", waiting until ""load""
+",
+redets.sanidad.gob.es,0,0,0,0,0,0,OK,200.0
+registrodelicitadores.gob.es,0,0,0,0,0,0,OK,200.0
+portalayudas.digital.gob.es,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://portalayudas.digital.gob.es/"", waiting until ""load""
+",
+www.derechosdigitales.gob.es,0,0,0,0,0,0,OK,200.0
+www.dsca.gob.es,0,0,0,0,0,0,OK,200.0
+www.educacionfpydeportes.gob.es,0,0,0,0,0,0,OK,200.0
+saludconevidencia.aemps.gob.es,1,1,0,0,0,1,OK,200.0
+sede.administracion.gob.es,0,0,0,0,0,0,OK,200.0
+sede.administracionespublicas.gob.es,1,1,0,0,0,1,OK,200.0
+sede.agenciatributaria.gob.es,1,1,0,0,0,1,OK,200.0
+www.exteriores.gob.es,1,1,0,0,0,1,OK,200.0
+www.hacienda.gob.es,1,1,0,0,0,1,OK,200.0
+www.igae.pap.hacienda.gob.es,1,1,0,0,0,1,OK,200.0
+administracion.gob.es,0,0,0,0,0,0,OK,200.0
+www.defensa.gob.es,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://www.defensa.gob.es/"", waiting until ""load""
+",
+sede.defensa.gob.es,1,1,0,0,0,1,OK,200.0
+www.igualdad.gob.es,1,1,0,0,0,1,OK,200.0
+administracionelectronica.gob.es,0,0,0,0,0,0,OK,200.0
+sede.dgt.gob.es,0,0,0,0,0,0,OK,200.0
+carpetaciudadana.gob.es,0,0,0,0,0,0,OK,200.0
+sede.funciona.gob.es,1,1,0,0,0,1,OK,200.0
+www.inclusion.gob.es,0,0,0,0,0,0,OK,200.0
+www.interior.gob.es,0,0,0,0,0,0,OK,200.0
+sede.inclusion.gob.es,0,0,0,0,0,0,OK,200.0
+cibim.transportes.gob.es,0,0,0,0,0,0,OK,200.0
+www.juventudeinfancia.gob.es,0,0,0,0,0,0,OK,200.0
+ciencia.sede.gob.es,1,1,0,0,0,1,OK,200.0
+avance.digital.gob.es,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://avance.digital.gob.es/"", waiting until ""load""
+",
+sede.mir.gob.es,0,0,0,0,0,0,OK,200.0
+www.lamoncloa.gob.es,0,0,0,0,0,0,OK,200.0
+sede.minetur.gob.es,1,1,0,0,0,1,OK,200.0
+ciudadaniaexterior.inclusion.gob.es,0,0,0,0,0,0,OK,200.0
+clave.gob.es,0,0,0,0,0,0,OK,200.0
+www.mapa.gob.es,0,0,0,0,0,0,OK,200.0
