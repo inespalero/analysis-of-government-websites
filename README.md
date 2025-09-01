@@ -12,6 +12,8 @@ Analysis of 215 government websites across 7 countries revealing systematic priv
 - `/figures`: Generated figures used in the paper
 - `/docs`: Additional documentation
 
+TODO
+
 ## Usage
 1. Install dependencies: `pip install -r code/requirements.txt`
 2. TODO
@@ -20,7 +22,7 @@ Analysis of 215 government websites across 7 countries revealing systematic priv
 All data was collected from publicly accessible websites following robots.txt policies. No authentication or personal data was collected.
 
 ## License
-MIT License - See LICENSE file
+MIT License - See LICENSE file TODO
 
 ## Contact
 For questions or raw data requests: 100538264@alumnos.uc3m.es
