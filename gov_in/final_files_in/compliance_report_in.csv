@@ -1,0 +1,11 @@
+domain,transfer_scope_norm,cookie_ownership_mixed,consent_mechanism,automated_decisions,cookies_total,cookies_3p_ratio,cookies_session_ratio,tracker_hit_ratio,req_3p_ratio,ok_cookie_ownership,ok_cookie_session_only,ok_consent_prior,ok_no_tracking_claim,possible_transfer_violation,matches,violations,unevaluable,compliance_score
+ceodelhi.gov.in,,False,,False,3.0,0.0,0.0,0.161,0.161,,,,False,,0,1,4,0.0
+chemexcil.in,,False,,False,357.0,0.983,0.134,0.836,0.836,,,,False,,0,1,4,0.0
+delhipolice.gov.in,,False,,False,314.0,0.975,0.0,0.767,0.768,,,,False,,0,1,4,0.0
+dic.gov.in,NONE,False,,False,27.0,0.0,0.037,0.564,0.984,,,,False,True,1,1,3,0.5
+fabkerala.gov.in,,False,,False,344.0,0.994,0.081,0.923,0.924,,,,False,,0,1,4,0.0
+goaelectricity.gov.in,,False,,False,10.0,0.9,0.1,0.891,0.901,,,,False,,0,1,4,0.0
+iirs.gov.in,NONE,False,,False,12.0,0.0,0.0,0.328,0.328,,,,False,True,1,1,3,0.5
+mahafireservice.gov.in,,False,,False,10.0,0.9,0.1,0.818,0.866,,,,False,,0,1,4,0.0
+suratmunicipal.gov.in,,False,,False,17.0,0.529,0.0,0.62,0.62,,,,False,,0,1,4,0.0
+usof.gov.in,NONE,False,,False,2.0,0.0,0.0,0.855,0.855,,,,False,True,1,1,3,0.5

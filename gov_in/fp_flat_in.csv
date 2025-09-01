@@ -1,0 +1,24 @@
+domain,fp_detected,fp_methods_total,fp_canvas,fp_audioCtx,fp_rtc,fp_storage,status,http_status
+goaelectricity.gov.in,0,0,0,0,0,0,OK,200.0
+www.ranaghat.gov.in,0,0,0,0,0,0,OK,200.0
+genderpark.gov.in,1,1,0,0,0,1,OK,200.0
+www.suratmunicipal.gov.in,0,0,0,0,0,0,OK,200.0
+www.iirs.gov.in,0,0,0,0,0,0,OK,200.0
+apsrtc.gov.in,0,0,0,0,0,0,OK,200.0
+indianvisaonline.gov.in,0,0,0,0,0,0,OK,200.0
+mahafireservice.gov.in,0,0,0,0,0,0,OK,200.0
+usof.gov.in,0,0,0,0,0,0,OK,200.0
+naco.gov.in,0,0,0,0,0,0,OK,200.0
+manassembly.gov.in,0,0,0,0,0,0,OK,200.0
+apfinance.gov.in,0,0,0,0,0,0,OK,200.0
+forest.nagaland.gov.in,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://forest.nagaland.gov.in/"", waiting until ""load""
+",
+chemexcil.in,0,0,0,0,0,0,OK,200.0
+ceodelhi.gov.in,0,0,0,0,0,0,OK,200.0
+merc.gov.in,1,2,1,0,0,1,OK,200.0
+registry.gov.in,0,0,0,0,0,0,OK,200.0
+dic.gov.in,1,1,0,0,0,1,OK,200.0
+fabkerala.gov.in,1,1,0,0,0,1,OK,200.0
+delhipolice.gov.in,1,1,0,0,0,1,OK,200.0

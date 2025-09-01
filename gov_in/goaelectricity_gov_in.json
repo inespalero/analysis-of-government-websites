@@ -1,0 +1,46 @@
+{
+  "domain": "goaelectricity.gov.in",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "cdnjs.cloudflare.com",
+    "connect.facebook.net",
+    "fonts.gstatic.com",
+    "s3.amazonaws.com",
+    "s3.ap-south-1.amazonaws.com",
+    "ssl.google-analytics.com",
+    "translate-pa.googleapis.com",
+    "translate.google.com",
+    "translate.googleapis.com",
+    "www.facebook.com",
+    "www.google.com",
+    "www.gstatic.com",
+    "www.smatbot.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "NID",
+      "value": "525=AXNwxZ3zJ7HWaXuOAXyqKz0yG2Kk1r9A5WhwnaJwk2c5fnKonptLT5JVS0K1fWJRCl2qhGcs8hRbLTrtzSNw3BmhGktfYtpQ27bK1cV1jwG9CGhxNRQ04plinv5hNdopwPpgndxfSypYLI_kQrVgdakq9e0wJroFHpZGaOK-Z3YvOWhql4ln10f5eeQpwGAaS5VMIfjwmZsTluPyPl4Uy_Qcy4g",
+      "domain": ".translate-pa.googleapis.com",
+      "path": "/",
+      "expires": 1771096251,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "9quh0tt5n28ib2oac3359kqgo3",
+      "domain": "www.ranaghat.gov.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": false
+}
