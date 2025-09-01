@@ -1,0 +1,27 @@
+domain,fp_detected,fp_methods_total,fp_canvas,fp_audioCtx,fp_rtc,fp_storage,status,http_status
+www.indigenous.gov.au,0,0,0,0,0,0,OK,200.0
+www.justice.qld.gov.au,0,0,0,0,0,0,OK,200.0
+migration.sa.gov.au,1,1,0,0,0,1,OK,200.0
+moneysmart.gov.au,1,1,0,0,0,1,OK,200.0
+www.productsafety.gov.au,0,0,0,0,0,0,OK,200.0
+www.cdpp.gov.au,1,2,1,0,0,1,OK,200.0
+museumsvictoria.com.au,0,0,0,0,0,0,OK,200.0
+www.police.sa.gov.au,1,1,0,0,0,1,OK,200.0
+hqcc.qld.gov.au,0,0,0,0,0,0,OK,200.0
+parks.tas.gov.au,1,1,0,0,0,1,OK,200.0
+dhs.sa.gov.au,0,0,0,0,0,0,OK,200.0
+schoolbuses.wa.gov.au,0,0,0,0,0,0,OK,200.0
+ipaustralia.gov.au,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://ipaustralia.gov.au/"", waiting until ""load""
+",
+donotcall.gov.au,1,1,0,0,0,1,OK,200.0
+training.gov.au,1,1,0,0,0,1,OK,200.0
+fpa.tas.gov.au,1,1,0,0,0,1,OK,200.0
+www.exportfinance.gov.au,1,1,0,0,0,1,OK,200.0
+fishing.tas.gov.au,1,1,0,0,0,1,OK,200.0
+www.health.vic.gov.au,0,0,0,0,0,0,OK,200.0
+humanrights.gov.au,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://humanrights.gov.au/"", waiting until ""load""
+",

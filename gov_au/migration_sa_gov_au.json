@@ -1,0 +1,156 @@
+{
+  "domain": "migration.sa.gov.au",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "cdn.jsdelivr.net",
+    "challenges.cloudflare.com",
+    "fonts.googleapis.com",
+    "player.vimeo.com",
+    "region1.google-analytics.com",
+    "s3.amazonaws.com",
+    "script.hotjar.com",
+    "static.hotjar.com",
+    "stats.g.doubleclick.net",
+    "use.fontawesome.com",
+    "vc.hotjar.io",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "shell#lang",
+      "value": "en",
+      "domain": "ipaustralia.gov.au",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "o1iglsqyzfgify3p0z2ugkye",
+      "domain": "ipaustralia.gov.au",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SC_ANALYTICS_GLOBAL_COOKIE",
+      "value": "23c521ed50614735bad61c2d2873f29e|False",
+      "domain": "ipaustralia.gov.au",
+      "path": "/",
+      "expires": 2070643330,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sxa_site",
+      "value": "IPAustralia",
+      "domain": "ipaustralia.gov.au",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.393010538.1755283333",
+      "domain": ".justice.qld.gov.au",
+      "path": "/",
+      "expires": 1818355333,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_S22J94JVK4",
+      "value": "GS2.1.s1755283332$o1$g0$t1755283334$j58$l0$h0",
+      "domain": ".justice.qld.gov.au",
+      "path": "/",
+      "expires": 1818355334,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "visid_incap_2148454",
+      "value": "g/IoWP8URNe5ofSv78i2g4B/n2gAAAAAQUIPAAAAAACKuQLQf9NW9N2DboH2xJ0S",
+      "domain": ".indigenous.gov.au",
+      "path": "/",
+      "expires": 1786752748,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "incap_ses_1485_2148454",
+      "value": "toE6CRHsUUXBRoCqA8ibFIF/n2gAAAAASYzO2W04M4UjEszH/wVoIw==",
+      "domain": ".indigenous.gov.au",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "___utmvc",
+      "value": "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",
+      "domain": "www.indigenous.gov.au",
+      "path": "/",
+      "expires": 1755283351,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1201286081.1755283332",
+      "domain": ".indigenous.gov.au",
+      "path": "/",
+      "expires": 1818355332,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_0BM37R92X6",
+      "value": "GS2.1.s1755283332$o1$g0$t1755283333$j59$l0$h0",
+      "domain": ".indigenous.gov.au",
+      "path": "/",
+      "expires": 1818355333,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "SeVHqdAhreWF9IVzLs_WaghP0EsVkYS9KoVdsk9WTfk-1755283332-1.0.1.1-HLIf5gBBl3zdVmxwUSVduiEBcLO5J8qs0hJCLTnXvPeI.oh9m2V1aQaIXE7I2MQH",
+      "domain": ".vimeo.com",
+      "path": "/",
+      "expires": 1755285132,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "lwBg2flzvqsIVhEF4hb4fWhdkHjHxa5CuavtXB6gpLo-1755283332834-0.0.1.1-604800000",
+      "domain": ".vimeo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}

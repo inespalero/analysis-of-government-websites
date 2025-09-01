@@ -1,0 +1,17 @@
+domain,transfer_scope_norm,cookie_ownership_mixed,consent_mechanism,automated_decisions,cookies_total,cookies_3p_ratio,cookies_session_ratio,tracker_hit_ratio,req_3p_ratio,ok_cookie_ownership,ok_cookie_session_only,ok_consent_prior,ok_no_tracking_claim,possible_transfer_violation,matches,violations,unevaluable,compliance_score
+dhs.sa.gov.au,,False,,False,144,0.062,0.0,0.922,0.922,,,,False,,0,1,4,0.0
+donotcall.gov.au,,False,,False,100,0.0,0.88,0.663,0.663,,,,False,,0,1,4,0.0
+exportfinance.gov.au,NONE,False,,True,331,0.725,0.142,0.967,0.991,,,,False,True,1,1,3,0.5
+fishing.tas.gov.au,,False,,False,27,0.667,0.037,0.923,0.923,,,,False,,0,1,4,0.0
+fpa.tas.gov.au,,False,,False,129,0.333,0.07,0.707,0.786,,,,False,,0,1,4,0.0
+health.vic.gov.au,NONE,False,,False,14,0.0,0.071,0.528,0.604,,,,False,True,1,1,3,0.5
+humanrights.gov.au,,False,,False,39,0.462,0.0,0.876,0.876,,,,False,,0,1,4,0.0
+indigenous.gov.au,,False,,False,16,0.0,0.062,0.682,0.682,,,,False,,0,1,4,0.0
+ipaustralia.gov.au,,False,,False,5,0.0,0.6,0.729,0.729,,,,False,,0,1,4,0.0
+justice.qld.gov.au,,False,,False,17,0.0,0.059,0.901,0.901,,,,False,,0,1,4,0.0
+migration.sa.gov.au,,False,,False,46,0.391,0.196,0.86,0.864,,,,False,,0,1,4,0.0
+museumsvictoria.com.au,,False,,False,59,0.61,0.034,0.844,0.896,,,,False,,0,1,4,0.0
+parks.tas.gov.au,,False,,False,18,0.5,0.056,0.873,0.873,,,,False,,0,1,4,0.0
+police.sa.gov.au,,False,,False,204,0.926,0.044,0.952,0.952,,,,False,,0,1,4,0.0
+productsafety.gov.au,,True,none,False,18,0.5,0.0,0.885,0.885,,,,,,0,0,5,
+schoolbuses.wa.gov.au,,False,,False,183,0.0,0.94,0.658,0.658,,,,False,,0,1,4,0.0
