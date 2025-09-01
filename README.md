@@ -1,4 +1,3 @@
-# analysis-of-government-websites
 # Government Website Privacy Analysis
 
 This repository contains the code and data for the paper "Analysis of Government-Sponsored Technology (Mis)use" (Master Thesis, UC3M 2025).
