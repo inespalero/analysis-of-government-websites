@@ -1,0 +1,12 @@
+domain,docs,has_privacy,has_cookies,has_legal,has_data_prot,privacy_controller_present,dpo_contact_present,rights_sum,rights_avg_per_doc,rights_general_statement,legal_bases_sum,automated_decisions,retention_present,recipients_sum,complaint_authority,cookie_third_party_sum,cookie_mgmt_instructions,cookie_ownership_mixed,legal_ip_notice,legal_liability,max_transfer_scope_rank,transfer_scope,consent_mechanism
+comisionacionaldebusqueda.gob.mx,3,True,False,False,True,True,False,5,1.6666666666666667,True,3,False,False,0,False,0,False,False,False,False,,,
+culturabcs.gob.mx,2,True,False,False,False,True,True,5,2.5,False,3,False,False,4,False,0,False,False,False,False,0.0,NONE,
+datos.gob.mx,3,True,False,True,False,True,True,4,2.0,False,6,False,True,1,False,0,False,False,True,True,0.0,NONE,
+gob.mx,1,True,False,False,False,True,False,0,0.0,False,0,False,False,0,False,0,False,False,False,False,,,
+manzanillo.gob.mx,2,True,False,False,True,True,False,4,2.0,False,3,False,False,0,False,0,False,False,False,False,0.0,NONE,
+poderjudicialqro.gob.mx,1,True,False,False,False,True,False,4,4.0,False,9,False,False,8,False,0,False,False,False,False,,,
+queretaro.gob.mx,2,True,False,False,False,True,True,8,4.0,False,4,False,False,0,False,0,False,False,False,False,0.0,NONE,
+salud.cdmx.gob.mx,1,False,False,True,False,False,True,0,,False,0,False,True,0,False,0,False,False,True,True,,,
+saludtlax.gob.mx,3,True,False,False,True,True,True,4,1.3333333333333333,False,0,False,False,0,False,0,False,False,False,False,0.0,NONE,
+te.gob.mx,2,True,False,False,True,True,False,4,2.0,False,106,True,True,29,False,0,False,False,False,False,0.0,NONE,
+uniondetula.gob.mx,1,True,False,False,False,True,False,0,0.0,False,0,False,False,0,False,0,False,False,False,False,,,

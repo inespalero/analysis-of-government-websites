@@ -1,0 +1,45 @@
+domain,fp_detected,fp_methods_total,fp_canvas,fp_audioCtx,fp_rtc,fp_storage,status,http_status
+comisionacionaldebusqueda.gob.mx,1,1,0,0,0,1,OK,200.0
+www.gob.mx,1,1,0,0,0,1,OK,200.0
+uniondetula.gob.mx,1,1,0,0,0,1,OK,200.0
+www.salud.cdmx.gob.mx,0,0,0,0,0,0,OK,200.0
+ubbj.gob.mx,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://ubbj.gob.mx/"", waiting until ""load""
+",
+taxco.gob.mx,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://taxco.gob.mx/"", waiting until ""load""
+",
+manzanillo.gob.mx,0,0,0,0,0,0,OK,200.0
+www.tribunaloaxaca.gob.mx,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://www.tribunaloaxaca.gob.mx/"", waiting until ""load""
+",
+portal.saludsonora.gob.mx,0,0,0,0,0,0,OK,200.0
+www.saludtlax.gob.mx,0,0,0,0,0,0,OK,200.0
+taxco.gob.mx,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://taxco.gob.mx/"", waiting until ""load""
+",
+www.municipiodurango.gob.mx,1,1,0,0,0,1,OK,200.0
+www.poderjudicialqro.gob.mx,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://www.poderjudicialqro.gob.mx/"", waiting until ""load""
+",
+eduardoneri.gob.mx,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://eduardoneri.gob.mx/"", waiting until ""load""
+",
+queretaro.gob.mx,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://queretaro.gob.mx/"", waiting until ""load""
+",
+www.condusef.gob.mx,1,1,0,0,0,1,OK,200.0
+www.te.gob.mx,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://www.te.gob.mx/"", waiting until ""load""
+",
+culturabcs.gob.mx,1,1,0,0,0,1,OK,200.0
+www.sigaif.gob.mx,1,1,0,0,0,1,OK,200.0
+datos.gob.mx,1,2,1,0,0,1,OK,200.0
