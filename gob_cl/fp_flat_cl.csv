@@ -1,0 +1,24 @@
+domain,fp_detected,fp_methods_total,fp_canvas,fp_audioCtx,fp_rtc,fp_storage,status,http_status
+www.boletinconcursal.cl,0,0,0,0,0,0,OK,200.0
+www.economia.gob.cl,1,1,0,0,0,1,OK,200.0
+www.lab.gob.cl,1,1,0,0,0,1,OK,200.0
+www.minrel.gob.cl,0,0,0,0,0,0,OK,200.0
+www.desarrollosocialyfamilia.gob.cl,1,1,0,0,0,1,OK,200.0
+www.monumentos.gob.cl,0,0,0,0,0,0,OK,200.0
+www.mop.gob.cl,0,0,0,0,0,0,OK,200.0
+www.museoarqueologicolaserena.gob.cl,0,0,0,0,0,0,OK,200.0
+bibliometro.cl,1,2,1,0,0,1,OK,200.0
+escueladegendarmeria.gob.cl,0,0,0,0,0,0,OK,200.0
+www.tdpi.cl,0,0,0,0,0,0,OK,200.0
+hospitalcalama.gob.cl,1,1,0,0,0,1,OK,200.0
+www.sfgp.gob.cl,0,0,0,0,0,0,OK,200.0
+hacienda.gob.cl,0,0,0,0,0,0,OK,200.0
+www.superir.gob.cl,1,1,1,0,0,0,OK,200.0
+www.investchile.gob.cl,1,1,0,0,0,1,OK,200.0
+www.infor.cl,0,0,0,0,0,0,OK,200.0
+modernizacion.gob.cl,0,0,0,0,0,0,OK,200.0
+www.castillodeniebla.gob.cl,0,0,0,0,0,0,OK,200.0
+minmujeryeg.gob.cl,1,4,1,1,1,1,"ERROR Page.goto: Timeout 40000ms exceeded.
+Call log:
+navigating to ""https://minmujeryeg.gob.cl/"", waiting until ""load""
+",

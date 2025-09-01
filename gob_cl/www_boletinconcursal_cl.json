@@ -1,0 +1,11 @@
+{
+  "domain": "www.boletinconcursal.cl",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [],
+  "third_party_cookies": [],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": false
+}

@@ -1,0 +1,60 @@
+{
+  "domain": "www.economia.gob.cl",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "cdn.jsdelivr.net",
+    "code.jquery.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pro.fontawesome.com",
+    "region1.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "_ga_P36XZH9L41",
+      "value": "GS2.1.s1755281058$o1$g0$t1755281058$j60$l0$h0",
+      "domain": ".lab.gob.cl",
+      "path": "/",
+      "expires": 1818353058,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.73819222.1755281059",
+      "domain": ".lab.gob.cl",
+      "path": "/",
+      "expires": 1818353058,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.18594100.1755281059",
+      "domain": ".economia.gob.cl",
+      "path": "/",
+      "expires": 1818353059,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_5ZBRFMX008",
+      "value": "GS2.1.s1755281059$o1$g0$t1755281059$j60$l0$h0",
+      "domain": ".economia.gob.cl",
+      "path": "/",
+      "expires": 1818353059,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": false,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}

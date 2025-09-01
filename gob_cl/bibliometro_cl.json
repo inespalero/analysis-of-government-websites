@@ -1,0 +1,363 @@
+{
+  "domain": "bibliometro.cl",
+  "status": "OK",
+  "http_status": 200,
+  "third_party_domains": [
+    "ajax.googleapis.com",
+    "cdnjs.cloudflare.com",
+    "code.jquery.com",
+    "connect.facebook.net",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "googleads.g.doubleclick.net",
+    "i.ytimg.com",
+    "jnn-pa.googleapis.com",
+    "play.google.com",
+    "region1.google-analytics.com",
+    "static.doubleclick.net",
+    "use.fontawesome.com",
+    "www.bibliometro.cl",
+    "www.google-analytics.com",
+    "www.google.com",
+    "www.googletagmanager.com",
+    "www.gstatic.com",
+    "www.youtube.com",
+    "yt3.ggpht.com"
+  ],
+  "third_party_cookies": [
+    {
+      "name": "_ga_P36XZH9L41",
+      "value": "GS2.1.s1755281058$o1$g0$t1755281058$j60$l0$h0",
+      "domain": ".lab.gob.cl",
+      "path": "/",
+      "expires": 1818353058,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.73819222.1755281059",
+      "domain": ".lab.gob.cl",
+      "path": "/",
+      "expires": 1818353058,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1755281060609.878024931492403768",
+      "domain": ".lab.gob.cl",
+      "path": "/",
+      "expires": 1763057060,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "laravel_session",
+      "value": "eyJpdiI6IjZqcjZqSVJ5SlhSMnFIdlJvc0ZrdHc9PSIsInZhbHVlIjoiWnBCbFJHa3VLSkZ6clwvWTZWN3hGQ0lCMjBDQWJSTnp1WFpjK1YxbVhxc1pJM2FNSDNDN01zamFrSXlqTTVjRHhDR3FPeXNVbHpKNGxFTW5hV0ZnR1dnPT0iLCJtYWMiOiJlMzc2Yzk2YTBmMWI0NTRiZWU4YjBiNjNlNjE2NjNhNTRiMzJmOTY5YjkzOGMwYzBjMmMxZWI3MGJjMWJlOTkxIn0%3D",
+      "domain": "www.desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": 1755288260,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "BIGipServerPool_desarrollosocialyfamilia_https",
+      "value": "2601887936.47873.0000",
+      "domain": "www.desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TS01adb7c0",
+      "value": "016389be0c09a5a57bfdf3c424f171c451c103a49b1fd6e07de9e2518b67fe5ed353926157bad68bf7a3dc7ee7501882b9c166678a9abb43c71a40abab0a5e4b7f1745db34993b7b80927f6ec95ab6161fc0edf426",
+      "domain": ".www.desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_3547243",
+      "value": "eyJpZCI6IjZjYWFkZGVmLTM3ZWEtNWU3OS1iYTdiLWZiZjg0ZWE5ZDNmNiIsImNyZWF0ZWQiOjE3NTUyODEwNjY5MzYsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": 1786817066,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_3547243",
+      "value": "eyJpZCI6ImRlZTEyZmVjLWExYWEtNDU0Ny05OWRiLWNmOGVjYzg1MjVlYiIsImMiOjE3NTUyODEwNjY5MzksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": 1755282866,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.618312972.1755281066",
+      "domain": ".desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": 1818353068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.499583712.1755281069",
+      "domain": ".desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": 1755367468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_27104477_1",
+      "value": "1",
+      "domain": ".desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": 1755281128,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_QF5X81Z075",
+      "value": "GS2.1.s1755281065$o1$g0$t1755281070$j55$l0$h1235743524",
+      "domain": ".desarrollosocialyfamilia.gob.cl",
+      "path": "/",
+      "expires": 1818353070,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_SKNJH9T5QB",
+      "value": "GS2.1.s1755281075$o1$g0$t1755281075$j60$l0$h0",
+      "domain": ".museoarqueologicolaserena.gob.cl",
+      "path": "/",
+      "expires": 1818353075,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1181464737.1755281075",
+      "domain": ".museoarqueologicolaserena.gob.cl",
+      "path": "/",
+      "expires": 1818353075,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.456221341.1755281076",
+      "domain": ".museoarqueologicolaserena.gob.cl",
+      "path": "/",
+      "expires": 1755367475,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat_gtag_UA_17444180_28",
+      "value": "1",
+      "domain": ".museoarqueologicolaserena.gob.cl",
+      "path": "/",
+      "expires": 1755281135,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_Y0L5D8MJJW",
+      "value": "GS2.1.s1755281065$o1$g0$t1755281065$j60$l0$h262438674",
+      "domain": ".minrel.gob.cl",
+      "path": "/",
+      "expires": 1818353065,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.263030823.1755281066",
+      "domain": ".minrel.gob.cl",
+      "path": "/",
+      "expires": 1818353065,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "y82vhYh9CuXzfrLBAh1dDNWBGTQZtie2Hsry4PiiYnQ-1755281067-1.0.1.1-aQ.dMtLsR2xmXgp1lMuxnfJA5rzFYbiaKtsA8uPo6glAL2plBD27uMQ.IXDSQPcBBdm7DhcbRc77hES0wsYHp1HSHcjaRD4NtwiHuXVm4fQ",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1755282867,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "ee7b0bffe6ddfb12f2785ad41635",
+      "domain": "escueladegendarmeria.gob.cl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_WCW21YBLQL-1",
+      "value": "GS2.1.s1755281081$o1$g0$t1755281081$j60$l0$h0",
+      "domain": ".escueladegendarmeria.gob.cl",
+      "path": "/",
+      "expires": 1818353081,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1850751516.1755281081",
+      "domain": ".escueladegendarmeria.gob.cl",
+      "path": "/",
+      "expires": 1818353081,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "525=FONHIDa6jXaO6MwikDNGqttvYe5NcZ6QpztMOk_uGV9sQL4Ttg8XQ-19AgCl0cLSCxzXZYLclakWgCxdeToqHgEwoiMWxaqpfRd3X7BtrE6-iFDJIu-pcRWqOF85q4HwCQcQiqNTmo9qEdj4p_FotOutD34CkluY6D718kSK35wIv2gSx6pNkJONo4SF7nQns2WObWgY-1sDwM5yMLm5a_uIq_s",
+      "domain": ".translate-pa.googleapis.com",
+      "path": "/",
+      "expires": 1771092267,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "YSC",
+      "value": "mI6YVvzX7i4",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CL6xwsOmtNevJhDv_6jDs42PAxjbw67Hs42PAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770833074,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "3odWi8-4duI",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770833080,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJFUxIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBo",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1770833080,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.18594100.1755281059",
+      "domain": ".economia.gob.cl",
+      "path": "/",
+      "expires": 1818353059,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_5ZBRFMX008",
+      "value": "GS2.1.s1755281059$o1$g0$t1755281060$j59$l0$h0",
+      "domain": ".economia.gob.cl",
+      "path": "/",
+      "expires": 1818353060,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_GM07K9DZBD",
+      "value": "GS2.1.s1755281062$o1$g0$t1755281062$j60$l0$h221138302",
+      "domain": ".monumentos.gob.cl",
+      "path": "/",
+      "expires": 1818353062,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1093905245.1755281063",
+      "domain": ".monumentos.gob.cl",
+      "path": "/",
+      "expires": 1818353062,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_LM6LNHPBC6",
+      "value": "GS2.1.s1755281063$o1$g0$t1755281063$j60$l0$h0",
+      "domain": ".mop.gob.cl",
+      "path": "/",
+      "expires": 1818353063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1552684624.1755281063",
+      "domain": ".mop.gob.cl",
+      "path": "/",
+      "expires": 1818353063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "canvas": true,
+  "audioCtx": false,
+  "rtc": false,
+  "storage": true
+}
