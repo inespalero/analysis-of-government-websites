@@ -1,0 +1,30 @@
+# Core dependencies
+python>=3.12.8
+pandas>=2.2.3
+numpy>=2.3.1
+requests>=2.32.4
+beautifulsoup4>=4.12.3
+lxml>=5.4.0
+
+# Web crawling
+openwpm==0.31.0
+selenium>=4.27.1
+playwright>=1.44.0
+
+# Security scanning  
+sslyze>=6.1.0
+cryptography>=44.0.3
+
+# Data processing
+tldextract>=2.2.2
+publicsuffix2>=2.20191221
+
+# Visualization
+matplotlib>=3.10.5
+
+# LLM interaction
+google-generativeai>=0.8.5
+pydantic>=2.11.7
+
+# Utilities
+tqdm>=4.67.1
