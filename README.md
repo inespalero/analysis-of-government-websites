@@ -5,6 +5,7 @@ This repository contains the code and data for the paper "Analysis of Government
 Analysis of 215 government websites across 7 countries revealing compliance failures and tracking practices.
 
 ## Repository Structure
+```
 ├── data/              # Aggregated metrics and processed datasets by country
 │   ├── chile/
 │   ├── mexico/
@@ -16,6 +17,7 @@ Analysis of 215 government websites across 7 countries revealing compliance fail
 ├── code/              # Python scripts for data collection and analysis
 ├── notebooks/         # Jupyter notebooks for analysis and visualization
 └── figures/           # Generated figures used in the paper
+```
 
 ## Dataset Description
 ### Countries Analyzed
@@ -144,6 +146,7 @@ For questions or raw data requests: 100538264@alumnos.uc3m.es (Inés Palero San 
 ## Citation
 If you use this dataset in your research, please cite:
 
+```bibtex
 @mastersthesis{palero2025government,
   title={Analysis of Government-Sponsored Technology (Mis)use},
   author={Palero San Román, Inés},
@@ -151,3 +154,4 @@ If you use this dataset in your research, please cite:
   school={Universidad Carlos III de Madrid},
   type={Master's Thesis}
 }
+```
