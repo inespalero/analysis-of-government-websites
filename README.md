@@ -6,13 +6,13 @@ Analysis of 215 government websites across 7 countries revealing compliance fail
 
 ## Repository Structure
 ├── data/              # Aggregated metrics and processed datasets by country
-│   ├── chile/         
+│   ├── chile/
 │   ├── mexico/
 │   ├── spain/
 │   ├── australia/
 │   ├── india/
-│   ├── united-kingdom/       
-│   └── south-africa/           
+│   ├── united-kingdom/
+│   └── south-africa/
 ├── code/              # Python scripts for data collection and analysis
 ├── notebooks/         # Jupyter notebooks for analysis and visualization
 └── figures/           # Generated figures used in the paper
